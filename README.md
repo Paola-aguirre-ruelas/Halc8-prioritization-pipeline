@@ -1,6 +1,10 @@
-# HalC8 Detection Pipeline v2.2
+# HalC8-Prioritizer v2.2
 
-Public software-only release of the HalC8 v2.2 domain-scoring script.
+First public release of HalC8-Prioritizer, implementing the frozen HalC8 v2.2 domain-scoring rules and including the corresponding custom profile HMM.
+
+## Versioning
+
+Version 2.2 is the first public release of HalC8-Prioritizer. The v2.2 identifier follows internal workflow-development numbering; earlier workflow iterations, including v1.x and v2.1, were not publicly released or separately registered. The bundled standalone scoring script retains its own component implementation identifier (`halc8_score_domains_v1.0`), which should not be interpreted as a separate public release of the complete workflow.
 
 ## Contents
 
