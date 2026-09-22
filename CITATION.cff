@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: "HalC8 Detection Pipeline v2.2"
+title: "HalC8-Prioritizer"
 message: "If you use this software, please cite this repository."
 type: software
 authors:
@@ -7,8 +7,8 @@ authors:
     family-names: Aguirre
   - given-names: Rosa M.
     family-names: Martínez-Espinosa
-repository-code: "https://github.com/koalaresearch/Halocin-pipeline"
-url: "https://github.com/koalaresearch/Halocin-pipeline"
+repository-code: "https://github.com/koalaresearch/Halc8-prioritization-pipeline"
+url: "https://github.com/koalaresearch/Halc8-prioritization-pipeline"
 license: MIT
 version: "2.2"
 keywords:
