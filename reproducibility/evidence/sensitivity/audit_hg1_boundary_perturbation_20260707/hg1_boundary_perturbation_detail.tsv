@@ -1,0 +1,199 @@
+accession	group	delta	baseline_start	perturbed_start	end_fixed	perturbed_len	baseline_hg1_pass	perturbed_hg1_pass	flipped	z1_mean	z1_neg	verdict_v2
+WP_004043226.1	fully_assessable_score_positive	-5	229	224	305	82	True	False	True	0.724959	7	PROBABLE
+WP_004043226.1	fully_assessable_score_positive	-4	229	225	305	81	True	False	True	0.866857	5	PROBABLE
+WP_004043226.1	fully_assessable_score_positive	-3	229	226	305	80	True	False	True	0.856753	6	PROBABLE
+WP_004043226.1	fully_assessable_score_positive	-2	229	227	305	79	True	False	True	0.837306	6	PROBABLE
+WP_004043226.1	fully_assessable_score_positive	-1	229	228	305	78	True	False	True	1.003216	5	PROBABLE
+WP_004043226.1	fully_assessable_score_positive	0	229	229	305	77	True	True	False	1.125954	2	PROBABLE
+WP_004043226.1	fully_assessable_score_positive	1	229	230	305	76	True	True	False	1.27881	0	PROBABLE
+WP_004043226.1	fully_assessable_score_positive	2	229	231	305	75	True	True	False	1.262483	1	PROBABLE
+WP_004043226.1	fully_assessable_score_positive	3	229	232	305	74	True	True	False	1.414378	0	PROBABLE
+WP_004043226.1	fully_assessable_score_positive	4	229	233	305	73	True	True	False	1.381566	0	PROBABLE
+WP_004043226.1	fully_assessable_score_positive	5	229	234	305	72	True	True	False	1.527538	0	PROBABLE
+WP_004975848.1	fully_assessable_score_positive	-5	230	225	306	82	True	False	True	0.734959	7	PROBABLE
+WP_004975848.1	fully_assessable_score_positive	-4	230	226	306	81	True	False	True	0.876996	5	PROBABLE
+WP_004975848.1	fully_assessable_score_positive	-3	230	227	306	80	True	False	True	0.867209	6	PROBABLE
+WP_004975848.1	fully_assessable_score_positive	-2	230	228	306	79	True	False	True	0.848317	6	PROBABLE
+WP_004975848.1	fully_assessable_score_positive	-1	230	229	306	78	True	False	True	1.015116	5	PROBABLE
+WP_004975848.1	fully_assessable_score_positive	0	230	230	306	77	True	True	False	1.136743	2	PROBABLE
+WP_004975848.1	fully_assessable_score_positive	1	230	231	306	76	True	True	False	1.288488	0	PROBABLE
+WP_004975848.1	fully_assessable_score_positive	2	230	232	306	75	True	True	False	1.27105	0	PROBABLE
+WP_004975848.1	fully_assessable_score_positive	3	230	233	306	74	True	True	False	1.421835	0	PROBABLE
+WP_004975848.1	fully_assessable_score_positive	4	230	234	306	73	True	True	False	1.381566	0	PROBABLE
+WP_004975848.1	fully_assessable_score_positive	5	230	235	306	72	True	True	False	1.527538	0	PROBABLE
+WP_006600928.1	fully_assessable_score_positive	-5	230	225	306	82	True	False	True	0.724959	7	PROBABLE
+WP_006600928.1	fully_assessable_score_positive	-4	230	226	306	81	True	False	True	0.866857	5	PROBABLE
+WP_006600928.1	fully_assessable_score_positive	-3	230	227	306	80	True	False	True	0.856753	6	PROBABLE
+WP_006600928.1	fully_assessable_score_positive	-2	230	228	306	79	True	False	True	0.837306	6	PROBABLE
+WP_006600928.1	fully_assessable_score_positive	-1	230	229	306	78	True	False	True	1.003216	5	PROBABLE
+WP_006600928.1	fully_assessable_score_positive	0	230	230	306	77	True	True	False	1.125954	2	PROBABLE
+WP_006600928.1	fully_assessable_score_positive	1	230	231	306	76	True	True	False	1.27881	0	PROBABLE
+WP_006600928.1	fully_assessable_score_positive	2	230	232	306	75	True	True	False	1.262483	1	PROBABLE
+WP_006600928.1	fully_assessable_score_positive	3	230	233	306	74	True	True	False	1.414378	0	PROBABLE
+WP_006600928.1	fully_assessable_score_positive	4	230	234	306	73	True	True	False	1.381566	0	PROBABLE
+WP_006600928.1	fully_assessable_score_positive	5	230	235	306	72	True	True	False	1.527538	0	PROBABLE
+WP_010904171.1	boundary_record	-5	204	199	253	55	True	True	False	0.408147	2	PROBABLE
+WP_010904171.1	boundary_record	-4	204	200	253	54	True	True	False	0.539108	0	PROBABLE
+WP_010904171.1	boundary_record	-3	204	201	253	53	True	True	False	0.669343	0	PROBABLE
+WP_010904171.1	boundary_record	-2	204	202	253	52	True	True	False	0.621271	0	PROBABLE
+WP_010904171.1	boundary_record	-1	204	203	253	51	True	True	False	0.737275	0	PROBABLE
+WP_010904171.1	boundary_record	0	204	204	253	50	True	True	False	0.845282	0	PROBABLE
+WP_010904171.1	boundary_record	1	204	205	253	49	True	True	False	0.80138	0	PROBABLE
+WP_010904171.1	boundary_record	2	204	206	253	48	True	True	False	0.788407	0	PROBABLE
+WP_010904171.1	boundary_record	3	204	207	253	47	True	True	False	0.932108	0	PROBABLE
+WP_010904171.1	boundary_record	4	204	208	253	46	True	True	False	0.900619	0	PROBABLE
+WP_010904171.1	boundary_record	5	204	209	253	45	True	True	False	0.991627	0	PROBABLE
+WP_015299281.1	fully_assessable_score_positive	-5	219	214	294	81	True	True	False	0.617153	0	MOST LIKELY
+WP_015299281.1	fully_assessable_score_positive	-4	219	215	294	80	True	True	False	0.660706	0	MOST LIKELY
+WP_015299281.1	fully_assessable_score_positive	-3	219	216	294	79	True	True	False	0.726114	0	MOST LIKELY
+WP_015299281.1	fully_assessable_score_positive	-2	219	217	294	78	True	True	False	0.665984	1	MOST LIKELY
+WP_015299281.1	fully_assessable_score_positive	-1	219	218	294	77	True	True	False	0.76082	0	MOST LIKELY
+WP_015299281.1	fully_assessable_score_positive	0	219	219	294	76	True	True	False	0.824947	0	MOST LIKELY
+WP_015299281.1	fully_assessable_score_positive	1	219	220	294	75	True	True	False	0.968808	0	MOST LIKELY
+WP_015299281.1	fully_assessable_score_positive	2	219	221	294	74	True	True	False	0.934284	0	MOST LIKELY
+WP_015299281.1	fully_assessable_score_positive	3	219	222	294	73	True	True	False	1.071374	0	MOST LIKELY
+WP_015299281.1	fully_assessable_score_positive	4	219	223	294	72	True	True	False	1.037127	0	MOST LIKELY
+WP_015299281.1	fully_assessable_score_positive	5	219	224	294	71	True	True	False	1.120676	0	MOST LIKELY
+WP_115805229.1	fully_assessable_score_positive	-5	230	225	306	82	True	False	True	0.734959	7	PROBABLE
+WP_115805229.1	fully_assessable_score_positive	-4	230	226	306	81	True	False	True	0.876996	5	PROBABLE
+WP_115805229.1	fully_assessable_score_positive	-3	230	227	306	80	True	False	True	0.867209	6	PROBABLE
+WP_115805229.1	fully_assessable_score_positive	-2	230	228	306	79	True	False	True	0.848317	6	PROBABLE
+WP_115805229.1	fully_assessable_score_positive	-1	230	229	306	78	True	False	True	1.015116	5	PROBABLE
+WP_115805229.1	fully_assessable_score_positive	0	230	230	306	77	True	True	False	1.136743	2	PROBABLE
+WP_115805229.1	fully_assessable_score_positive	1	230	231	306	76	True	True	False	1.288488	0	PROBABLE
+WP_115805229.1	fully_assessable_score_positive	2	230	232	306	75	True	True	False	1.27105	0	PROBABLE
+WP_115805229.1	fully_assessable_score_positive	3	230	233	306	74	True	True	False	1.421835	0	PROBABLE
+WP_115805229.1	fully_assessable_score_positive	4	230	234	306	73	True	True	False	1.381566	0	PROBABLE
+WP_115805229.1	fully_assessable_score_positive	5	230	235	306	72	True	True	False	1.527538	0	PROBABLE
+WP_136361253.1	fully_assessable_score_positive	-5	161	156	238	83	True	False	True	0.320693	8	MOST LIKELY
+WP_136361253.1	fully_assessable_score_positive	-4	161	157	238	82	True	False	True	0.435368	7	MOST LIKELY
+WP_136361253.1	fully_assessable_score_positive	-3	161	158	238	81	True	True	False	0.60047	3	MOST LIKELY
+WP_136361253.1	fully_assessable_score_positive	-2	161	159	238	80	True	False	True	0.588694	6	MOST LIKELY
+WP_136361253.1	fully_assessable_score_positive	-1	161	160	238	79	True	False	True	0.740899	4	MOST LIKELY
+WP_136361253.1	fully_assessable_score_positive	0	161	161	238	78	True	True	False	0.886175	0	MOST LIKELY
+WP_136361253.1	fully_assessable_score_positive	1	161	162	238	77	True	True	False	1.007906	0	MOST LIKELY
+WP_136361253.1	fully_assessable_score_positive	2	161	163	238	76	True	True	False	0.964378	0	MOST LIKELY
+WP_136361253.1	fully_assessable_score_positive	3	161	164	238	75	True	True	False	1.069339	0	MOST LIKELY
+WP_136361253.1	fully_assessable_score_positive	4	161	165	238	74	True	True	False	1.02387	1	MOST LIKELY
+WP_136361253.1	fully_assessable_score_positive	5	161	166	238	73	True	True	False	1.095884	0	MOST LIKELY
+WP_166035560.1	other_not_prioritized	-5	181	176	257	82	False	False	False	0.323923	6	EXCLUDED
+WP_166035560.1	other_not_prioritized	-4	181	177	257	81	False	False	False	0.273685	6	EXCLUDED
+WP_166035560.1	other_not_prioritized	-3	181	178	257	80	False	False	False	0.381463	6	EXCLUDED
+WP_166035560.1	other_not_prioritized	-2	181	179	257	79	False	False	False	0.31421	7	EXCLUDED
+WP_166035560.1	other_not_prioritized	-1	181	180	257	78	False	False	False	0.409616	6	EXCLUDED
+WP_166035560.1	other_not_prioritized	0	181	181	257	77	False	False	False	0.505734	6	EXCLUDED
+WP_166035560.1	other_not_prioritized	1	181	182	257	76	False	False	False	0.463508	8	EXCLUDED
+WP_166035560.1	other_not_prioritized	2	181	183	257	75	False	False	False	0.455042	10	EXCLUDED
+WP_166035560.1	other_not_prioritized	3	181	184	257	74	False	False	False	0.622944	7	EXCLUDED
+WP_166035560.1	other_not_prioritized	4	181	185	257	73	False	False	False	0.624634	8	EXCLUDED
+WP_166035560.1	other_not_prioritized	5	181	186	257	72	False	False	False	0.817828	7	EXCLUDED
+WP_204749171.1	fully_assessable_score_positive	-5	173	168	248	81	True	True	False	0.686415	0	MOST LIKELY
+WP_204749171.1	fully_assessable_score_positive	-4	173	169	248	80	True	True	False	0.67714	0	MOST LIKELY
+WP_204749171.1	fully_assessable_score_positive	-3	173	170	248	79	True	True	False	0.640761	1	MOST LIKELY
+WP_204749171.1	fully_assessable_score_positive	-2	173	171	248	78	True	True	False	0.705566	1	MOST LIKELY
+WP_204749171.1	fully_assessable_score_positive	-1	173	172	248	77	True	True	False	0.822348	0	MOST LIKELY
+WP_204749171.1	fully_assessable_score_positive	0	173	173	248	76	True	True	False	0.824848	0	MOST LIKELY
+WP_204749171.1	fully_assessable_score_positive	1	173	174	248	75	True	True	False	0.970381	0	MOST LIKELY
+WP_204749171.1	fully_assessable_score_positive	2	173	175	248	74	True	True	False	0.942339	0	MOST LIKELY
+WP_204749171.1	fully_assessable_score_positive	3	173	176	248	73	True	True	False	1.090206	0	MOST LIKELY
+WP_204749171.1	fully_assessable_score_positive	4	173	177	248	72	True	True	False	1.04629	0	MOST LIKELY
+WP_204749171.1	fully_assessable_score_positive	5	173	178	248	71	True	True	False	1.115923	0	MOST LIKELY
+WP_211338378.1	fully_assessable_score_positive	-5	173	168	248	81	True	True	False	0.686415	0	MOST LIKELY
+WP_211338378.1	fully_assessable_score_positive	-4	173	169	248	80	True	True	False	0.67714	0	MOST LIKELY
+WP_211338378.1	fully_assessable_score_positive	-3	173	170	248	79	True	True	False	0.640761	1	MOST LIKELY
+WP_211338378.1	fully_assessable_score_positive	-2	173	171	248	78	True	True	False	0.705566	1	MOST LIKELY
+WP_211338378.1	fully_assessable_score_positive	-1	173	172	248	77	True	True	False	0.822348	0	MOST LIKELY
+WP_211338378.1	fully_assessable_score_positive	0	173	173	248	76	True	True	False	0.824848	0	MOST LIKELY
+WP_211338378.1	fully_assessable_score_positive	1	173	174	248	75	True	True	False	0.970381	0	MOST LIKELY
+WP_211338378.1	fully_assessable_score_positive	2	173	175	248	74	True	True	False	0.942339	0	MOST LIKELY
+WP_211338378.1	fully_assessable_score_positive	3	173	176	248	73	True	True	False	1.090206	0	MOST LIKELY
+WP_211338378.1	fully_assessable_score_positive	4	173	177	248	72	True	True	False	1.04629	0	MOST LIKELY
+WP_211338378.1	fully_assessable_score_positive	5	173	178	248	71	True	True	False	1.115923	0	MOST LIKELY
+WP_228371019.1	fully_assessable_score_positive	-5	41	36	114	79	True	True	False	0.627884	1	MOST LIKELY
+WP_228371019.1	fully_assessable_score_positive	-4	41	37	114	78	True	True	False	0.697134	1	MOST LIKELY
+WP_228371019.1	fully_assessable_score_positive	-3	41	38	114	77	True	True	False	0.818931	0	MOST LIKELY
+WP_228371019.1	fully_assessable_score_positive	-2	41	39	114	76	True	True	False	0.827218	0	MOST LIKELY
+WP_228371019.1	fully_assessable_score_positive	-1	41	40	114	75	True	True	False	0.982138	0	MOST LIKELY
+WP_228371019.1	fully_assessable_score_positive	0	41	41	114	74	True	True	False	0.965021	0	MOST LIKELY
+WP_228371019.1	fully_assessable_score_positive	1	41	42	114	73	True	True	False	1.129519	0	MOST LIKELY
+WP_228371019.1	fully_assessable_score_positive	2	41	43	114	72	True	True	False	1.060315	0	MOST LIKELY
+WP_228371019.1	fully_assessable_score_positive	3	41	44	114	71	True	True	False	1.1118	0	MOST LIKELY
+WP_228371019.1	fully_assessable_score_positive	4	41	45	114	70	True	True	False	1.142369	0	MOST LIKELY
+WP_228371019.1	fully_assessable_score_positive	5	41	46	114	69	True	True	False	1.121434	0	MOST LIKELY
+WP_238705315.1	fully_assessable_score_positive	-5	208	203	283	81	True	False	True	0.421604	4	MOST LIKELY
+WP_238705315.1	fully_assessable_score_positive	-4	208	204	283	80	True	False	True	0.443209	5	MOST LIKELY
+WP_238705315.1	fully_assessable_score_positive	-3	208	205	283	79	True	True	False	0.560562	2	MOST LIKELY
+WP_238705315.1	fully_assessable_score_positive	-2	208	206	283	78	True	True	False	0.639071	1	MOST LIKELY
+WP_238705315.1	fully_assessable_score_positive	-1	208	207	283	77	True	True	False	0.770128	0	MOST LIKELY
+WP_238705315.1	fully_assessable_score_positive	0	208	208	283	76	True	True	False	0.838098	0	MOST LIKELY
+WP_238705315.1	fully_assessable_score_positive	1	208	209	283	75	True	True	False	0.987409	0	MOST LIKELY
+WP_238705315.1	fully_assessable_score_positive	2	208	210	283	74	True	True	False	0.960478	0	MOST LIKELY
+WP_238705315.1	fully_assessable_score_positive	3	208	211	283	73	True	True	False	1.109271	0	MOST LIKELY
+WP_238705315.1	fully_assessable_score_positive	4	208	212	283	72	True	True	False	1.059697	0	MOST LIKELY
+WP_238705315.1	fully_assessable_score_positive	5	208	213	283	71	True	True	False	1.130812	0	MOST LIKELY
+WP_242509208.1	fully_assessable_score_positive	-5	208	203	283	81	True	True	False	0.520778	2	MOST LIKELY
+WP_242509208.1	fully_assessable_score_positive	-4	208	204	283	80	True	True	False	0.533123	2	MOST LIKELY
+WP_242509208.1	fully_assessable_score_positive	-3	208	205	283	79	True	True	False	0.641217	1	MOST LIKELY
+WP_242509208.1	fully_assessable_score_positive	-2	208	206	283	78	True	True	False	0.710467	1	MOST LIKELY
+WP_242509208.1	fully_assessable_score_positive	-1	208	207	283	77	True	True	False	0.832265	0	MOST LIKELY
+WP_242509208.1	fully_assessable_score_positive	0	208	208	283	76	True	True	False	0.838098	0	MOST LIKELY
+WP_242509208.1	fully_assessable_score_positive	1	208	209	283	75	True	True	False	0.987409	0	MOST LIKELY
+WP_242509208.1	fully_assessable_score_positive	2	208	210	283	74	True	True	False	0.960478	0	MOST LIKELY
+WP_242509208.1	fully_assessable_score_positive	3	208	211	283	73	True	True	False	1.109271	0	MOST LIKELY
+WP_242509208.1	fully_assessable_score_positive	4	208	212	283	72	True	True	False	1.059697	0	MOST LIKELY
+WP_242509208.1	fully_assessable_score_positive	5	208	213	283	71	True	True	False	1.130812	0	MOST LIKELY
+WP_253478286.1	other_not_prioritized	-5	197	192	273	82	False	False	False	-0.033261	11	EXCLUDED
+WP_253478286.1	other_not_prioritized	-4	197	193	273	81	False	False	False	0.057925	9	EXCLUDED
+WP_253478286.1	other_not_prioritized	-3	197	194	273	80	False	False	False	0.207418	6	EXCLUDED
+WP_253478286.1	other_not_prioritized	-2	197	195	273	79	False	False	False	0.193599	8	EXCLUDED
+WP_253478286.1	other_not_prioritized	-1	197	196	273	78	False	False	False	0.327963	6	EXCLUDED
+WP_253478286.1	other_not_prioritized	0	197	197	273	77	False	False	False	0.448747	5	EXCLUDED
+WP_253478286.1	other_not_prioritized	1	197	198	273	76	False	False	False	0.532286	5	EXCLUDED
+WP_253478286.1	other_not_prioritized	2	197	199	273	75	False	False	False	0.50561	5	EXCLUDED
+WP_253478286.1	other_not_prioritized	3	197	200	273	74	False	False	False	0.635607	5	EXCLUDED
+WP_253478286.1	other_not_prioritized	4	197	201	273	73	False	False	False	0.598007	5	EXCLUDED
+WP_253478286.1	other_not_prioritized	5	197	202	273	72	False	False	False	0.683142	5	EXCLUDED
+WP_255409965.1	fully_assessable_score_positive	-5	95	90	171	82	True	False	True	0.724959	7	PROBABLE
+WP_255409965.1	fully_assessable_score_positive	-4	95	91	171	81	True	False	True	0.866857	5	PROBABLE
+WP_255409965.1	fully_assessable_score_positive	-3	95	92	171	80	True	False	True	0.856753	6	PROBABLE
+WP_255409965.1	fully_assessable_score_positive	-2	95	93	171	79	True	False	True	0.837306	6	PROBABLE
+WP_255409965.1	fully_assessable_score_positive	-1	95	94	171	78	True	False	True	1.003216	5	PROBABLE
+WP_255409965.1	fully_assessable_score_positive	0	95	95	171	77	True	True	False	1.125954	2	PROBABLE
+WP_255409965.1	fully_assessable_score_positive	1	95	96	171	76	True	True	False	1.27881	0	PROBABLE
+WP_255409965.1	fully_assessable_score_positive	2	95	97	171	75	True	True	False	1.262483	1	PROBABLE
+WP_255409965.1	fully_assessable_score_positive	3	95	98	171	74	True	True	False	1.414378	0	PROBABLE
+WP_255409965.1	fully_assessable_score_positive	4	95	99	171	73	True	True	False	1.381566	0	PROBABLE
+WP_255409965.1	fully_assessable_score_positive	5	95	100	171	72	True	True	False	1.527538	0	PROBABLE
+WP_276279820.1	other_not_prioritized	-5	183	178	259	82	False	False	False	-0.013261	11	EXCLUDED
+WP_276279820.1	other_not_prioritized	-4	183	179	259	81	False	False	False	0.077925	9	EXCLUDED
+WP_276279820.1	other_not_prioritized	-3	183	180	259	80	False	False	False	0.227418	6	EXCLUDED
+WP_276279820.1	other_not_prioritized	-2	183	181	259	79	False	False	False	0.213599	8	EXCLUDED
+WP_276279820.1	other_not_prioritized	-1	183	182	259	78	False	False	False	0.347963	6	EXCLUDED
+WP_276279820.1	other_not_prioritized	0	183	183	259	77	False	False	False	0.468747	5	EXCLUDED
+WP_276279820.1	other_not_prioritized	1	183	184	259	76	False	False	False	0.552286	5	EXCLUDED
+WP_276279820.1	other_not_prioritized	2	183	185	259	75	False	False	False	0.52561	5	EXCLUDED
+WP_276279820.1	other_not_prioritized	3	183	186	259	74	False	False	False	0.655607	5	EXCLUDED
+WP_276279820.1	other_not_prioritized	4	183	187	259	73	False	False	False	0.618007	5	EXCLUDED
+WP_276279820.1	other_not_prioritized	5	183	188	259	72	False	False	False	0.703142	5	EXCLUDED
+WP_276302450.1	other_not_prioritized	-5	564	559	635	77	True	False	True	0.247481	7	MARGINAL
+WP_276302450.1	other_not_prioritized	-4	564	560	635	76	True	False	True	0.360029	5	MARGINAL
+WP_276302450.1	other_not_prioritized	-3	564	561	635	75	True	True	False	0.464399	1	MARGINAL
+WP_276302450.1	other_not_prioritized	-2	564	562	635	74	True	False	True	0.413138	4	MARGINAL
+WP_276302450.1	other_not_prioritized	-1	564	563	635	73	True	False	True	0.420229	5	MARGINAL
+WP_276302450.1	other_not_prioritized	0	564	564	635	72	True	True	False	0.506532	2	MARGINAL
+WP_276302450.1	other_not_prioritized	1	564	565	635	71	True	True	False	0.576644	1	MARGINAL
+WP_276302450.1	other_not_prioritized	2	564	566	635	70	True	True	False	0.645204	0	MARGINAL
+WP_276302450.1	other_not_prioritized	3	564	567	635	69	True	True	False	0.719734	0	MARGINAL
+WP_276302450.1	other_not_prioritized	4	564	568	635	68	True	True	False	0.666194	0	MARGINAL
+WP_276302450.1	other_not_prioritized	5	564	569	635	67	True	True	False	0.774442	0	MARGINAL
+WP_425499747.1	other_not_prioritized	-5	78	73	150	78	False	False	False	0.091694	12	EXCLUDED
+WP_425499747.1	other_not_prioritized	-4	78	74	150	77	False	False	False	0.209636	10	EXCLUDED
+WP_425499747.1	other_not_prioritized	-3	78	75	150	76	False	False	False	0.26081	10	EXCLUDED
+WP_425499747.1	other_not_prioritized	-2	78	76	150	75	False	False	False	0.233319	9	EXCLUDED
+WP_425499747.1	other_not_prioritized	-1	78	77	150	74	False	False	False	0.32836	8	EXCLUDED
+WP_425499747.1	other_not_prioritized	0	78	78	150	73	False	False	False	0.498029	7	EXCLUDED
+WP_425499747.1	other_not_prioritized	1	78	79	150	72	False	False	False	0.601741	6	EXCLUDED
+WP_425499747.1	other_not_prioritized	2	78	80	150	71	False	False	False	0.728802	5	EXCLUDED
+WP_425499747.1	other_not_prioritized	3	78	81	150	70	False	False	False	0.92761	4	EXCLUDED
+WP_425499747.1	other_not_prioritized	4	78	82	150	69	False	True	True	1.088889	1	EXCLUDED
+WP_425499747.1	other_not_prioritized	5	78	83	150	68	False	True	True	1.249984	0	EXCLUDED

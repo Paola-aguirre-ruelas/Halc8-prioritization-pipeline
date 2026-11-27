@@ -1,0 +1,14 @@
+#                                                                                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                                                                accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                                                        ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+GCF_000025625.1|WP_148221922.1|len40_120|0667|Natrialba_magadii|len66|cys4|PROBABLE|score5.5 -             66 HalC8_v2.2           -             76   9.4e-06   14.2   2.6   1   1   3.5e-06   1.4e-05   13.6   2.6    23    76     6    58     4    60 0.82 -
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      HalC8_custom_v2.2.hmm
+# Target file:     audit_S7_canonical_20260614/rerun_genome_pilot/hmm_check_leakage/genome_pilot_4_PROBABLE_leakage_events.faa
+# Option settings: hmmsearch --tblout audit_S7_canonical_20260614/rerun_genome_pilot/hmm_check_leakage/leakage4_vs_HalC8.tbl --domtblout audit_S7_canonical_20260614/rerun_genome_pilot/hmm_check_leakage/leakage4_vs_HalC8.domtbl --noali HalC8_custom_v2.2.hmm audit_S7_canonical_20260614/rerun_genome_pilot/hmm_check_leakage/genome_pilot_4_PROBABLE_leakage_events.faa 
+# Current dir:     <historical_project_root>
+# Date:            Mon Jun 15 00:39:08 2026
+# [ok]

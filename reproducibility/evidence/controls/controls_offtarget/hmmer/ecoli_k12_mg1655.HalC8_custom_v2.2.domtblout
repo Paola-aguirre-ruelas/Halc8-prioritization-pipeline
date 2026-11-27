@@ -1,0 +1,13 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      ./hmm/HalC8_custom_v2.2.hmm
+# Target file:     controls_offtarget/downloads/ecoli_k12_mg1655.faa
+# Option settings: hmmsearch --domtblout controls_offtarget/hmmer/ecoli_k12_mg1655.HalC8_custom_v2.2.domtblout ./hmm/HalC8_custom_v2.2.hmm controls_offtarget/downloads/ecoli_k12_mg1655.faa 
+# Current dir:     <historical_project_root>
+# Date:            Wed Jun 24 14:24:22 2026
+# [ok]

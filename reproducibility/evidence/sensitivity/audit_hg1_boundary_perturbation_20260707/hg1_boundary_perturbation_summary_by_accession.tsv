@@ -1,0 +1,19 @@
+accession	group	verdict_v2	baseline_start	end_fixed	protein_length	upstream_available	baseline_hg1_pass	baseline_z1_mean	baseline_z1_neg	valid_deltas	hg1_pass_count_across_valid_deltas	hg1_flip_count_across_valid_deltas	hg1_stable_across_valid_deltas	min_z1_mean	max_z1_mean	min_z1_neg	max_z1_neg
+WP_004043226.1	fully_assessable_score_positive	PROBABLE	229	305	305	228	True	1.125954	2	11	6	5	False	0.724959	1.527538	0	7
+WP_004975848.1	fully_assessable_score_positive	PROBABLE	230	306	306	229	True	1.136743	2	11	6	5	False	0.734959	1.527538	0	7
+WP_006600928.1	fully_assessable_score_positive	PROBABLE	230	306	306	229	True	1.125954	2	11	6	5	False	0.724959	1.527538	0	7
+WP_010904171.1	boundary_record	PROBABLE	204	253	253	203	True	0.845282	0	11	11	0	True	0.408147	0.991627	0	2
+WP_015299281.1	fully_assessable_score_positive	MOST LIKELY	219	294	294	218	True	0.824947	0	11	11	0	True	0.617153	1.120676	0	1
+WP_115805229.1	fully_assessable_score_positive	PROBABLE	230	306	306	229	True	1.136743	2	11	6	5	False	0.734959	1.527538	0	7
+WP_136361253.1	fully_assessable_score_positive	MOST LIKELY	161	238	254	160	True	0.886175	0	11	7	4	False	0.320693	1.095884	0	8
+WP_166035560.1	other_not_prioritized	EXCLUDED	181	257	274	180	False	0.505734	6	11	0	0	True	0.273685	0.817828	6	10
+WP_204749171.1	fully_assessable_score_positive	MOST LIKELY	173	248	248	172	True	0.824848	0	11	11	0	True	0.640761	1.115923	0	1
+WP_211338378.1	fully_assessable_score_positive	MOST LIKELY	173	248	248	172	True	0.824848	0	11	11	0	True	0.640761	1.115923	0	1
+WP_228371019.1	fully_assessable_score_positive	MOST LIKELY	41	114	114	40	True	0.965021	0	11	11	0	True	0.627884	1.142369	0	1
+WP_238705315.1	fully_assessable_score_positive	MOST LIKELY	208	283	283	207	True	0.838098	0	11	9	2	False	0.421604	1.130812	0	5
+WP_242509208.1	fully_assessable_score_positive	MOST LIKELY	208	283	283	207	True	0.838098	0	11	11	0	True	0.520778	1.130812	0	2
+WP_253478286.1	other_not_prioritized	EXCLUDED	197	273	289	196	False	0.448747	5	11	0	0	True	-0.033261	0.683142	5	11
+WP_255409965.1	fully_assessable_score_positive	PROBABLE	95	171	171	94	True	1.125954	2	11	6	5	False	0.724959	1.527538	0	7
+WP_276279820.1	other_not_prioritized	EXCLUDED	183	259	275	182	False	0.468747	5	11	0	0	True	-0.013261	0.703142	5	11
+WP_276302450.1	other_not_prioritized	MARGINAL	564	635	635	563	True	0.506532	2	11	7	4	False	0.247481	0.774442	0	7
+WP_425499747.1	other_not_prioritized	EXCLUDED	78	150	150	77	False	0.498029	7	11	2	2	False	0.091694	1.249984	0	12

@@ -1,0 +1,55 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+WP_148414791.1       -          HalC8_v2.2           -            8.3e-29   91.3  17.2   1.2e-28   90.7  17.2   1.3   1   0   0   1   1   1   1 | POSITIVE | PROBABLE
+ERG89865.1           -          HalC8_v2.2           -            1.3e-28   90.7  17.7   1.5e-28   90.5  17.7   1.0   1   0   0   1   1   1   1 | NEGATIVE | EXCLUDED
+SEL80679.1           -          HalC8_v2.2           -            1.6e-28   90.4  17.2   2.4e-28   89.8  17.2   1.3   1   0   0   1   1   1   1 | POSITIVE | PROBABLE
+WP_135535699.1       -          HalC8_v2.2           -            3.3e-28   89.4  15.3   3.7e-28   89.2  15.3   1.0   1   0   0   1   1   1   1 | POSITIVE | MOST LIKELY
+OAQ51225.1           -          HalC8_v2.2           -            5.9e-27   85.4  16.3   6.5e-27   85.2  16.3   1.0   1   0   0   1   1   1   1 | POSITIVE | PROBABLE
+WP_136361702.1       -          HalC8_v2.2           -            6.3e-27   85.3  13.4   7.1e-27   85.1  13.4   1.0   1   0   0   1   1   1   1 | POSITIVE | PROBABLE
+WP_176705236.1       -          HalC8_v2.2           -            6.3e-27   85.3  13.4   7.1e-27   85.1  13.4   1.0   1   0   0   1   1   1   1 | NEGATIVE | EXCLUDED
+WP_006648340.1       -          HalC8_v2.2           -            7.4e-27   85.1  15.7     1e-26   84.6  15.7   1.2   1   0   0   1   1   1   1 | POSITIVE | PROBABLE
+WP_206536420.1       -          HalC8_v2.2           -            1.2e-26   84.4  13.3   1.4e-26   84.2  13.3   1.0   1   0   0   1   1   1   1 | POSITIVE | PROBABLE
+WP_049965037.1       -          HalC8_v2.2           -            1.7e-26   83.9  17.0   1.9e-26   83.7  17.0   1.0   1   0   0   1   1   1   1 | POSITIVE | PROBABLE
+WP_174682227.1       -          HalC8_v2.2           -            3.6e-26   82.9  15.5   5.7e-26   82.2  15.5   1.3   1   0   0   1   1   1   1 | POSITIVE | PROBABLE
+WP_049926653.1       -          HalC8_v2.2           -            4.1e-26   82.7  17.5   4.6e-26   82.5  17.5   1.0   1   0   0   1   1   1   1 | POSITIVE | PROBABLE
+WP_008892994.1       -          HalC8_v2.2           -            3.2e-25   79.8  11.7   3.6e-25   79.7  11.7   1.0   1   0   0   1   1   1   1 | POSITIVE | PROBABLE
+WP_126663589.1       -          HalC8_v2.2           -            7.8e-25   78.6  11.6   8.6e-25   78.4  11.6   1.0   1   0   0   1   1   1   1 | POSITIVE | MOST LIKELY
+WP_083870254.1       -          HalC8_v2.2           -            4.9e-24   76.0  11.5   5.4e-24   75.9  11.5   1.0   1   0   0   1   1   1   1 | POSITIVE | PROBABLE
+WP_204746614.1       -          HalC8_v2.2           -            4.9e-24   76.0  11.5   5.4e-24   75.9  11.5   1.0   1   0   0   1   1   1   1 | POSITIVE | PROBABLE
+WP_205251884.1       -          HalC8_v2.2           -              7e-24   75.5  20.0     1e-23   75.0  20.0   1.3   1   0   0   1   1   1   1 | POSITIVE | MOST LIKELY
+ERH11636.1           -          HalC8_v2.2           -            4.7e-23   72.9  11.6   5.2e-23   72.7  11.6   1.0   1   0   0   1   1   1   1 | NEGATIVE | EXCLUDED
+WP_202935063.1       -          HalC8_v2.2           -            8.7e-23   72.0  14.2   9.7e-23   71.9  14.2   1.0   1   0   0   1   1   1   1 | NEGATIVE | EXCLUDED
+QCD65580.1           -          HalC8_v2.2           -            2.5e-22   70.6  16.9   2.8e-22   70.4  16.9   1.0   1   0   0   1   1   1   1 | POSITIVE | PROBABLE
+WP_130170015.1       -          HalC8_v2.2           -              3e-22   70.3  12.0   3.4e-22   70.1  12.0   1.0   1   0   0   1   1   1   1 | POSITIVE | PROBABLE
+WP_135829766.1       -          HalC8_v2.2           -            9.5e-22   68.7  10.6     1e-21   68.6  10.6   1.0   1   0   0   1   1   1   1 | POSITIVE | PROBABLE
+WP_205252761.1       -          HalC8_v2.2           -            1.3e-21   68.3  16.9   1.5e-21   68.1  16.9   1.0   1   0   0   1   1   1   1 | POSITIVE | MOST LIKELY
+WP_202932656.1       -          HalC8_v2.2           -            2.5e-21   67.3  15.7   2.9e-21   67.1  15.7   1.0   1   0   0   1   1   1   1 | NEGATIVE | EXCLUDED
+SEH15762.1           -          HalC8_v2.2           -            7.9e-21   65.7  15.7   9.1e-21   65.5  15.7   1.0   1   0   0   1   1   1   1 | POSITIVE | PROBABLE
+WP_012289233.1       -          HalC8_v2.2           -            8.6e-21   65.6  18.9   9.7e-21   65.5  18.9   1.0   1   0   0   1   1   1   1 | NEGATIVE | EXCLUDED
+WP_208023473.1       -          HalC8_v2.2           -              1e-20   65.4  15.5   1.2e-20   65.2  15.5   1.1   1   0   0   1   1   1   1 | NEGATIVE | EXCLUDED
+WP_128476080.1       -          HalC8_v2.2           -            1.4e-20   65.0  17.2   1.6e-20   64.8  17.2   1.0   1   0   0   1   1   1   1 | NEGATIVE | EXCLUDED
+WP_163522828.1       -          HalC8_v2.2           -              3e-20   63.9  15.6   4.1e-20   63.4  15.6   1.1   1   0   0   1   1   1   1 | NEGATIVE | EXCLUDED
+WP_135854137.1       -          HalC8_v2.2           -            1.9e-19   61.3   8.8   2.1e-19   61.2   8.8   1.1   1   0   0   1   1   1   1 | POSITIVE | PROBABLE
+WP_153552385.1       -          HalC8_v2.2           -            4.4e-19   60.1  13.5     5e-19   60.0  13.5   1.0   1   0   0   1   1   1   1 | NEGATIVE | EXCLUDED
+WP_015299009.1       -          HalC8_v2.2           -            5.7e-19   59.8  15.3   6.2e-19   59.7  15.3   1.0   1   0   0   1   1   1   1 | NEGATIVE | EXCLUDED
+WP_135825305.1       -          HalC8_v2.2           -              1e-18   59.0  10.8   1.2e-18   58.8  10.8   1.1   1   0   0   1   1   1   1 | POSITIVE | PROBABLE
+WP_170093409.1       -          HalC8_v2.2           -            5.5e-18   56.6  11.6   8.3e-18   56.1  11.6   1.3   1   0   0   1   1   1   1 | NEGATIVE | EXCLUDED
+WP_083864503.1       -          HalC8_v2.2           -            1.2e-17   55.6  15.0   1.8e-17   55.0  15.0   1.3   1   0   0   1   1   1   1 | NEGATIVE | EXCLUDED
+WP_161606962.1       -          HalC8_v2.2           -            1.9e-16   51.7  22.4   2.1e-16   51.6  22.4   1.0   1   0   0   1   1   1   1 | NEGATIVE | EXCLUDED
+WP_012943185.1       -          HalC8_v2.2           -            2.3e-16   51.5  14.7   3.7e-16   50.8  14.7   1.3   1   0   0   1   1   1   1 | NEGATIVE | EXCLUDED
+RJT07538             -          HalC8_v2.2           -            4.1e-11   34.6  16.0   4.9e-11   34.4  16.0   1.1   1   0   0   1   1   1   1 | POSITIVE | PROBABLE
+WP_084813291.1       -          HalC8_v2.2           -            4.3e-11   34.6  16.0   6.6e-11   34.0  16.0   1.3   1   0   0   1   1   1   1 | NEGATIVE | EXCLUDED
+AGB32219.1           -          HalC8_v2.2           -            1.4e-09   29.8  12.4   1.6e-09   29.5  12.4   1.1   1   0   0   1   1   1   1 | NEGATIVE | EXCLUDED
+WP_138653937.1       -          HalC8_v2.2           -            1.4e-09   29.8  12.4   1.6e-09   29.5  12.4   1.1   1   0   0   1   1   1   1 | POSITIVE | PROBABLE
+WP_211249102.1       -          HalC8_v2.2           -            9.4e-07   20.6   9.9   9.9e-07   20.6   9.9   1.0   1   0   0   1   1   1   1 | NEGATIVE | EXCLUDED
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      HalC8_custom_v2.2.hmm
+# Target file:     calibration_42_for_amp_predictors.fasta
+# Option settings: hmmsearch --tblout audit_S8_de_novo_20260615/01_build_sets/n42_vs_HalC8_custom_for_domain_extraction.tblout --domtblout audit_S8_de_novo_20260615/01_build_sets/n42_vs_HalC8_custom_for_domain_extraction.domtblout --noali --cpu 4 HalC8_custom_v2.2.hmm calibration_42_for_amp_predictors.fasta 
+# Current dir:     <historical_project_root>
+# Date:            Mon Jun 15 09:22:31 2026
+# [ok]

@@ -1,0 +1,34 @@
+key	value
+proteome_n	1540190
+proteome_label	non-redundant proteins · 536 RefSeq Halobacteria assemblies · retrieved 1 May 2026
+hmm_positive_n	44
+calibration_removed_n	26
+calibration_set_novel_n	18
+score_positive_n	13
+not_prioritized_n	5
+most_likely_n	7
+probable_n	6
+marginal_n	1
+excluded_n	4
+clusters_n	5
+cluster_identity	0.90
+tier1_label	Tier 1 · HalC8-family HMM retrieval
+tier1_subtitle	HMM-defined domain extraction · i-E ≤ 1e–10
+novelty_audit_label	Domain-level novelty audit
+novelty_audit_subtitle	26 calibration-represented domains excluded from novelty set
+tier2_label	Frozen v2.2 sequence-intrinsic scoring
+tier2_subtitle	Applied to all 18 calibration-set-novel HMM-defined domains
+score_positive_subtitle	12 fully assessable + 1 Z3-imputed partial
+not_prioritized_subtitle	not advanced as candidate-domain priorities
+audit_label_score_positive	audit labels: 7 MOST LIKELY + 6 PROBABLE
+audit_label_not_prioritized	audit labels: 1 MARG + 4 EXCL
+cluster_block_title	Cluster-level candidate-domain interpretation
+cluster_block_body	4 fully assessable clusters + Cluster 5 partial singleton (audit only); clustering threshold 0.90
+footer_main	* Score-positive = MOST LIKELY + PROBABLE; not prioritized = MARGINAL + EXCLUDED.
+footer_partial	* Cluster 5 is Z3-imputed and below calibration length range; excluded from fully assessable interpretation.
+
+# Cluster 5 assessability split added for canonical Figure 3
+fully_assessable_scorepositive_n	12
+z3_imputed_partial_scorepositive_n	1
+fully_assessable_cluster_n	4
+z3_imputed_partial_cluster_n	1

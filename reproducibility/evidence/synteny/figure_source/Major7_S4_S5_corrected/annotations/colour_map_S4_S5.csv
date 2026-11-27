@@ -1,0 +1,9 @@
+display_class,fill,edge,hatch,legend_label
+proC8,#EF9F27,#854F0B,,proC8 / proC8-like (candidate)
+halU,#56B4E9,#1F5F8B,,halU / halU-like
+halR,#009E73,#00543D,,halR / halR-like
+halT1,#0072B2,#003D60,,halT1 / halT1-like
+halT2,#CC79A7,#7A3A5E,,halT2 / halT2-like
+halT3,#F0E442,#7A7215,,halT3 / halT3-like
+recurrent_neighbour,#F0997B,#7A2E14,//////,Recurrent Cluster 4 neighbouring CDS
+other,#E4E3DF,#A3A29C,,Other CDS

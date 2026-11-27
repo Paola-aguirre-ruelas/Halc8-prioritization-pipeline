@@ -1,0 +1,2 @@
+source_file	n	TP	TN	FP	FN	sensitivity	specificity	precision	F1	kappa
+LOOCV_detailed.csv	42	24	17	1	0	1.0	0.944	0.96	0.98	0.951

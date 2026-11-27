@@ -1,0 +1,4836 @@
+{
+"apiVersion": "V2",
+"assemblies": [
+{
+  "files": [
+    {
+      "filePath": "assembly_data_report.jsonl",
+      "fileType": "DATA_REPORT",
+      "uncompressedLengthBytes": "1981503"
+    }
+  ]
+},{
+  "accession": "GCF_000006805.1",
+  "files": [
+    {
+      "filePath": "GCF_000006805.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "884548"
+    }
+  ]
+},{
+  "accession": "GCF_000009185.1",
+  "files": [
+    {
+      "filePath": "GCF_000009185.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "984215"
+    }
+  ]
+},{
+  "accession": "GCF_000011085.1",
+  "files": [
+    {
+      "filePath": "GCF_000011085.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1530472"
+    }
+  ]
+},{
+  "accession": "GCF_000022205.1",
+  "files": [
+    {
+      "filePath": "GCF_000022205.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1287048"
+    }
+  ]
+},{
+  "accession": "GCF_000023945.1",
+  "files": [
+    {
+      "filePath": "GCF_000023945.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1131451"
+    }
+  ]
+},{
+  "accession": "GCF_000023965.1",
+  "files": [
+    {
+      "filePath": "GCF_000023965.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1224202"
+    }
+  ]
+},{
+  "accession": "GCF_000025325.1",
+  "files": [
+    {
+      "filePath": "GCF_000025325.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1869184"
+    }
+  ]
+},{
+  "accession": "GCF_000025625.1",
+  "files": [
+    {
+      "filePath": "GCF_000025625.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1513252"
+    }
+  ]
+},{
+  "accession": "GCF_000025685.1",
+  "files": [
+    {
+      "filePath": "GCF_000025685.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1400893"
+    }
+  ]
+},{
+  "accession": "GCF_000026045.1",
+  "files": [
+    {
+      "filePath": "GCF_000026045.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1026345"
+    }
+  ]
+},{
+  "accession": "GCF_000069025.1",
+  "files": [
+    {
+      "filePath": "GCF_000069025.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "945073"
+    }
+  ]
+},{
+  "accession": "GCF_000172995.2",
+  "files": [
+    {
+      "filePath": "GCF_000172995.2/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1430890"
+    }
+  ]
+},{
+  "accession": "GCF_000196895.1",
+  "files": [
+    {
+      "filePath": "GCF_000196895.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1318428"
+    }
+  ]
+},{
+  "accession": "GCF_000217715.1",
+  "files": [
+    {
+      "filePath": "GCF_000217715.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1548738"
+    }
+  ]
+},{
+  "accession": "GCF_000223905.1",
+  "files": [
+    {
+      "filePath": "GCF_000223905.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1407818"
+    }
+  ]
+},{
+  "accession": "GCF_000226975.2",
+  "files": [
+    {
+      "filePath": "GCF_000226975.2/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1559958"
+    }
+  ]
+},{
+  "accession": "GCF_000230715.2",
+  "files": [
+    {
+      "filePath": "GCF_000230715.2/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1304106"
+    }
+  ]
+},{
+  "accession": "GCF_000230735.2",
+  "files": [
+    {
+      "filePath": "GCF_000230735.2/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1482606"
+    }
+  ]
+},{
+  "accession": "GCF_000237865.1",
+  "files": [
+    {
+      "filePath": "GCF_000237865.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1011137"
+    }
+  ]
+},{
+  "accession": "GCF_000281695.1",
+  "files": [
+    {
+      "filePath": "GCF_000281695.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1328065"
+    }
+  ]
+},{
+  "accession": "GCF_000296615.1",
+  "files": [
+    {
+      "filePath": "GCF_000296615.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1133476"
+    }
+  ]
+},{
+  "accession": "GCF_000306765.2",
+  "files": [
+    {
+      "filePath": "GCF_000306765.2/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1390374"
+    }
+  ]
+},{
+  "accession": "GCF_000328525.1",
+  "files": [
+    {
+      "filePath": "GCF_000328525.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1122347"
+    }
+  ]
+},{
+  "accession": "GCF_000328685.1",
+  "files": [
+    {
+      "filePath": "GCF_000328685.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1528875"
+    }
+  ]
+},{
+  "accession": "GCF_000379085.1",
+  "files": [
+    {
+      "filePath": "GCF_000379085.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1270159"
+    }
+  ]
+},{
+  "accession": "GCF_000415985.1",
+  "files": [
+    {
+      "filePath": "GCF_000415985.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1064603"
+    }
+  ]
+},{
+  "accession": "GCF_000427685.1",
+  "files": [
+    {
+      "filePath": "GCF_000427685.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1342440"
+    }
+  ]
+},{
+  "accession": "GCF_000455345.1",
+  "files": [
+    {
+      "filePath": "GCF_000455345.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1417125"
+    }
+  ]
+},{
+  "accession": "GCF_000455365.1",
+  "files": [
+    {
+      "filePath": "GCF_000455365.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1369686"
+    }
+  ]
+},{
+  "accession": "GCF_000470655.1",
+  "files": [
+    {
+      "filePath": "GCF_000470655.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1117728"
+    }
+  ]
+},{
+  "accession": "GCF_000485535.1",
+  "files": [
+    {
+      "filePath": "GCF_000485535.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1326259"
+    }
+  ]
+},{
+  "accession": "GCF_000504565.1",
+  "files": [
+    {
+      "filePath": "GCF_000504565.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1412040"
+    }
+  ]
+},{
+  "accession": "GCF_000513435.1",
+  "files": [
+    {
+      "filePath": "GCF_000513435.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "880211"
+    }
+  ]
+},{
+  "accession": "GCF_000517625.1",
+  "files": [
+    {
+      "filePath": "GCF_000517625.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1429596"
+    }
+  ]
+},{
+  "accession": "GCF_000591055.1",
+  "files": [
+    {
+      "filePath": "GCF_000591055.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1036490"
+    }
+  ]
+},{
+  "accession": "GCF_000685635.1",
+  "files": [
+    {
+      "filePath": "GCF_000685635.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1338949"
+    }
+  ]
+},{
+  "accession": "GCF_000723845.1",
+  "files": [
+    {
+      "filePath": "GCF_000723845.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1415390"
+    }
+  ]
+},{
+  "accession": "GCF_000746205.1",
+  "files": [
+    {
+      "filePath": "GCF_000746205.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "996553"
+    }
+  ]
+},{
+  "accession": "GCF_000784335.1",
+  "files": [
+    {
+      "filePath": "GCF_000784335.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1508342"
+    }
+  ]
+},{
+  "accession": "GCF_000827835.1",
+  "files": [
+    {
+      "filePath": "GCF_000827835.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1533347"
+    }
+  ]
+},{
+  "accession": "GCF_001011115.1",
+  "files": [
+    {
+      "filePath": "GCF_001011115.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "827961"
+    }
+  ]
+},{
+  "accession": "GCF_001190965.1",
+  "files": [
+    {
+      "filePath": "GCF_001190965.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1421455"
+    }
+  ]
+},{
+  "accession": "GCF_001261915.1",
+  "files": [
+    {
+      "filePath": "GCF_001261915.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1156516"
+    }
+  ]
+},{
+  "accession": "GCF_001305655.1",
+  "files": [
+    {
+      "filePath": "GCF_001305655.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "842440"
+    }
+  ]
+},{
+  "accession": "GCF_001368915.1",
+  "files": [
+    {
+      "filePath": "GCF_001368915.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1413934"
+    }
+  ]
+},{
+  "accession": "GCF_001462205.1",
+  "files": [
+    {
+      "filePath": "GCF_001462205.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1146529"
+    }
+  ]
+},{
+  "accession": "GCF_001469875.2",
+  "files": [
+    {
+      "filePath": "GCF_001469875.2/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1408904"
+    }
+  ]
+},{
+  "accession": "GCF_001482285.1",
+  "files": [
+    {
+      "filePath": "GCF_001482285.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1435648"
+    }
+  ]
+},{
+  "accession": "GCF_001488575.1",
+  "files": [
+    {
+      "filePath": "GCF_001488575.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1165485"
+    }
+  ]
+},{
+  "accession": "GCF_001647155.1",
+  "files": [
+    {
+      "filePath": "GCF_001647155.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1557881"
+    }
+  ]
+},{
+  "accession": "GCF_001767315.1",
+  "files": [
+    {
+      "filePath": "GCF_001767315.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "771087"
+    }
+  ]
+},{
+  "accession": "GCF_001886955.1",
+  "files": [
+    {
+      "filePath": "GCF_001886955.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "812435"
+    }
+  ]
+},{
+  "accession": "GCF_001989615.1",
+  "files": [
+    {
+      "filePath": "GCF_001989615.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1395756"
+    }
+  ]
+},{
+  "accession": "GCF_002025255.2",
+  "files": [
+    {
+      "filePath": "GCF_002025255.2/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1256524"
+    }
+  ]
+},{
+  "accession": "GCF_002135005.1",
+  "files": [
+    {
+      "filePath": "GCF_002135005.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1177482"
+    }
+  ]
+},{
+  "accession": "GCF_002135045.1",
+  "files": [
+    {
+      "filePath": "GCF_002135045.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1140985"
+    }
+  ]
+},{
+  "accession": "GCF_002156705.1",
+  "files": [
+    {
+      "filePath": "GCF_002156705.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1410874"
+    }
+  ]
+},{
+  "accession": "GCF_002215285.1",
+  "files": [
+    {
+      "filePath": "GCF_002215285.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1169686"
+    }
+  ]
+},{
+  "accession": "GCF_002252725.1",
+  "files": [
+    {
+      "filePath": "GCF_002252725.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1309563"
+    }
+  ]
+},{
+  "accession": "GCF_002252755.1",
+  "files": [
+    {
+      "filePath": "GCF_002252755.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1366361"
+    }
+  ]
+},{
+  "accession": "GCF_002252805.1",
+  "files": [
+    {
+      "filePath": "GCF_002252805.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1211597"
+    }
+  ]
+},{
+  "accession": "GCF_002252835.1",
+  "files": [
+    {
+      "filePath": "GCF_002252835.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1263732"
+    }
+  ]
+},{
+  "accession": "GCF_002252875.1",
+  "files": [
+    {
+      "filePath": "GCF_002252875.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1184731"
+    }
+  ]
+},{
+  "accession": "GCF_002252895.1",
+  "files": [
+    {
+      "filePath": "GCF_002252895.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1299247"
+    }
+  ]
+},{
+  "accession": "GCF_002252925.1",
+  "files": [
+    {
+      "filePath": "GCF_002252925.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1344370"
+    }
+  ]
+},{
+  "accession": "GCF_002252965.1",
+  "files": [
+    {
+      "filePath": "GCF_002252965.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1405226"
+    }
+  ]
+},{
+  "accession": "GCF_002252985.1",
+  "files": [
+    {
+      "filePath": "GCF_002252985.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1189020"
+    }
+  ]
+},{
+  "accession": "GCF_002355635.1",
+  "files": [
+    {
+      "filePath": "GCF_002355635.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1092929"
+    }
+  ]
+},{
+  "accession": "GCF_002355655.1",
+  "files": [
+    {
+      "filePath": "GCF_002355655.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1106986"
+    }
+  ]
+},{
+  "accession": "GCF_002727095.1",
+  "files": [
+    {
+      "filePath": "GCF_002727095.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1354655"
+    }
+  ]
+},{
+  "accession": "GCF_002727125.1",
+  "files": [
+    {
+      "filePath": "GCF_002727125.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1251883"
+    }
+  ]
+},{
+  "accession": "GCF_002788215.1",
+  "files": [
+    {
+      "filePath": "GCF_002788215.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1179746"
+    }
+  ]
+},{
+  "accession": "GCF_002844195.1",
+  "files": [
+    {
+      "filePath": "GCF_002844195.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1591609"
+    }
+  ]
+},{
+  "accession": "GCF_002952775.1",
+  "files": [
+    {
+      "filePath": "GCF_002952775.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1234187"
+    }
+  ]
+},{
+  "accession": "GCF_003058365.1",
+  "files": [
+    {
+      "filePath": "GCF_003058365.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1022873"
+    }
+  ]
+},{
+  "accession": "GCF_003342675.1",
+  "files": [
+    {
+      "filePath": "GCF_003342675.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1386937"
+    }
+  ]
+},{
+  "accession": "GCF_003342695.1",
+  "files": [
+    {
+      "filePath": "GCF_003342695.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1301507"
+    }
+  ]
+},{
+  "accession": "GCF_003351065.1",
+  "files": [
+    {
+      "filePath": "GCF_003351065.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1386650"
+    }
+  ]
+},{
+  "accession": "GCF_003382685.1",
+  "files": [
+    {
+      "filePath": "GCF_003382685.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1329631"
+    }
+  ]
+},{
+  "accession": "GCF_003383015.2",
+  "files": [
+    {
+      "filePath": "GCF_003383015.2/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1415778"
+    }
+  ]
+},{
+  "accession": "GCF_003383025.1",
+  "files": [
+    {
+      "filePath": "GCF_003383025.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1497857"
+    }
+  ]
+},{
+  "accession": "GCF_003430805.1",
+  "files": [
+    {
+      "filePath": "GCF_003430805.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1402164"
+    }
+  ]
+},{
+  "accession": "GCF_003430825.1",
+  "files": [
+    {
+      "filePath": "GCF_003430825.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1371368"
+    }
+  ]
+},{
+  "accession": "GCF_003586325.1",
+  "files": [
+    {
+      "filePath": "GCF_003586325.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1555540"
+    }
+  ]
+},{
+  "accession": "GCF_003605575.1",
+  "files": [
+    {
+      "filePath": "GCF_003605575.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "915148"
+    }
+  ]
+},{
+  "accession": "GCF_003610195.1",
+  "files": [
+    {
+      "filePath": "GCF_003610195.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1715434"
+    }
+  ]
+},{
+  "accession": "GCF_003675875.1",
+  "files": [
+    {
+      "filePath": "GCF_003675875.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1512533"
+    }
+  ]
+},{
+  "accession": "GCF_003688715.1",
+  "files": [
+    {
+      "filePath": "GCF_003688715.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1295776"
+    }
+  ]
+},{
+  "accession": "GCF_003697815.1",
+  "files": [
+    {
+      "filePath": "GCF_003697815.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1325459"
+    }
+  ]
+},{
+  "accession": "GCF_003697845.1",
+  "files": [
+    {
+      "filePath": "GCF_003697845.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1321611"
+    }
+  ]
+},{
+  "accession": "GCF_003721175.2",
+  "files": [
+    {
+      "filePath": "GCF_003721175.2/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1165539"
+    }
+  ]
+},{
+  "accession": "GCF_003721435.2",
+  "files": [
+    {
+      "filePath": "GCF_003721435.2/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1280289"
+    }
+  ]
+},{
+  "accession": "GCF_003856835.1",
+  "files": [
+    {
+      "filePath": "GCF_003856835.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1297274"
+    }
+  ]
+},{
+  "accession": "GCF_003977755.1",
+  "files": [
+    {
+      "filePath": "GCF_003977755.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1726725"
+    }
+  ]
+},{
+  "accession": "GCF_003990725.2",
+  "files": [
+    {
+      "filePath": "GCF_003990725.2/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1099302"
+    }
+  ]
+},{
+  "accession": "GCF_004015825.1",
+  "files": [
+    {
+      "filePath": "GCF_004015825.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1362465"
+    }
+  ]
+},{
+  "accession": "GCF_004087835.1",
+  "files": [
+    {
+      "filePath": "GCF_004087835.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1244383"
+    }
+  ]
+},{
+  "accession": "GCF_004114375.1",
+  "files": [
+    {
+      "filePath": "GCF_004114375.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1229942"
+    }
+  ]
+},{
+  "accession": "GCF_004114995.1",
+  "files": [
+    {
+      "filePath": "GCF_004114995.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1272539"
+    }
+  ]
+},{
+  "accession": "GCF_004118325.1",
+  "files": [
+    {
+      "filePath": "GCF_004118325.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1495512"
+    }
+  ]
+},{
+  "accession": "GCF_004126515.1",
+  "files": [
+    {
+      "filePath": "GCF_004126515.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1304497"
+    }
+  ]
+},{
+  "accession": "GCF_004143485.2",
+  "files": [
+    {
+      "filePath": "GCF_004143485.2/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1346163"
+    }
+  ]
+},{
+  "accession": "GCF_004150385.1",
+  "files": [
+    {
+      "filePath": "GCF_004150385.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1274966"
+    }
+  ]
+},{
+  "accession": "GCF_004150395.1",
+  "files": [
+    {
+      "filePath": "GCF_004150395.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1439388"
+    }
+  ]
+},{
+  "accession": "GCF_004209855.1",
+  "files": [
+    {
+      "filePath": "GCF_004209855.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1276543"
+    }
+  ]
+},{
+  "accession": "GCF_004681185.1",
+  "files": [
+    {
+      "filePath": "GCF_004681185.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1799560"
+    }
+  ]
+},{
+  "accession": "GCF_004698125.1",
+  "files": [
+    {
+      "filePath": "GCF_004698125.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1609796"
+    }
+  ]
+},{
+  "accession": "GCF_004765785.1",
+  "files": [
+    {
+      "filePath": "GCF_004765785.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1487518"
+    }
+  ]
+},{
+  "accession": "GCF_004765795.1",
+  "files": [
+    {
+      "filePath": "GCF_004765795.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1373740"
+    }
+  ]
+},{
+  "accession": "GCF_004765805.1",
+  "files": [
+    {
+      "filePath": "GCF_004765805.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1386655"
+    }
+  ]
+},{
+  "accession": "GCF_004765815.2",
+  "files": [
+    {
+      "filePath": "GCF_004765815.2/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1673865"
+    }
+  ]
+},{
+  "accession": "GCF_004785955.1",
+  "files": [
+    {
+      "filePath": "GCF_004785955.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1380087"
+    }
+  ]
+},{
+  "accession": "GCF_004799605.1",
+  "files": [
+    {
+      "filePath": "GCF_004799605.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "887543"
+    }
+  ]
+},{
+  "accession": "GCF_004799665.1",
+  "files": [
+    {
+      "filePath": "GCF_004799665.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1263787"
+    }
+  ]
+},{
+  "accession": "GCF_004799685.1",
+  "files": [
+    {
+      "filePath": "GCF_004799685.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1304555"
+    }
+  ]
+},{
+  "accession": "GCF_004803735.1",
+  "files": [
+    {
+      "filePath": "GCF_004803735.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1213048"
+    }
+  ]
+},{
+  "accession": "GCF_004944975.1",
+  "files": [
+    {
+      "filePath": "GCF_004944975.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1236788"
+    }
+  ]
+},{
+  "accession": "GCF_005155585.1",
+  "files": [
+    {
+      "filePath": "GCF_005155585.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1109303"
+    }
+  ]
+},{
+  "accession": "GCF_005239435.1",
+  "files": [
+    {
+      "filePath": "GCF_005239435.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1781791"
+    }
+  ]
+},{
+  "accession": "GCF_005310945.1",
+  "files": [
+    {
+      "filePath": "GCF_005310945.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1497192"
+    }
+  ]
+},{
+  "accession": "GCF_005406325.1",
+  "files": [
+    {
+      "filePath": "GCF_005406325.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1388433"
+    }
+  ]
+},{
+  "accession": "GCF_005435015.1",
+  "files": [
+    {
+      "filePath": "GCF_005435015.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1273533"
+    }
+  ]
+},{
+  "accession": "GCF_005435025.1",
+  "files": [
+    {
+      "filePath": "GCF_005435025.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1283480"
+    }
+  ]
+},{
+  "accession": "GCF_005435035.1",
+  "files": [
+    {
+      "filePath": "GCF_005435035.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1317292"
+    }
+  ]
+},{
+  "accession": "GCF_005435055.1",
+  "files": [
+    {
+      "filePath": "GCF_005435055.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1279078"
+    }
+  ]
+},{
+  "accession": "GCF_005435095.1",
+  "files": [
+    {
+      "filePath": "GCF_005435095.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1275141"
+    }
+  ]
+},{
+  "accession": "GCF_005435135.1",
+  "files": [
+    {
+      "filePath": "GCF_005435135.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1308324"
+    }
+  ]
+},{
+  "accession": "GCF_005435175.1",
+  "files": [
+    {
+      "filePath": "GCF_005435175.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1238268"
+    }
+  ]
+},{
+  "accession": "GCF_005435185.1",
+  "files": [
+    {
+      "filePath": "GCF_005435185.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "2041826"
+    }
+  ]
+},{
+  "accession": "GCF_005435195.1",
+  "files": [
+    {
+      "filePath": "GCF_005435195.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1194007"
+    }
+  ]
+},{
+  "accession": "GCF_005543295.1",
+  "files": [
+    {
+      "filePath": "GCF_005543295.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1234021"
+    }
+  ]
+},{
+  "accession": "GCF_005576615.1",
+  "files": [
+    {
+      "filePath": "GCF_005576615.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1616988"
+    }
+  ]
+},{
+  "accession": "GCF_005890195.1",
+  "files": [
+    {
+      "filePath": "GCF_005890195.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1317000"
+    }
+  ]
+},{
+  "accession": "GCF_006861655.1",
+  "files": [
+    {
+      "filePath": "GCF_006861655.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "939597"
+    }
+  ]
+},{
+  "accession": "GCF_006861665.1",
+  "files": [
+    {
+      "filePath": "GCF_006861665.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1002933"
+    }
+  ]
+},{
+  "accession": "GCF_007421925.1",
+  "files": [
+    {
+      "filePath": "GCF_007421925.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1370425"
+    }
+  ]
+},{
+  "accession": "GCF_007655485.1",
+  "files": [
+    {
+      "filePath": "GCF_007655485.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1185548"
+    }
+  ]
+},{
+  "accession": "GCF_007671685.1",
+  "files": [
+    {
+      "filePath": "GCF_007671685.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1312223"
+    }
+  ]
+},{
+  "accession": "GCF_008831545.1",
+  "files": [
+    {
+      "filePath": "GCF_008831545.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1599323"
+    }
+  ]
+},{
+  "accession": "GCF_009184545.1",
+  "files": [
+    {
+      "filePath": "GCF_009184545.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "988606"
+    }
+  ]
+},{
+  "accession": "GCF_009184575.1",
+  "files": [
+    {
+      "filePath": "GCF_009184575.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "901778"
+    }
+  ]
+},{
+  "accession": "GCF_009217585.1",
+  "files": [
+    {
+      "filePath": "GCF_009217585.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1140215"
+    }
+  ]
+},{
+  "accession": "GCF_009392895.1",
+  "files": [
+    {
+      "filePath": "GCF_009392895.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1510891"
+    }
+  ]
+},{
+  "accession": "GCF_009617995.1",
+  "files": [
+    {
+      "filePath": "GCF_009617995.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1211930"
+    }
+  ]
+},{
+  "accession": "GCF_009663395.1",
+  "files": [
+    {
+      "filePath": "GCF_009663395.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1035295"
+    }
+  ]
+},{
+  "accession": "GCF_009690625.1",
+  "files": [
+    {
+      "filePath": "GCF_009690625.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "951777"
+    }
+  ]
+},{
+  "accession": "GCF_009762275.1",
+  "files": [
+    {
+      "filePath": "GCF_009762275.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1298032"
+    }
+  ]
+},{
+  "accession": "GCF_009806985.1",
+  "files": [
+    {
+      "filePath": "GCF_009806985.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1131365"
+    }
+  ]
+},{
+  "accession": "GCF_009807105.1",
+  "files": [
+    {
+      "filePath": "GCF_009807105.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1436722"
+    }
+  ]
+},{
+  "accession": "GCF_009900715.1",
+  "files": [
+    {
+      "filePath": "GCF_009900715.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1249769"
+    }
+  ]
+},{
+  "accession": "GCF_010119195.1",
+  "files": [
+    {
+      "filePath": "GCF_010119195.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1381500"
+    }
+  ]
+},{
+  "accession": "GCF_010692885.1",
+  "files": [
+    {
+      "filePath": "GCF_010692885.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1454840"
+    }
+  ]
+},{
+  "accession": "GCF_010692905.1",
+  "files": [
+    {
+      "filePath": "GCF_010692905.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1332233"
+    }
+  ]
+},{
+  "accession": "GCF_011440255.1",
+  "files": [
+    {
+      "filePath": "GCF_011440255.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1600085"
+    }
+  ]
+},{
+  "accession": "GCF_011440375.1",
+  "files": [
+    {
+      "filePath": "GCF_011440375.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1358747"
+    }
+  ]
+},{
+  "accession": "GCF_011602445.1",
+  "files": [
+    {
+      "filePath": "GCF_011602445.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1723452"
+    }
+  ]
+},{
+  "accession": "GCF_011627345.1",
+  "files": [
+    {
+      "filePath": "GCF_011627345.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1175892"
+    }
+  ]
+},{
+  "accession": "GCF_012163165.1",
+  "files": [
+    {
+      "filePath": "GCF_012163165.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1426444"
+    }
+  ]
+},{
+  "accession": "GCF_012726095.1",
+  "files": [
+    {
+      "filePath": "GCF_012726095.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1252402"
+    }
+  ]
+},{
+  "accession": "GCF_012726105.1",
+  "files": [
+    {
+      "filePath": "GCF_012726105.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1321329"
+    }
+  ]
+},{
+  "accession": "GCF_012726115.1",
+  "files": [
+    {
+      "filePath": "GCF_012726115.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1458187"
+    }
+  ]
+},{
+  "accession": "GCF_012726155.1",
+  "files": [
+    {
+      "filePath": "GCF_012726155.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1459994"
+    }
+  ]
+},{
+  "accession": "GCF_013267195.1",
+  "files": [
+    {
+      "filePath": "GCF_013267195.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1219302"
+    }
+  ]
+},{
+  "accession": "GCF_013391085.1",
+  "files": [
+    {
+      "filePath": "GCF_013391085.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1194185"
+    }
+  ]
+},{
+  "accession": "GCF_013391105.1",
+  "files": [
+    {
+      "filePath": "GCF_013391105.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1346676"
+    }
+  ]
+},{
+  "accession": "GCF_013401515.1",
+  "files": [
+    {
+      "filePath": "GCF_013401515.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1507504"
+    }
+  ]
+},{
+  "accession": "GCF_013402815.2",
+  "files": [
+    {
+      "filePath": "GCF_013402815.2/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1604113"
+    }
+  ]
+},{
+  "accession": "GCF_013402875.1",
+  "files": [
+    {
+      "filePath": "GCF_013402875.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1480683"
+    }
+  ]
+},{
+  "accession": "GCF_013415885.1",
+  "files": [
+    {
+      "filePath": "GCF_013415885.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1593866"
+    }
+  ]
+},{
+  "accession": "GCF_013415905.1",
+  "files": [
+    {
+      "filePath": "GCF_013415905.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1835065"
+    }
+  ]
+},{
+  "accession": "GCF_013456555.2",
+  "files": [
+    {
+      "filePath": "GCF_013456555.2/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1761558"
+    }
+  ]
+},{
+  "accession": "GCF_013839425.1",
+  "files": [
+    {
+      "filePath": "GCF_013839425.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1020581"
+    }
+  ]
+},{
+  "accession": "GCF_013839515.1",
+  "files": [
+    {
+      "filePath": "GCF_013839515.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "996992"
+    }
+  ]
+},{
+  "accession": "GCF_014530665.1",
+  "files": [
+    {
+      "filePath": "GCF_014530665.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1364997"
+    }
+  ]
+},{
+  "accession": "GCF_014646875.1",
+  "files": [
+    {
+      "filePath": "GCF_014646875.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1067283"
+    }
+  ]
+},{
+  "accession": "GCF_014647415.1",
+  "files": [
+    {
+      "filePath": "GCF_014647415.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1477294"
+    }
+  ]
+},{
+  "accession": "GCF_014647455.2",
+  "files": [
+    {
+      "filePath": "GCF_014647455.2/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1105033"
+    }
+  ]
+},{
+  "accession": "GCF_014969745.1",
+  "files": [
+    {
+      "filePath": "GCF_014969745.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1444790"
+    }
+  ]
+},{
+  "accession": "GCF_016065055.1",
+  "files": [
+    {
+      "filePath": "GCF_016065055.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1497732"
+    }
+  ]
+},{
+  "accession": "GCF_016906025.1",
+  "files": [
+    {
+      "filePath": "GCF_016906025.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1768864"
+    }
+  ]
+},{
+  "accession": "GCF_016917835.2",
+  "files": [
+    {
+      "filePath": "GCF_016917835.2/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "922984"
+    }
+  ]
+},{
+  "accession": "GCF_016917855.1",
+  "files": [
+    {
+      "filePath": "GCF_016917855.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "879199"
+    }
+  ]
+},{
+  "accession": "GCF_017094445.1",
+  "files": [
+    {
+      "filePath": "GCF_017094445.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1115405"
+    }
+  ]
+},{
+  "accession": "GCF_017094465.1",
+  "files": [
+    {
+      "filePath": "GCF_017094465.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1062094"
+    }
+  ]
+},{
+  "accession": "GCF_017094485.1",
+  "files": [
+    {
+      "filePath": "GCF_017094485.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1156033"
+    }
+  ]
+},{
+  "accession": "GCF_017094505.1",
+  "files": [
+    {
+      "filePath": "GCF_017094505.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1080565"
+    }
+  ]
+},{
+  "accession": "GCF_017094525.1",
+  "files": [
+    {
+      "filePath": "GCF_017094525.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1049567"
+    }
+  ]
+},{
+  "accession": "GCF_017352095.1",
+  "files": [
+    {
+      "filePath": "GCF_017352095.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1247189"
+    }
+  ]
+},{
+  "accession": "GCF_017352155.2",
+  "files": [
+    {
+      "filePath": "GCF_017352155.2/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1500923"
+    }
+  ]
+},{
+  "accession": "GCF_017357405.2",
+  "files": [
+    {
+      "filePath": "GCF_017357405.2/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1971986"
+    }
+  ]
+},{
+  "accession": "GCF_017612575.1",
+  "files": [
+    {
+      "filePath": "GCF_017612575.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1234739"
+    }
+  ]
+},{
+  "accession": "GCF_018200015.1",
+  "files": [
+    {
+      "filePath": "GCF_018200015.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1595623"
+    }
+  ]
+},{
+  "accession": "GCF_018228765.1",
+  "files": [
+    {
+      "filePath": "GCF_018228765.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1028112"
+    }
+  ]
+},{
+  "accession": "GCF_018623055.1",
+  "files": [
+    {
+      "filePath": "GCF_018623055.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1058215"
+    }
+  ]
+},{
+  "accession": "GCF_019599405.1",
+  "files": [
+    {
+      "filePath": "GCF_019599405.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1456424"
+    }
+  ]
+},{
+  "accession": "GCF_019599485.1",
+  "files": [
+    {
+      "filePath": "GCF_019599485.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1472264"
+    }
+  ]
+},{
+  "accession": "GCF_019823105.1",
+  "files": [
+    {
+      "filePath": "GCF_019823105.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1358509"
+    }
+  ]
+},{
+  "accession": "GCF_019879105.1",
+  "files": [
+    {
+      "filePath": "GCF_019879105.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1737181"
+    }
+  ]
+},{
+  "accession": "GCF_019880225.1",
+  "files": [
+    {
+      "filePath": "GCF_019880225.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1091878"
+    }
+  ]
+},{
+  "accession": "GCF_019880245.1",
+  "files": [
+    {
+      "filePath": "GCF_019880245.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1336412"
+    }
+  ]
+},{
+  "accession": "GCF_020097815.1",
+  "files": [
+    {
+      "filePath": "GCF_020097815.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1237912"
+    }
+  ]
+},{
+  "accession": "GCF_020097835.1",
+  "files": [
+    {
+      "filePath": "GCF_020097835.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1403728"
+    }
+  ]
+},{
+  "accession": "GCF_020105915.1",
+  "files": [
+    {
+      "filePath": "GCF_020105915.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1421382"
+    }
+  ]
+},{
+  "accession": "GCF_020150815.1",
+  "files": [
+    {
+      "filePath": "GCF_020150815.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1334897"
+    }
+  ]
+},{
+  "accession": "GCF_020217425.1",
+  "files": [
+    {
+      "filePath": "GCF_020217425.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1463979"
+    }
+  ]
+},{
+  "accession": "GCF_020405185.1",
+  "files": [
+    {
+      "filePath": "GCF_020405185.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1397912"
+    }
+  ]
+},{
+  "accession": "GCF_020405205.1",
+  "files": [
+    {
+      "filePath": "GCF_020405205.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1646195"
+    }
+  ]
+},{
+  "accession": "GCF_020405225.1",
+  "files": [
+    {
+      "filePath": "GCF_020405225.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1703874"
+    }
+  ]
+},{
+  "accession": "GCF_020405245.1",
+  "files": [
+    {
+      "filePath": "GCF_020405245.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1483750"
+    }
+  ]
+},{
+  "accession": "GCF_020614375.1",
+  "files": [
+    {
+      "filePath": "GCF_020614375.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1788268"
+    }
+  ]
+},{
+  "accession": "GCF_020618475.1",
+  "files": [
+    {
+      "filePath": "GCF_020618475.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "2406545"
+    }
+  ]
+},{
+  "accession": "GCF_020700235.1",
+  "files": [
+    {
+      "filePath": "GCF_020700235.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1975626"
+    }
+  ]
+},{
+  "accession": "GCF_020736485.1",
+  "files": [
+    {
+      "filePath": "GCF_020736485.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "856986"
+    }
+  ]
+},{
+  "accession": "GCF_021233415.1",
+  "files": [
+    {
+      "filePath": "GCF_021233415.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1044447"
+    }
+  ]
+},{
+  "accession": "GCF_021233435.1",
+  "files": [
+    {
+      "filePath": "GCF_021233435.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1191416"
+    }
+  ]
+},{
+  "accession": "GCF_021249345.1",
+  "files": [
+    {
+      "filePath": "GCF_021249345.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1165610"
+    }
+  ]
+},{
+  "accession": "GCF_021249405.1",
+  "files": [
+    {
+      "filePath": "GCF_021249405.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1029280"
+    }
+  ]
+},{
+  "accession": "GCF_021431925.1",
+  "files": [
+    {
+      "filePath": "GCF_021431925.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1217054"
+    }
+  ]
+},{
+  "accession": "GCF_022807515.1",
+  "files": [
+    {
+      "filePath": "GCF_022807515.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1279374"
+    }
+  ]
+},{
+  "accession": "GCF_022869805.1",
+  "files": [
+    {
+      "filePath": "GCF_022869805.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1748687"
+    }
+  ]
+},{
+  "accession": "GCF_022870485.1",
+  "files": [
+    {
+      "filePath": "GCF_022870485.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1374305"
+    }
+  ]
+},{
+  "accession": "GCF_023008545.1",
+  "files": [
+    {
+      "filePath": "GCF_023008545.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1570895"
+    }
+  ]
+},{
+  "accession": "GCF_023028105.1",
+  "files": [
+    {
+      "filePath": "GCF_023028105.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1668287"
+    }
+  ]
+},{
+  "accession": "GCF_023028225.1",
+  "files": [
+    {
+      "filePath": "GCF_023028225.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1199404"
+    }
+  ]
+},{
+  "accession": "GCF_023028345.1",
+  "files": [
+    {
+      "filePath": "GCF_023028345.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1672215"
+    }
+  ]
+},{
+  "accession": "GCF_023093535.1",
+  "files": [
+    {
+      "filePath": "GCF_023093535.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1344421"
+    }
+  ]
+},{
+  "accession": "GCF_023115355.1",
+  "files": [
+    {
+      "filePath": "GCF_023115355.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1373957"
+    }
+  ]
+},{
+  "accession": "GCF_023238205.1",
+  "files": [
+    {
+      "filePath": "GCF_023238205.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1628038"
+    }
+  ]
+},{
+  "accession": "GCF_023238445.1",
+  "files": [
+    {
+      "filePath": "GCF_023238445.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1335850"
+    }
+  ]
+},{
+  "accession": "GCF_023638055.1",
+  "files": [
+    {
+      "filePath": "GCF_023638055.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1239148"
+    }
+  ]
+},{
+  "accession": "GCF_023699475.1",
+  "files": [
+    {
+      "filePath": "GCF_023699475.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1450925"
+    }
+  ]
+},{
+  "accession": "GCF_023702125.1",
+  "files": [
+    {
+      "filePath": "GCF_023702125.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1110489"
+    }
+  ]
+},{
+  "accession": "GCF_023703775.1",
+  "files": [
+    {
+      "filePath": "GCF_023703775.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1275892"
+    }
+  ]
+},{
+  "accession": "GCF_023703795.1",
+  "files": [
+    {
+      "filePath": "GCF_023703795.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1376572"
+    }
+  ]
+},{
+  "accession": "GCF_023913515.1",
+  "files": [
+    {
+      "filePath": "GCF_023913515.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1633246"
+    }
+  ]
+},{
+  "accession": "GCF_024138125.1",
+  "files": [
+    {
+      "filePath": "GCF_024138125.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1278517"
+    }
+  ]
+},{
+  "accession": "GCF_024138165.1",
+  "files": [
+    {
+      "filePath": "GCF_024138165.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1739907"
+    }
+  ]
+},{
+  "accession": "GCF_024218775.1",
+  "files": [
+    {
+      "filePath": "GCF_024218775.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1356203"
+    }
+  ]
+},{
+  "accession": "GCF_024218795.1",
+  "files": [
+    {
+      "filePath": "GCF_024218795.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1642502"
+    }
+  ]
+},{
+  "accession": "GCF_024218815.1",
+  "files": [
+    {
+      "filePath": "GCF_024218815.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1416924"
+    }
+  ]
+},{
+  "accession": "GCF_024227435.1",
+  "files": [
+    {
+      "filePath": "GCF_024227435.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1623623"
+    }
+  ]
+},{
+  "accession": "GCF_024227715.1",
+  "files": [
+    {
+      "filePath": "GCF_024227715.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1416319"
+    }
+  ]
+},{
+  "accession": "GCF_024227995.1",
+  "files": [
+    {
+      "filePath": "GCF_024227995.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1384729"
+    }
+  ]
+},{
+  "accession": "GCF_024228315.1",
+  "files": [
+    {
+      "filePath": "GCF_024228315.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1628625"
+    }
+  ]
+},{
+  "accession": "GCF_024266705.1",
+  "files": [
+    {
+      "filePath": "GCF_024266705.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1787694"
+    }
+  ]
+},{
+  "accession": "GCF_024296685.1",
+  "files": [
+    {
+      "filePath": "GCF_024296685.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1331416"
+    }
+  ]
+},{
+  "accession": "GCF_024298825.1",
+  "files": [
+    {
+      "filePath": "GCF_024298825.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1502968"
+    }
+  ]
+},{
+  "accession": "GCF_024298865.1",
+  "files": [
+    {
+      "filePath": "GCF_024298865.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1626686"
+    }
+  ]
+},{
+  "accession": "GCF_024298885.1",
+  "files": [
+    {
+      "filePath": "GCF_024298885.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1599125"
+    }
+  ]
+},{
+  "accession": "GCF_024298905.1",
+  "files": [
+    {
+      "filePath": "GCF_024298905.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1448417"
+    }
+  ]
+},{
+  "accession": "GCF_024300625.1",
+  "files": [
+    {
+      "filePath": "GCF_024300625.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1313511"
+    }
+  ]
+},{
+  "accession": "GCF_024300825.1",
+  "files": [
+    {
+      "filePath": "GCF_024300825.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1374183"
+    }
+  ]
+},{
+  "accession": "GCF_024362405.1",
+  "files": [
+    {
+      "filePath": "GCF_024362405.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1538114"
+    }
+  ]
+},{
+  "accession": "GCF_024362485.1",
+  "files": [
+    {
+      "filePath": "GCF_024362485.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1500829"
+    }
+  ]
+},{
+  "accession": "GCF_024362525.1",
+  "files": [
+    {
+      "filePath": "GCF_024362525.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1455960"
+    }
+  ]
+},{
+  "accession": "GCF_024449025.1",
+  "files": [
+    {
+      "filePath": "GCF_024449025.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1164400"
+    }
+  ]
+},{
+  "accession": "GCF_024498175.1",
+  "files": [
+    {
+      "filePath": "GCF_024498175.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1264449"
+    }
+  ]
+},{
+  "accession": "GCF_024498195.1",
+  "files": [
+    {
+      "filePath": "GCF_024498195.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1334007"
+    }
+  ]
+},{
+  "accession": "GCF_024498335.1",
+  "files": [
+    {
+      "filePath": "GCF_024498335.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1029206"
+    }
+  ]
+},{
+  "accession": "GCF_024508235.1",
+  "files": [
+    {
+      "filePath": "GCF_024508235.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1005125"
+    }
+  ]
+},{
+  "accession": "GCF_024730625.1",
+  "files": [
+    {
+      "filePath": "GCF_024730625.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1339659"
+    }
+  ]
+},{
+  "accession": "GCF_024972735.1",
+  "files": [
+    {
+      "filePath": "GCF_024972735.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1197345"
+    }
+  ]
+},{
+  "accession": "GCF_024972755.1",
+  "files": [
+    {
+      "filePath": "GCF_024972755.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1042813"
+    }
+  ]
+},{
+  "accession": "GCF_025517495.1",
+  "files": [
+    {
+      "filePath": "GCF_025517495.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1938415"
+    }
+  ]
+},{
+  "accession": "GCF_025517565.1",
+  "files": [
+    {
+      "filePath": "GCF_025517565.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1224797"
+    }
+  ]
+},{
+  "accession": "GCF_025947005.1",
+  "files": [
+    {
+      "filePath": "GCF_025947005.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1643447"
+    }
+  ]
+},{
+  "accession": "GCF_026008575.1",
+  "files": [
+    {
+      "filePath": "GCF_026008575.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1572145"
+    }
+  ]
+},{
+  "accession": "GCF_026013925.1",
+  "files": [
+    {
+      "filePath": "GCF_026013925.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1665956"
+    }
+  ]
+},{
+  "accession": "GCF_026242195.1",
+  "files": [
+    {
+      "filePath": "GCF_026242195.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "795542"
+    }
+  ]
+},{
+  "accession": "GCF_026248685.1",
+  "files": [
+    {
+      "filePath": "GCF_026248685.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1716371"
+    }
+  ]
+},{
+  "accession": "GCF_026410925.1",
+  "files": [
+    {
+      "filePath": "GCF_026410925.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1298020"
+    }
+  ]
+},{
+  "accession": "GCF_026586625.1",
+  "files": [
+    {
+      "filePath": "GCF_026586625.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1550579"
+    }
+  ]
+},{
+  "accession": "GCF_026586675.1",
+  "files": [
+    {
+      "filePath": "GCF_026586675.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1102003"
+    }
+  ]
+},{
+  "accession": "GCF_026712385.1",
+  "files": [
+    {
+      "filePath": "GCF_026712385.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1473110"
+    }
+  ]
+},{
+  "accession": "GCF_027257195.1",
+  "files": [
+    {
+      "filePath": "GCF_027257195.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1166155"
+    }
+  ]
+},{
+  "accession": "GCF_027563145.1",
+  "files": [
+    {
+      "filePath": "GCF_027563145.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1350426"
+    }
+  ]
+},{
+  "accession": "GCF_028210825.1",
+  "files": [
+    {
+      "filePath": "GCF_028210825.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1205483"
+    }
+  ]
+},{
+  "accession": "GCF_028210945.1",
+  "files": [
+    {
+      "filePath": "GCF_028210945.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1418603"
+    }
+  ]
+},{
+  "accession": "GCF_028211005.1",
+  "files": [
+    {
+      "filePath": "GCF_028211005.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1256565"
+    }
+  ]
+},{
+  "accession": "GCF_028211085.1",
+  "files": [
+    {
+      "filePath": "GCF_028211085.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1293035"
+    }
+  ]
+},{
+  "accession": "GCF_028211095.1",
+  "files": [
+    {
+      "filePath": "GCF_028211095.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1372179"
+    }
+  ]
+},{
+  "accession": "GCF_028211275.1",
+  "files": [
+    {
+      "filePath": "GCF_028211275.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1324431"
+    }
+  ]
+},{
+  "accession": "GCF_028211355.1",
+  "files": [
+    {
+      "filePath": "GCF_028211355.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1216770"
+    }
+  ]
+},{
+  "accession": "GCF_028328625.1",
+  "files": [
+    {
+      "filePath": "GCF_028328625.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1254259"
+    }
+  ]
+},{
+  "accession": "GCF_028329625.1",
+  "files": [
+    {
+      "filePath": "GCF_028329625.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1253721"
+    }
+  ]
+},{
+  "accession": "GCF_028329665.1",
+  "files": [
+    {
+      "filePath": "GCF_028329665.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1233760"
+    }
+  ]
+},{
+  "accession": "GCF_028329825.1",
+  "files": [
+    {
+      "filePath": "GCF_028329825.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1236248"
+    }
+  ]
+},{
+  "accession": "GCF_028329875.1",
+  "files": [
+    {
+      "filePath": "GCF_028329875.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1335239"
+    }
+  ]
+},{
+  "accession": "GCF_028329925.1",
+  "files": [
+    {
+      "filePath": "GCF_028329925.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1253714"
+    }
+  ]
+},{
+  "accession": "GCF_028329985.1",
+  "files": [
+    {
+      "filePath": "GCF_028329985.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1253845"
+    }
+  ]
+},{
+  "accession": "GCF_028330485.1",
+  "files": [
+    {
+      "filePath": "GCF_028330485.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1255068"
+    }
+  ]
+},{
+  "accession": "GCF_028330545.1",
+  "files": [
+    {
+      "filePath": "GCF_028330545.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1254634"
+    }
+  ]
+},{
+  "accession": "GCF_028330555.1",
+  "files": [
+    {
+      "filePath": "GCF_028330555.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1253770"
+    }
+  ]
+},{
+  "accession": "GCF_028330585.1",
+  "files": [
+    {
+      "filePath": "GCF_028330585.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1299850"
+    }
+  ]
+},{
+  "accession": "GCF_028330605.1",
+  "files": [
+    {
+      "filePath": "GCF_028330605.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1259581"
+    }
+  ]
+},{
+  "accession": "GCF_028330625.1",
+  "files": [
+    {
+      "filePath": "GCF_028330625.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1261840"
+    }
+  ]
+},{
+  "accession": "GCF_028617175.1",
+  "files": [
+    {
+      "filePath": "GCF_028617175.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1480046"
+    }
+  ]
+},{
+  "accession": "GCF_028618695.1",
+  "files": [
+    {
+      "filePath": "GCF_028618695.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1906870"
+    }
+  ]
+},{
+  "accession": "GCF_028747785.1",
+  "files": [
+    {
+      "filePath": "GCF_028747785.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1781028"
+    }
+  ]
+},{
+  "accession": "GCF_029207715.1",
+  "files": [
+    {
+      "filePath": "GCF_029207715.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1070305"
+    }
+  ]
+},{
+  "accession": "GCF_029225785.1",
+  "files": [
+    {
+      "filePath": "GCF_029225785.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1349580"
+    }
+  ]
+},{
+  "accession": "GCF_029229925.1",
+  "files": [
+    {
+      "filePath": "GCF_029229925.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1043930"
+    }
+  ]
+},{
+  "accession": "GCF_029232225.1",
+  "files": [
+    {
+      "filePath": "GCF_029232225.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1409507"
+    }
+  ]
+},{
+  "accession": "GCF_029278565.1",
+  "files": [
+    {
+      "filePath": "GCF_029278565.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1432370"
+    }
+  ]
+},{
+  "accession": "GCF_029338195.1",
+  "files": [
+    {
+      "filePath": "GCF_029338195.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1367289"
+    }
+  ]
+},{
+  "accession": "GCF_029338215.1",
+  "files": [
+    {
+      "filePath": "GCF_029338215.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1444149"
+    }
+  ]
+},{
+  "accession": "GCF_029338235.1",
+  "files": [
+    {
+      "filePath": "GCF_029338235.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1148197"
+    }
+  ]
+},{
+  "accession": "GCF_029338255.1",
+  "files": [
+    {
+      "filePath": "GCF_029338255.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1247083"
+    }
+  ]
+},{
+  "accession": "GCF_029338275.1",
+  "files": [
+    {
+      "filePath": "GCF_029338275.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1245397"
+    }
+  ]
+},{
+  "accession": "GCF_029338295.1",
+  "files": [
+    {
+      "filePath": "GCF_029338295.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1453261"
+    }
+  ]
+},{
+  "accession": "GCF_029338315.1",
+  "files": [
+    {
+      "filePath": "GCF_029338315.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1136798"
+    }
+  ]
+},{
+  "accession": "GCF_029338335.1",
+  "files": [
+    {
+      "filePath": "GCF_029338335.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "2007968"
+    }
+  ]
+},{
+  "accession": "GCF_029338355.1",
+  "files": [
+    {
+      "filePath": "GCF_029338355.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1045317"
+    }
+  ]
+},{
+  "accession": "GCF_029338375.1",
+  "files": [
+    {
+      "filePath": "GCF_029338375.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1470894"
+    }
+  ]
+},{
+  "accession": "GCF_029338395.1",
+  "files": [
+    {
+      "filePath": "GCF_029338395.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1504862"
+    }
+  ]
+},{
+  "accession": "GCF_029338515.1",
+  "files": [
+    {
+      "filePath": "GCF_029338515.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1633032"
+    }
+  ]
+},{
+  "accession": "GCF_029338555.1",
+  "files": [
+    {
+      "filePath": "GCF_029338555.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1244550"
+    }
+  ]
+},{
+  "accession": "GCF_029338575.1",
+  "files": [
+    {
+      "filePath": "GCF_029338575.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1465858"
+    }
+  ]
+},{
+  "accession": "GCF_029489995.1",
+  "files": [
+    {
+      "filePath": "GCF_029489995.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1444826"
+    }
+  ]
+},{
+  "accession": "GCF_029490015.1",
+  "files": [
+    {
+      "filePath": "GCF_029490015.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1257800"
+    }
+  ]
+},{
+  "accession": "GCF_029530365.1",
+  "files": [
+    {
+      "filePath": "GCF_029530365.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1336552"
+    }
+  ]
+},{
+  "accession": "GCF_029814175.1",
+  "files": [
+    {
+      "filePath": "GCF_029814175.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1245383"
+    }
+  ]
+},{
+  "accession": "GCF_029872365.1",
+  "files": [
+    {
+      "filePath": "GCF_029872365.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1165849"
+    }
+  ]
+},{
+  "accession": "GCF_030127105.1",
+  "files": [
+    {
+      "filePath": "GCF_030127105.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1559114"
+    }
+  ]
+},{
+  "accession": "GCF_030127125.1",
+  "files": [
+    {
+      "filePath": "GCF_030127125.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1006282"
+    }
+  ]
+},{
+  "accession": "GCF_030127145.1",
+  "files": [
+    {
+      "filePath": "GCF_030127145.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1156386"
+    }
+  ]
+},{
+  "accession": "GCF_030127165.1",
+  "files": [
+    {
+      "filePath": "GCF_030127165.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1241183"
+    }
+  ]
+},{
+  "accession": "GCF_030273315.1",
+  "files": [
+    {
+      "filePath": "GCF_030273315.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1240181"
+    }
+  ]
+},{
+  "accession": "GCF_030287405.1",
+  "files": [
+    {
+      "filePath": "GCF_030287405.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1302465"
+    }
+  ]
+},{
+  "accession": "GCF_030345255.1",
+  "files": [
+    {
+      "filePath": "GCF_030345255.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "867910"
+    }
+  ]
+},{
+  "accession": "GCF_030734285.1",
+  "files": [
+    {
+      "filePath": "GCF_030734285.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1735907"
+    }
+  ]
+},{
+  "accession": "GCF_031165565.1",
+  "files": [
+    {
+      "filePath": "GCF_031165565.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1420957"
+    }
+  ]
+},{
+  "accession": "GCF_031580675.1",
+  "files": [
+    {
+      "filePath": "GCF_031580675.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1062651"
+    }
+  ]
+},{
+  "accession": "GCF_031624395.1",
+  "files": [
+    {
+      "filePath": "GCF_031624395.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1528043"
+    }
+  ]
+},{
+  "accession": "GCF_031624555.1",
+  "files": [
+    {
+      "filePath": "GCF_031624555.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1577264"
+    }
+  ]
+},{
+  "accession": "GCF_031624605.1",
+  "files": [
+    {
+      "filePath": "GCF_031624605.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1563474"
+    }
+  ]
+},{
+  "accession": "GCF_031624635.1",
+  "files": [
+    {
+      "filePath": "GCF_031624635.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1678136"
+    }
+  ]
+},{
+  "accession": "GCF_031852275.1",
+  "files": [
+    {
+      "filePath": "GCF_031852275.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1475843"
+    }
+  ]
+},{
+  "accession": "GCF_032113415.1",
+  "files": [
+    {
+      "filePath": "GCF_032113415.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1411031"
+    }
+  ]
+},{
+  "accession": "GCF_032116555.1",
+  "files": [
+    {
+      "filePath": "GCF_032116555.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1300676"
+    }
+  ]
+},{
+  "accession": "GCF_033100775.1",
+  "files": [
+    {
+      "filePath": "GCF_033100775.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1193760"
+    }
+  ]
+},{
+  "accession": "GCF_034808065.1",
+  "files": [
+    {
+      "filePath": "GCF_034808065.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1691243"
+    }
+  ]
+},{
+  "accession": "GCF_034808085.1",
+  "files": [
+    {
+      "filePath": "GCF_034808085.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1435978"
+    }
+  ]
+},{
+  "accession": "GCF_034808145.1",
+  "files": [
+    {
+      "filePath": "GCF_034808145.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1480189"
+    }
+  ]
+},{
+  "accession": "GCF_035666295.1",
+  "files": [
+    {
+      "filePath": "GCF_035666295.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1371693"
+    }
+  ]
+},{
+  "accession": "GCF_036429475.1",
+  "files": [
+    {
+      "filePath": "GCF_036429475.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1442497"
+    }
+  ]
+},{
+  "accession": "GCF_036584055.1",
+  "files": [
+    {
+      "filePath": "GCF_036584055.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1462446"
+    }
+  ]
+},{
+  "accession": "GCF_037080055.1",
+  "files": [
+    {
+      "filePath": "GCF_037080055.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1354735"
+    }
+  ]
+},{
+  "accession": "GCF_037081675.1",
+  "files": [
+    {
+      "filePath": "GCF_037081675.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1646984"
+    }
+  ]
+},{
+  "accession": "GCF_037094595.1",
+  "files": [
+    {
+      "filePath": "GCF_037094595.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "927874"
+    }
+  ]
+},{
+  "accession": "GCF_037198285.1",
+  "files": [
+    {
+      "filePath": "GCF_037198285.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1067237"
+    }
+  ]
+},{
+  "accession": "GCF_037201915.1",
+  "files": [
+    {
+      "filePath": "GCF_037201915.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1143222"
+    }
+  ]
+},{
+  "accession": "GCF_037482175.1",
+  "files": [
+    {
+      "filePath": "GCF_037482175.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "867143"
+    }
+  ]
+},{
+  "accession": "GCF_037914945.1",
+  "files": [
+    {
+      "filePath": "GCF_037914945.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1602891"
+    }
+  ]
+},{
+  "accession": "GCF_039522505.1",
+  "files": [
+    {
+      "filePath": "GCF_039522505.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1359263"
+    }
+  ]
+},{
+  "accession": "GCF_039522565.1",
+  "files": [
+    {
+      "filePath": "GCF_039522565.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1228403"
+    }
+  ]
+},{
+  "accession": "GCF_039522665.1",
+  "files": [
+    {
+      "filePath": "GCF_039522665.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1322844"
+    }
+  ]
+},{
+  "accession": "GCF_039522705.1",
+  "files": [
+    {
+      "filePath": "GCF_039522705.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1106603"
+    }
+  ]
+},{
+  "accession": "GCF_039544045.1",
+  "files": [
+    {
+      "filePath": "GCF_039544045.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1965328"
+    }
+  ]
+},{
+  "accession": "GCF_040025155.1",
+  "files": [
+    {
+      "filePath": "GCF_040025155.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1057155"
+    }
+  ]
+},{
+  "accession": "GCF_040435975.1",
+  "files": [
+    {
+      "filePath": "GCF_040435975.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1192361"
+    }
+  ]
+},{
+  "accession": "GCF_041530035.1",
+  "files": [
+    {
+      "filePath": "GCF_041530035.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1205723"
+    }
+  ]
+},{
+  "accession": "GCF_042216475.1",
+  "files": [
+    {
+      "filePath": "GCF_042216475.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "913217"
+    }
+  ]
+},{
+  "accession": "GCF_042218505.1",
+  "files": [
+    {
+      "filePath": "GCF_042218505.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1029701"
+    }
+  ]
+},{
+  "accession": "GCF_042429525.1",
+  "files": [
+    {
+      "filePath": "GCF_042429525.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1476923"
+    }
+  ]
+},{
+  "accession": "GCF_042651865.1",
+  "files": [
+    {
+      "filePath": "GCF_042651865.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1556468"
+    }
+  ]
+},{
+  "accession": "GCF_042653245.1",
+  "files": [
+    {
+      "filePath": "GCF_042653245.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1623764"
+    }
+  ]
+},{
+  "accession": "GCF_042653415.1",
+  "files": [
+    {
+      "filePath": "GCF_042653415.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1618966"
+    }
+  ]
+},{
+  "accession": "GCF_042654825.1",
+  "files": [
+    {
+      "filePath": "GCF_042654825.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1648118"
+    }
+  ]
+},{
+  "accession": "GCF_042654845.1",
+  "files": [
+    {
+      "filePath": "GCF_042654845.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1754938"
+    }
+  ]
+},{
+  "accession": "GCF_042657325.1",
+  "files": [
+    {
+      "filePath": "GCF_042657325.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1326746"
+    }
+  ]
+},{
+  "accession": "GCF_042661765.1",
+  "files": [
+    {
+      "filePath": "GCF_042661765.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1926793"
+    }
+  ]
+},{
+  "accession": "GCF_042661785.1",
+  "files": [
+    {
+      "filePath": "GCF_042661785.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1250330"
+    }
+  ]
+},{
+  "accession": "GCF_042662005.1",
+  "files": [
+    {
+      "filePath": "GCF_042662005.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1372450"
+    }
+  ]
+},{
+  "accession": "GCF_042662125.1",
+  "files": [
+    {
+      "filePath": "GCF_042662125.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1073751"
+    }
+  ]
+},{
+  "accession": "GCF_042662265.1",
+  "files": [
+    {
+      "filePath": "GCF_042662265.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "925797"
+    }
+  ]
+},{
+  "accession": "GCF_042662305.1",
+  "files": [
+    {
+      "filePath": "GCF_042662305.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1333371"
+    }
+  ]
+},{
+  "accession": "GCF_042662365.1",
+  "files": [
+    {
+      "filePath": "GCF_042662365.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1646700"
+    }
+  ]
+},{
+  "accession": "GCF_042662405.1",
+  "files": [
+    {
+      "filePath": "GCF_042662405.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1230575"
+    }
+  ]
+},{
+  "accession": "GCF_042662525.1",
+  "files": [
+    {
+      "filePath": "GCF_042662525.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1279003"
+    }
+  ]
+},{
+  "accession": "GCF_042662625.1",
+  "files": [
+    {
+      "filePath": "GCF_042662625.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1372859"
+    }
+  ]
+},{
+  "accession": "GCF_042663145.1",
+  "files": [
+    {
+      "filePath": "GCF_042663145.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1261467"
+    }
+  ]
+},{
+  "accession": "GCF_042663245.1",
+  "files": [
+    {
+      "filePath": "GCF_042663245.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1235554"
+    }
+  ]
+},{
+  "accession": "GCF_042663265.1",
+  "files": [
+    {
+      "filePath": "GCF_042663265.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1554202"
+    }
+  ]
+},{
+  "accession": "GCF_042663285.1",
+  "files": [
+    {
+      "filePath": "GCF_042663285.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1105390"
+    }
+  ]
+},{
+  "accession": "GCF_042663345.1",
+  "files": [
+    {
+      "filePath": "GCF_042663345.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1349474"
+    }
+  ]
+},{
+  "accession": "GCF_042663365.1",
+  "files": [
+    {
+      "filePath": "GCF_042663365.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1268086"
+    }
+  ]
+},{
+  "accession": "GCF_042664745.1",
+  "files": [
+    {
+      "filePath": "GCF_042664745.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1453273"
+    }
+  ]
+},{
+  "accession": "GCF_042665015.1",
+  "files": [
+    {
+      "filePath": "GCF_042665015.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1139177"
+    }
+  ]
+},{
+  "accession": "GCF_042677845.1",
+  "files": [
+    {
+      "filePath": "GCF_042677845.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1263244"
+    }
+  ]
+},{
+  "accession": "GCF_042677885.1",
+  "files": [
+    {
+      "filePath": "GCF_042677885.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1452356"
+    }
+  ]
+},{
+  "accession": "GCF_042677905.1",
+  "files": [
+    {
+      "filePath": "GCF_042677905.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1362846"
+    }
+  ]
+},{
+  "accession": "GCF_042677925.1",
+  "files": [
+    {
+      "filePath": "GCF_042677925.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1501433"
+    }
+  ]
+},{
+  "accession": "GCF_042677945.1",
+  "files": [
+    {
+      "filePath": "GCF_042677945.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1212680"
+    }
+  ]
+},{
+  "accession": "GCF_042677965.1",
+  "files": [
+    {
+      "filePath": "GCF_042677965.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1010802"
+    }
+  ]
+},{
+  "accession": "GCF_042678005.1",
+  "files": [
+    {
+      "filePath": "GCF_042678005.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1000738"
+    }
+  ]
+},{
+  "accession": "GCF_042678025.1",
+  "files": [
+    {
+      "filePath": "GCF_042678025.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1185010"
+    }
+  ]
+},{
+  "accession": "GCF_042678045.1",
+  "files": [
+    {
+      "filePath": "GCF_042678045.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1441186"
+    }
+  ]
+},{
+  "accession": "GCF_042678065.1",
+  "files": [
+    {
+      "filePath": "GCF_042678065.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1366047"
+    }
+  ]
+},{
+  "accession": "GCF_042678165.1",
+  "files": [
+    {
+      "filePath": "GCF_042678165.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1484613"
+    }
+  ]
+},{
+  "accession": "GCF_042678245.1",
+  "files": [
+    {
+      "filePath": "GCF_042678245.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1115495"
+    }
+  ]
+},{
+  "accession": "GCF_043950165.1",
+  "files": [
+    {
+      "filePath": "GCF_043950165.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1335664"
+    }
+  ]
+},{
+  "accession": "GCF_044593955.1",
+  "files": [
+    {
+      "filePath": "GCF_044593955.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1429458"
+    }
+  ]
+},{
+  "accession": "GCF_045690335.1",
+  "files": [
+    {
+      "filePath": "GCF_045690335.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1234520"
+    }
+  ]
+},{
+  "accession": "GCF_046097095.1",
+  "files": [
+    {
+      "filePath": "GCF_046097095.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1530128"
+    }
+  ]
+},{
+  "accession": "GCF_046226875.1",
+  "files": [
+    {
+      "filePath": "GCF_046226875.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "932744"
+    }
+  ]
+},{
+  "accession": "GCF_046719765.1",
+  "files": [
+    {
+      "filePath": "GCF_046719765.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1025086"
+    }
+  ]
+},{
+  "accession": "GCF_046764215.1",
+  "files": [
+    {
+      "filePath": "GCF_046764215.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1364609"
+    }
+  ]
+},{
+  "accession": "GCF_046764245.1",
+  "files": [
+    {
+      "filePath": "GCF_046764245.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1322475"
+    }
+  ]
+},{
+  "accession": "GCF_047715405.1",
+  "files": [
+    {
+      "filePath": "GCF_047715405.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1717295"
+    }
+  ]
+},{
+  "accession": "GCF_047779815.1",
+  "files": [
+    {
+      "filePath": "GCF_047779815.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1492315"
+    }
+  ]
+},{
+  "accession": "GCF_047921035.1",
+  "files": [
+    {
+      "filePath": "GCF_047921035.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1368567"
+    }
+  ]
+},{
+  "accession": "GCF_048595605.1",
+  "files": [
+    {
+      "filePath": "GCF_048595605.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1440354"
+    }
+  ]
+},{
+  "accession": "GCF_048595615.1",
+  "files": [
+    {
+      "filePath": "GCF_048595615.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1323275"
+    }
+  ]
+},{
+  "accession": "GCF_049568665.1",
+  "files": [
+    {
+      "filePath": "GCF_049568665.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1779316"
+    }
+  ]
+},{
+  "accession": "GCF_049603145.1",
+  "files": [
+    {
+      "filePath": "GCF_049603145.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1343404"
+    }
+  ]
+},{
+  "accession": "GCF_049603855.1",
+  "files": [
+    {
+      "filePath": "GCF_049603855.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1466889"
+    }
+  ]
+},{
+  "accession": "GCF_049603865.1",
+  "files": [
+    {
+      "filePath": "GCF_049603865.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1191272"
+    }
+  ]
+},{
+  "accession": "GCF_049604735.1",
+  "files": [
+    {
+      "filePath": "GCF_049604735.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1076180"
+    }
+  ]
+},{
+  "accession": "GCF_049604745.1",
+  "files": [
+    {
+      "filePath": "GCF_049604745.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1178511"
+    }
+  ]
+},{
+  "accession": "GCF_049605515.1",
+  "files": [
+    {
+      "filePath": "GCF_049605515.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1497290"
+    }
+  ]
+},{
+  "accession": "GCF_049705385.1",
+  "files": [
+    {
+      "filePath": "GCF_049705385.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "988863"
+    }
+  ]
+},{
+  "accession": "GCF_049705405.1",
+  "files": [
+    {
+      "filePath": "GCF_049705405.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1111478"
+    }
+  ]
+},{
+  "accession": "GCF_049705545.1",
+  "files": [
+    {
+      "filePath": "GCF_049705545.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1448714"
+    }
+  ]
+},{
+  "accession": "GCF_049705765.1",
+  "files": [
+    {
+      "filePath": "GCF_049705765.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1531744"
+    }
+  ]
+},{
+  "accession": "GCF_049705795.1",
+  "files": [
+    {
+      "filePath": "GCF_049705795.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1451252"
+    }
+  ]
+},{
+  "accession": "GCF_049958835.1",
+  "files": [
+    {
+      "filePath": "GCF_049958835.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1143030"
+    }
+  ]
+},{
+  "accession": "GCF_050510935.1",
+  "files": [
+    {
+      "filePath": "GCF_050510935.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1184882"
+    }
+  ]
+},{
+  "accession": "GCF_050563475.1",
+  "files": [
+    {
+      "filePath": "GCF_050563475.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1359432"
+    }
+  ]
+},{
+  "accession": "GCF_050871145.1",
+  "files": [
+    {
+      "filePath": "GCF_050871145.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1305779"
+    }
+  ]
+},{
+  "accession": "GCF_051122755.1",
+  "files": [
+    {
+      "filePath": "GCF_051122755.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1496687"
+    }
+  ]
+},{
+  "accession": "GCF_051122765.1",
+  "files": [
+    {
+      "filePath": "GCF_051122765.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "959197"
+    }
+  ]
+},{
+  "accession": "GCF_051194995.1",
+  "files": [
+    {
+      "filePath": "GCF_051194995.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1780629"
+    }
+  ]
+},{
+  "accession": "GCF_051195055.1",
+  "files": [
+    {
+      "filePath": "GCF_051195055.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1213259"
+    }
+  ]
+},{
+  "accession": "GCF_051195095.1",
+  "files": [
+    {
+      "filePath": "GCF_051195095.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1108438"
+    }
+  ]
+},{
+  "accession": "GCF_051195135.1",
+  "files": [
+    {
+      "filePath": "GCF_051195135.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1044751"
+    }
+  ]
+},{
+  "accession": "GCF_051195155.1",
+  "files": [
+    {
+      "filePath": "GCF_051195155.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1031392"
+    }
+  ]
+},{
+  "accession": "GCF_051801355.1",
+  "files": [
+    {
+      "filePath": "GCF_051801355.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1262914"
+    }
+  ]
+},{
+  "accession": "GCF_052043865.1",
+  "files": [
+    {
+      "filePath": "GCF_052043865.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1481486"
+    }
+  ]
+},{
+  "accession": "GCF_052043925.1",
+  "files": [
+    {
+      "filePath": "GCF_052043925.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1086837"
+    }
+  ]
+},{
+  "accession": "GCF_052510705.1",
+  "files": [
+    {
+      "filePath": "GCF_052510705.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1583965"
+    }
+  ]
+},{
+  "accession": "GCF_052598275.1",
+  "files": [
+    {
+      "filePath": "GCF_052598275.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1268444"
+    }
+  ]
+},{
+  "accession": "GCF_054780475.1",
+  "files": [
+    {
+      "filePath": "GCF_054780475.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1318948"
+    }
+  ]
+},{
+  "accession": "GCF_055378175.1",
+  "files": [
+    {
+      "filePath": "GCF_055378175.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1263237"
+    }
+  ]
+},{
+  "accession": "GCF_055378595.1",
+  "files": [
+    {
+      "filePath": "GCF_055378595.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1648552"
+    }
+  ]
+},{
+  "accession": "GCF_055379315.1",
+  "files": [
+    {
+      "filePath": "GCF_055379315.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1382299"
+    }
+  ]
+},{
+  "accession": "GCF_055379965.1",
+  "files": [
+    {
+      "filePath": "GCF_055379965.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1708801"
+    }
+  ]
+},{
+  "accession": "GCF_055380345.1",
+  "files": [
+    {
+      "filePath": "GCF_055380345.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1021337"
+    }
+  ]
+},{
+  "accession": "GCF_055381185.1",
+  "files": [
+    {
+      "filePath": "GCF_055381185.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1072590"
+    }
+  ]
+},{
+  "accession": "GCF_055381565.1",
+  "files": [
+    {
+      "filePath": "GCF_055381565.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1140717"
+    }
+  ]
+},{
+  "accession": "GCF_055381615.1",
+  "files": [
+    {
+      "filePath": "GCF_055381615.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1325471"
+    }
+  ]
+},{
+  "accession": "GCF_055382885.1",
+  "files": [
+    {
+      "filePath": "GCF_055382885.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1547289"
+    }
+  ]
+},{
+  "accession": "GCF_055384635.1",
+  "files": [
+    {
+      "filePath": "GCF_055384635.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1467388"
+    }
+  ]
+},{
+  "accession": "GCF_055389685.1",
+  "files": [
+    {
+      "filePath": "GCF_055389685.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1231216"
+    }
+  ]
+},{
+  "accession": "GCF_055390035.1",
+  "files": [
+    {
+      "filePath": "GCF_055390035.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1145079"
+    }
+  ]
+},{
+  "accession": "GCF_055395675.1",
+  "files": [
+    {
+      "filePath": "GCF_055395675.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1301499"
+    }
+  ]
+},{
+  "accession": "GCF_055396225.1",
+  "files": [
+    {
+      "filePath": "GCF_055396225.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1129642"
+    }
+  ]
+},{
+  "accession": "GCF_055396915.1",
+  "files": [
+    {
+      "filePath": "GCF_055396915.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1705441"
+    }
+  ]
+},{
+  "accession": "GCF_055397165.1",
+  "files": [
+    {
+      "filePath": "GCF_055397165.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1071338"
+    }
+  ]
+},{
+  "accession": "GCF_055398025.1",
+  "files": [
+    {
+      "filePath": "GCF_055398025.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1415466"
+    }
+  ]
+},{
+  "accession": "GCF_055632435.1",
+  "files": [
+    {
+      "filePath": "GCF_055632435.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1436379"
+    }
+  ]
+},{
+  "accession": "GCF_055632455.1",
+  "files": [
+    {
+      "filePath": "GCF_055632455.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1290311"
+    }
+  ]
+},{
+  "accession": "GCF_056135975.1",
+  "files": [
+    {
+      "filePath": "GCF_056135975.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1728792"
+    }
+  ]
+},{
+  "accession": "GCF_900003505.1",
+  "files": [
+    {
+      "filePath": "GCF_900003505.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1197305"
+    }
+  ]
+},{
+  "accession": "GCF_900003515.1",
+  "files": [
+    {
+      "filePath": "GCF_900003515.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1197110"
+    }
+  ]
+},{
+  "accession": "GCF_900003525.1",
+  "files": [
+    {
+      "filePath": "GCF_900003525.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1195421"
+    }
+  ]
+},{
+  "accession": "GCF_900003565.1",
+  "files": [
+    {
+      "filePath": "GCF_900003565.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1195586"
+    }
+  ]
+},{
+  "accession": "GCF_900003575.1",
+  "files": [
+    {
+      "filePath": "GCF_900003575.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1195265"
+    }
+  ]
+},{
+  "accession": "GCF_900004275.1",
+  "files": [
+    {
+      "filePath": "GCF_900004275.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1195468"
+    }
+  ]
+},{
+  "accession": "GCF_900005775.1",
+  "files": [
+    {
+      "filePath": "GCF_900005775.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1195744"
+    }
+  ]
+},{
+  "accession": "GCF_900100385.1",
+  "files": [
+    {
+      "filePath": "GCF_900100385.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1201245"
+    }
+  ]
+},{
+  "accession": "GCF_900101245.1",
+  "files": [
+    {
+      "filePath": "GCF_900101245.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1351282"
+    }
+  ]
+},{
+  "accession": "GCF_900102305.1",
+  "files": [
+    {
+      "filePath": "GCF_900102305.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1461152"
+    }
+  ]
+},{
+  "accession": "GCF_900102375.1",
+  "files": [
+    {
+      "filePath": "GCF_900102375.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1164505"
+    }
+  ]
+},{
+  "accession": "GCF_900103505.1",
+  "files": [
+    {
+      "filePath": "GCF_900103505.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1381694"
+    }
+  ]
+},{
+  "accession": "GCF_900104065.1",
+  "files": [
+    {
+      "filePath": "GCF_900104065.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1493162"
+    }
+  ]
+},{
+  "accession": "GCF_900106715.1",
+  "files": [
+    {
+      "filePath": "GCF_900106715.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1431159"
+    }
+  ]
+},{
+  "accession": "GCF_900107205.1",
+  "files": [
+    {
+      "filePath": "GCF_900107205.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1201053"
+    }
+  ]
+},{
+  "accession": "GCF_900107665.1",
+  "files": [
+    {
+      "filePath": "GCF_900107665.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1006436"
+    }
+  ]
+},{
+  "accession": "GCF_900108165.1",
+  "files": [
+    {
+      "filePath": "GCF_900108165.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1316486"
+    }
+  ]
+},{
+  "accession": "GCF_900108505.1",
+  "files": [
+    {
+      "filePath": "GCF_900108505.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1128367"
+    }
+  ]
+},{
+  "accession": "GCF_900109695.1",
+  "files": [
+    {
+      "filePath": "GCF_900109695.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1396476"
+    }
+  ]
+},{
+  "accession": "GCF_900110215.1",
+  "files": [
+    {
+      "filePath": "GCF_900110215.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1767470"
+    }
+  ]
+},{
+  "accession": "GCF_900110455.1",
+  "files": [
+    {
+      "filePath": "GCF_900110455.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1499492"
+    }
+  ]
+},{
+  "accession": "GCF_900110465.1",
+  "files": [
+    {
+      "filePath": "GCF_900110465.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1796330"
+    }
+  ]
+},{
+  "accession": "GCF_900110865.1",
+  "files": [
+    {
+      "filePath": "GCF_900110865.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1688629"
+    }
+  ]
+},{
+  "accession": "GCF_900111485.1",
+  "files": [
+    {
+      "filePath": "GCF_900111485.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1368929"
+    }
+  ]
+},{
+  "accession": "GCF_900111935.1",
+  "files": [
+    {
+      "filePath": "GCF_900111935.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1106681"
+    }
+  ]
+},{
+  "accession": "GCF_900112205.1",
+  "files": [
+    {
+      "filePath": "GCF_900112205.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1632048"
+    }
+  ]
+},{
+  "accession": "GCF_900114435.1",
+  "files": [
+    {
+      "filePath": "GCF_900114435.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1504322"
+    }
+  ]
+},{
+  "accession": "GCF_900114455.1",
+  "files": [
+    {
+      "filePath": "GCF_900114455.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1628070"
+    }
+  ]
+},{
+  "accession": "GCF_900115785.1",
+  "files": [
+    {
+      "filePath": "GCF_900115785.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1333399"
+    }
+  ]
+},{
+  "accession": "GCF_900129775.1",
+  "files": [
+    {
+      "filePath": "GCF_900129775.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1165169"
+    }
+  ]
+},{
+  "accession": "GCF_900156425.1",
+  "files": [
+    {
+      "filePath": "GCF_900156425.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1637935"
+    }
+  ]
+},{
+  "accession": "GCF_901686465.1",
+  "files": [
+    {
+      "filePath": "GCF_901686465.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1241221"
+    }
+  ]
+},{
+  "accession": "GCF_902381785.1",
+  "files": [
+    {
+      "filePath": "GCF_902381785.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1411993"
+    }
+  ]
+},{
+  "accession": "GCF_903989535.1",
+  "files": [
+    {
+      "filePath": "GCF_903989535.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "856931"
+    }
+  ]
+},{
+  "accession": "GCF_965136395.1",
+  "files": [
+    {
+      "filePath": "GCF_965136395.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "878054"
+    }
+  ]
+},{
+  "accession": "GCF_977561085.1",
+  "files": [
+    {
+      "filePath": "GCF_977561085.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "989055"
+    }
+  ]
+},{
+  "accession": "GCF_977573075.1",
+  "files": [
+    {
+      "filePath": "GCF_977573075.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "943249"
+    }
+  ]
+},{
+  "accession": "GCF_000383975.1",
+  "files": [
+    {
+      "filePath": "GCF_000383975.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1716702"
+    }
+  ]
+},{
+  "accession": "GCF_000403645.1",
+  "files": [
+    {
+      "filePath": "GCF_000403645.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1178563"
+    }
+  ]
+},{
+  "accession": "GCF_001971705.1",
+  "files": [
+    {
+      "filePath": "GCF_001971705.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1373171"
+    }
+  ]
+},{
+  "accession": "GCF_002906575.1",
+  "files": [
+    {
+      "filePath": "GCF_002906575.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1656336"
+    }
+  ]
+},{
+  "accession": "GCF_004799645.1",
+  "files": [
+    {
+      "filePath": "GCF_004799645.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1406974"
+    }
+  ]
+},{
+  "accession": "GCF_005239425.1",
+  "files": [
+    {
+      "filePath": "GCF_005239425.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1662562"
+    }
+  ]
+},{
+  "accession": "GCF_006543045.1",
+  "files": [
+    {
+      "filePath": "GCF_006543045.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1620855"
+    }
+  ]
+},{
+  "accession": "GCF_007004735.1",
+  "files": [
+    {
+      "filePath": "GCF_007004735.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1527334"
+    }
+  ]
+},{
+  "accession": "GCF_007833275.1",
+  "files": [
+    {
+      "filePath": "GCF_007833275.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "946646"
+    }
+  ]
+},{
+  "accession": "GCF_009834785.1",
+  "files": [
+    {
+      "filePath": "GCF_009834785.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1605838"
+    }
+  ]
+},{
+  "accession": "GCF_017357105.1",
+  "files": [
+    {
+      "filePath": "GCF_017357105.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1503975"
+    }
+  ]
+},{
+  "accession": "GCF_019693215.1",
+  "files": [
+    {
+      "filePath": "GCF_019693215.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "912041"
+    }
+  ]
+},{
+  "accession": "GCF_020614395.1",
+  "files": [
+    {
+      "filePath": "GCF_020614395.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "908802"
+    }
+  ]
+},{
+  "accession": "GCF_023204835.1",
+  "files": [
+    {
+      "filePath": "GCF_023204835.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1116199"
+    }
+  ]
+},{
+  "accession": "GCF_023973145.1",
+  "files": [
+    {
+      "filePath": "GCF_023973145.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1330355"
+    }
+  ]
+},{
+  "accession": "GCF_024138145.1",
+  "files": [
+    {
+      "filePath": "GCF_024138145.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1357635"
+    }
+  ]
+},{
+  "accession": "GCF_024204665.1",
+  "files": [
+    {
+      "filePath": "GCF_024204665.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1504352"
+    }
+  ]
+},{
+  "accession": "GCF_024228675.1",
+  "files": [
+    {
+      "filePath": "GCF_024228675.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1686281"
+    }
+  ]
+},{
+  "accession": "GCF_024296665.1",
+  "files": [
+    {
+      "filePath": "GCF_024296665.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1331123"
+    }
+  ]
+},{
+  "accession": "GCF_024298845.1",
+  "files": [
+    {
+      "filePath": "GCF_024298845.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1495066"
+    }
+  ]
+},{
+  "accession": "GCF_025231485.1",
+  "files": [
+    {
+      "filePath": "GCF_025231485.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1597320"
+    }
+  ]
+},{
+  "accession": "GCF_025517525.1",
+  "files": [
+    {
+      "filePath": "GCF_025517525.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1599997"
+    }
+  ]
+},{
+  "accession": "GCF_030505615.1",
+  "files": [
+    {
+      "filePath": "GCF_030505615.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1270569"
+    }
+  ]
+},{
+  "accession": "GCF_030734185.1",
+  "files": [
+    {
+      "filePath": "GCF_030734185.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1165481"
+    }
+  ]
+},{
+  "accession": "GCF_037335815.1",
+  "files": [
+    {
+      "filePath": "GCF_037335815.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1828857"
+    }
+  ]
+},{
+  "accession": "GCF_037338445.1",
+  "files": [
+    {
+      "filePath": "GCF_037338445.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1479346"
+    }
+  ]
+},{
+  "accession": "GCF_041641895.1",
+  "files": [
+    {
+      "filePath": "GCF_041641895.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1305666"
+    }
+  ]
+},{
+  "accession": "GCF_042652265.1",
+  "files": [
+    {
+      "filePath": "GCF_042652265.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1602005"
+    }
+  ]
+},{
+  "accession": "GCF_042657545.1",
+  "files": [
+    {
+      "filePath": "GCF_042657545.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1450131"
+    }
+  ]
+},{
+  "accession": "GCF_042662185.1",
+  "files": [
+    {
+      "filePath": "GCF_042662185.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1815535"
+    }
+  ]
+},{
+  "accession": "GCF_049705945.1",
+  "files": [
+    {
+      "filePath": "GCF_049705945.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "958178"
+    }
+  ]
+},{
+  "accession": "GCF_051351675.1",
+  "files": [
+    {
+      "filePath": "GCF_051351675.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1928813"
+    }
+  ]
+},{
+  "accession": "GCF_054776155.1",
+  "files": [
+    {
+      "filePath": "GCF_054776155.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1143259"
+    }
+  ]
+},{
+  "accession": "GCF_055390775.1",
+  "files": [
+    {
+      "filePath": "GCF_055390775.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1142802"
+    }
+  ]
+},{
+  "accession": "GCF_900108095.1",
+  "files": [
+    {
+      "filePath": "GCF_900108095.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1333933"
+    }
+  ]
+},{
+  "accession": "GCF_900156475.1",
+  "files": [
+    {
+      "filePath": "GCF_900156475.1/protein.faa",
+      "fileType": "PROTEIN_FASTA",
+      "uncompressedLengthBytes": "1486719"
+    }
+  ]
+}]}

@@ -1,0 +1,45 @@
+{
+  "source_fasta": "negative_set.fasta",
+  "source_fasta_sha256": "3b5932ad16fd2d659b196d5bd70993f9b1355edb5b453d044c1586259ffe5b05",
+  "scorer": "halc8_score_domains.py",
+  "scorer_sha256": "298207f40424fc47ff7f2e71c359568a617a624c37baaa6a1085857e71fe01d7",
+  "n_legacy_fasta_records": 9,
+  "n_domain_compatible_40_120": 8,
+  "excluded_from_domain_compatible": [
+    {
+      "accession": "Q48236",
+      "length": 359,
+      "reason": "outside_40_120"
+    }
+  ],
+  "runs": {
+    "legacy9_all": {
+      "status": "OK",
+      "input_csv": "audit_S7_canonical_20260614/rerun_hard_negative_legacy/negative_set_legacy9_all_CANONICAL_input.csv",
+      "output_csv": "audit_S7_canonical_20260614/rerun_hard_negative_legacy/negative_set_legacy9_all_CANONICAL_scores.csv",
+      "manifest_json": "audit_S7_canonical_20260614/rerun_hard_negative_legacy/negative_set_legacy9_all_CANONICAL_scores.manifest.json",
+      "n_input": 9,
+      "verdict_counts": {
+        "EXCLUDED": 9
+      },
+      "score_positive_ML_plus_PROB": 0,
+      "input_sha256": "de3e3964e4ce736c1f470aa6ce851c151ae7c4a6ec04831493decd3b5a073db4",
+      "output_sha256": "999b660e363ae839be04ed1339feefd90674f38054b11d3c5d04f433c5bb83e7",
+      "scorer_sha256": "298207f40424fc47ff7f2e71c359568a617a624c37baaa6a1085857e71fe01d7"
+    },
+    "domain_compatible_subset": {
+      "status": "OK",
+      "input_csv": "audit_S7_canonical_20260614/rerun_hard_negative_legacy/negative_set_legacy_domain_compatible_CANONICAL_input.csv",
+      "output_csv": "audit_S7_canonical_20260614/rerun_hard_negative_legacy/negative_set_domain_compatible_CANONICAL_scores.csv",
+      "manifest_json": "audit_S7_canonical_20260614/rerun_hard_negative_legacy/negative_set_domain_compatible_CANONICAL_scores.manifest.json",
+      "n_input": 8,
+      "verdict_counts": {
+        "EXCLUDED": 8
+      },
+      "score_positive_ML_plus_PROB": 0,
+      "input_sha256": "0cc9056d1f930dfd3d235ba46b3b7db1774c987cb55e06a7ca2758ed44c669e0",
+      "output_sha256": "56222106df7a43587edfbed7c93655f5f9308aaad422a6c4cbfe3d0170fb3828",
+      "scorer_sha256": "298207f40424fc47ff7f2e71c359568a617a624c37baaa6a1085857e71fe01d7"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+#                                                                                                                                                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                                                                                                                                                             accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                                                                                                                                                     ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+OP548098.1|translated_CDS|len76|cys10|ntsha256:8bb2f28ee7224acf2b86f3a33bb8e526d98bac0fd700a919ac120444d6ef8548|aasha256:2fff8a1e3dabf2e1718ec04d36110745fc11807450f4360ef436ce19659c44d9 -             76 HalC8_v2.2           -             76   9.4e-27   79.5  17.6   1   1     1e-26     1e-26   79.4  17.6     3    76     5    76     3    76 0.97 -
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      HalC8_custom_v2.2.hmm
+# Target file:     audit_S9_de_novo_20260615/01_ri2023/ri2023_OP548098_translated_CDS_protein.faa
+# Option settings: hmmsearch --tblout audit_S9_de_novo_20260615/01_ri2023/ri2023_OP548098_translated_CDS_vs_HalC8_custom.tblout --domtblout audit_S9_de_novo_20260615/01_ri2023/ri2023_OP548098_translated_CDS_vs_HalC8_custom.domtblout --noali -E 1000 --domE 1000 --max --cpu 4 HalC8_custom_v2.2.hmm audit_S9_de_novo_20260615/01_ri2023/ri2023_OP548098_translated_CDS_protein.faa 
+# Current dir:     <historical_project_root>
+# Date:            Mon Jun 15 09:51:51 2026
+# [ok]

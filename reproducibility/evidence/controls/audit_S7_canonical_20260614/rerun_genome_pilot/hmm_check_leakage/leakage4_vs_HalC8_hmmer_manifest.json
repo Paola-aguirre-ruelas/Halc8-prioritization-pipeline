@@ -1,0 +1,16 @@
+{
+  "analysis": "HMMER check of 4 PROBABLE scorer-leakage events from canonical genome pilot",
+  "fasta": "audit_S7_canonical_20260614/rerun_genome_pilot/hmm_check_leakage/genome_pilot_4_PROBABLE_leakage_events.faa",
+  "fasta_sha256": "cce684b46837470aecf6233fa3622dc52912eed896096314f2ae3d3c1552959c",
+  "hmm": "HalC8_custom_v2.2.hmm",
+  "hmm_sha256": "20f0c6643d7a714a6685bb55c30706b17003f27b425d9298fc5fa52189d69930",
+  "command": "hmmsearch --tblout audit_S7_canonical_20260614/rerun_genome_pilot/hmm_check_leakage/leakage4_vs_HalC8.tbl --domtblout audit_S7_canonical_20260614/rerun_genome_pilot/hmm_check_leakage/leakage4_vs_HalC8.domtbl --noali HalC8_custom_v2.2.hmm audit_S7_canonical_20260614/rerun_genome_pilot/hmm_check_leakage/genome_pilot_4_PROBABLE_leakage_events.faa",
+  "workflow_threshold_independent_domain_evalue": 1e-10,
+  "n_input_sequences": 4,
+  "n_domain_hits_any_threshold": 1,
+  "n_pass_workflow_threshold": 0,
+  "tblout": "audit_S7_canonical_20260614/rerun_genome_pilot/hmm_check_leakage/leakage4_vs_HalC8.tbl",
+  "domtblout": "audit_S7_canonical_20260614/rerun_genome_pilot/hmm_check_leakage/leakage4_vs_HalC8.domtbl",
+  "hmmsearch_txt": "audit_S7_canonical_20260614/rerun_genome_pilot/hmm_check_leakage/leakage4_vs_HalC8.hmmsearch.txt",
+  "summary_tsv": "audit_S7_canonical_20260614/rerun_genome_pilot/hmm_check_leakage/leakage4_vs_HalC8_threshold_summary.tsv"
+}

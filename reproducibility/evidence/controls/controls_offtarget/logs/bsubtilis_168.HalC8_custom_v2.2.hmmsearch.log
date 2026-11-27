@@ -1,0 +1,38 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.4 (Aug 2023); http://hmmer.org/
+# Copyright (C) 2023 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  ./hmm/HalC8_custom_v2.2.hmm
+# target sequence database:        controls_offtarget/downloads/bsubtilis_168.faa
+# per-dom hits tabular output:     controls_offtarget/hmmer/bsubtilis_168.HalC8_custom_v2.2.domtblout
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       HalC8_v2.2  [M=76]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+
+   [No hits detected that satisfy reporting thresholds]
+
+
+Domain annotation for each sequence (and alignments):
+
+   [No targets detected that satisfy reporting thresholds]
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (76 nodes)
+Target sequences:                       4237  (1230594 residues searched)
+Passed MSV filter:                       125  (0.029502); expected 84.7 (0.02)
+Passed bias filter:                       86  (0.0202974); expected 84.7 (0.02)
+Passed Vit filter:                         5  (0.00118008); expected 4.2 (0.001)
+Passed Fwd filter:                         0  (0); expected 0.0 (1e-05)
+Initial search space (Z):               4237  [actual number of targets]
+Domain search space  (domZ):               0  [number of targets reported over threshold]
+# CPU time: 0.02u 0.00s 00:00:00.02 Elapsed: 00:00:00.01
+# Mc/sec: 8295.99
+//
+[ok]

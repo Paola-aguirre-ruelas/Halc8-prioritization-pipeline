@@ -1,0 +1,23 @@
+{
+  "analysis": "S9 Part A de novo Ri2023 post-calibration positive audit using translated OP548098.1 CDS",
+  "input_nt_fasta": "OP548098.1.fasta",
+  "input_nt_fasta_sha256": "211f78dc747f3cd4a98991153dbeff11ddda8d9305ac38e6e7b0cfc5ba158954",
+  "nt_sequence_sha256": "8bb2f28ee7224acf2b86f3a33bb8e526d98bac0fd700a919ac120444d6ef8548",
+  "translated_protein_fasta": "audit_S9_de_novo_20260615/01_ri2023/ri2023_OP548098_translated_CDS_protein.faa",
+  "translated_protein_fasta_sha256": "8c7d57818ab2ad9e3f181f83c58bd75518e58bb05611d17f5e3e0354f4e01045",
+  "aa_sequence_sha256": "2fff8a1e3dabf2e1718ec04d36110745fc11807450f4360ef436ce19659c44d9",
+  "hmm": "HalC8_custom_v2.2.hmm",
+  "hmm_sha256": "20f0c6643d7a714a6685bb55c30706b17003f27b425d9298fc5fa52189d69930",
+  "scorer": "halc8_score_domains.py",
+  "scorer_sha256": "298207f40424fc47ff7f2e71c359568a617a624c37baaa6a1085857e71fe01d7",
+  "hmmer_command": "hmmsearch --cpu 4 --max --noali -E 1000 --domE 1000 --tblout audit_S9_de_novo_20260615/01_ri2023/ri2023_OP548098_translated_CDS_vs_HalC8_custom.tblout --domtblout audit_S9_de_novo_20260615/01_ri2023/ri2023_OP548098_translated_CDS_vs_HalC8_custom.domtblout HalC8_custom_v2.2.hmm audit_S9_de_novo_20260615/01_ri2023/ri2023_OP548098_translated_CDS_protein.faa",
+  "score_command": "python3 halc8_score_domains.py --input audit_S9_de_novo_20260615/01_ri2023/ri2023_OP548098_translated_CDS_CANONICAL_input.csv --output audit_S9_de_novo_20260615/01_ri2023/ri2023_OP548098_translated_CDS_CANONICAL_scores.csv --input-type domain --ss-mode none",
+  "outputs": {
+    "input_csv": "audit_S9_de_novo_20260615/01_ri2023/ri2023_OP548098_translated_CDS_CANONICAL_input.csv",
+    "scores_csv": "audit_S9_de_novo_20260615/01_ri2023/ri2023_OP548098_translated_CDS_CANONICAL_scores.csv",
+    "tblout": "audit_S9_de_novo_20260615/01_ri2023/ri2023_OP548098_translated_CDS_vs_HalC8_custom.tblout",
+    "domtblout": "audit_S9_de_novo_20260615/01_ri2023/ri2023_OP548098_translated_CDS_vs_HalC8_custom.domtblout",
+    "hmmer_txt": "audit_S9_de_novo_20260615/01_ri2023/ri2023_OP548098_translated_CDS_vs_HalC8_custom.hmmsearch.txt",
+    "summary_tsv": "audit_S9_de_novo_20260615/01_ri2023/ri2023_OP548098_translated_CDS_CANONICAL_summary.tsv"
+  }
+}

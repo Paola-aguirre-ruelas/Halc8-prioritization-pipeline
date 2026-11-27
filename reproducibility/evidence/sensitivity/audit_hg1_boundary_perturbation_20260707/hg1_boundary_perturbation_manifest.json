@@ -1,0 +1,23 @@
+{
+  "created": "2026-07-07T14:11:21",
+  "purpose": "HG1 N-terminal boundary perturbation audit, delta -5..+5, end fixed.",
+  "inputs": [
+    "audit_boundary_perturbation_inputs_20260707/refseq18_full_source_proteins_VERIFIED.faa",
+    "audit_boundary_perturbation_inputs_20260707/refseq18_full_source_proteins_VERIFIED.tsv",
+    "halobacteria_18_pipeline_scores_CLEAN.csv"
+  ],
+  "hg1_rule": "z1_mean >= 0.30 and z1_neg <= 3",
+  "deltas": [
+    -5,
+    -4,
+    -3,
+    -2,
+    -1,
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ]
+}

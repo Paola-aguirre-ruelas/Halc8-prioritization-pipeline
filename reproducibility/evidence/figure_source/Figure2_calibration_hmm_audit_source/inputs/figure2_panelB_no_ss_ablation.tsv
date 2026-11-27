@@ -1,0 +1,8 @@
+# Supplementary Table S9 Panel C; verified against archived calibration_42_custom_hmm_vs_tier2.tsv.
+# Delta = no-SS minus full; computed before rounding.
+metric	default_mode	no_ss_mode	delta
+Cohen's kappa	0.951	0.851	-0.100
+Sensitivity	1.000	1.000	0.000
+Specificity	0.944	0.833	-0.111
+Precision	0.960	0.889	-0.071
+F1	0.980	0.941	-0.038

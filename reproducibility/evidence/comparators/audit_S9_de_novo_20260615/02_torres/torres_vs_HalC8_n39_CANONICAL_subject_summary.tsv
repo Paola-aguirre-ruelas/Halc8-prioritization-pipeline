@@ -1,0 +1,2 @@
+analysis	n_queries	query_length_min	query_length_max	query_length_mean	n_targets	target_length_min	target_length_max	strict_blastp_raw_rows	strict_blastp_hits_E_le_1e_3_identity_ge_25	short_blastp_raw_rows	short_blastp_meaningful_best_hits_identity_ge_25_qcov_ge_50_aln_ge_8
+Torres2025 archaeasin DataS2 vs canonical HalC8 n39 mature-domain set using blastp -subject	265	10	50	18.845	39	70	90	0	0	101	6

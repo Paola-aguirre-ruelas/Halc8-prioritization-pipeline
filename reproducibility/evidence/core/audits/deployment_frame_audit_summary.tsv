@@ -1,0 +1,43 @@
+accession	tfm_verdict	calibration_binary	CF_verdict	CF_binary	none_verdict	none_binary	agreement_class
+WP_012289233.1	EXCLUDED	negative	MOST LIKELY	positive	MOST LIKELY	positive	FP
+RJT07538	PROBABLE (3/4 motif residues)	positive	MOST LIKELY	positive	MOST LIKELY	positive	TP
+ERG89865.1	EXCLUDED	negative	PROBABLE	positive	PROBABLE	positive	FP
+WP_136361702.1	PROBABLE (3/4 motif residues)	positive	PROBABLE	positive	PROBABLE	positive	TP
+WP_176705236.1	EXCLUDED	negative	PROBABLE	positive	PROBABLE	positive	FP
+WP_205251884.1	MOST LIKELY (4/4 motif residues)	positive	PROBABLE	positive	PROBABLE	positive	TP
+WP_205252761.1	MOST LIKELY (4/4 motif residues)	positive	PROBABLE	positive	PROBABLE	positive	TP
+SEL80679.1	PROBABLE (3/4 motif residues)	positive	PROBABLE	positive	PROBABLE	positive	TP
+WP_148414791.1	PROBABLE (3/4 motif residues)	positive	PROBABLE	positive	PROBABLE	positive	TP
+WP_206536420.1	PROBABLE (3/4 motif residues)	positive	PROBABLE	positive	PROBABLE	positive	TP
+WP_049926653.1	PROBABLE (3/4 motif residues)	positive	PROBABLE	positive	PROBABLE	positive	TP
+OAQ51225.1	PROBABLE (3/4 motif residues)	positive	PROBABLE	positive	PROBABLE	positive	TP
+WP_006648340.1	PROBABLE (3/4 motif residues)	positive	PROBABLE	positive	PROBABLE	positive	TP
+WP_008892994.1	PROBABLE (3/4 motif residues)	positive	PROBABLE	positive	PROBABLE	positive	TP
+WP_049965037.1	PROBABLE (3/4 motif residues)	positive	PROBABLE	positive	PROBABLE	positive	TP
+WP_130170015.1	PROBABLE (3/4 motif residues)	positive	PROBABLE	positive	PROBABLE	positive	TP
+WP_174682227.1	PROBABLE (3/4 motif residues)	positive	PROBABLE	positive	PROBABLE	positive	TP
+WP_204746614.1	PROBABLE (3/4 motif residues)	positive	PROBABLE	positive	PROBABLE	positive	TP
+WP_083870254.1	PROBABLE (3/4 motif residues)	positive	PROBABLE	positive	PROBABLE	positive	TP
+WP_128476080.1	EXCLUDED	negative	PROBABLE	positive	PROBABLE	positive	FP
+WP_161606962.1	EXCLUDED	negative	PROBABLE	positive	PROBABLE	positive	FP
+WP_135825305.1	PROBABLE (3/4 motif residues)	positive	MARGINAL	negative	MARGINAL	negative	FN
+WP_163522828.1	EXCLUDED	negative	MARGINAL	negative	MARGINAL	negative	TN
+ERH11636.1	EXCLUDED	negative	EXCLUDED	negative	EXCLUDED	negative	TN
+WP_202932656.1	EXCLUDED	negative	EXCLUDED	negative	EXCLUDED	negative	TN
+WP_202935063.1	EXCLUDED	negative	EXCLUDED	negative	EXCLUDED	negative	TN
+WP_208023473.1	EXCLUDED	negative	EXCLUDED	negative	EXCLUDED	negative	TN
+WP_135535699.1	MOST LIKELY (4/4 motif residues)	positive	EXCLUDED	negative	EXCLUDED	negative	FN
+SEH15762.1	PROBABLE (3/4 motif residues)	positive	EXCLUDED	negative	EXCLUDED	negative	FN
+WP_135854137.1	PROBABLE (3/4 motif residues)	positive	EXCLUDED	negative	EXCLUDED	negative	FN
+WP_126663589.1	MOST LIKELY (4/4 motif residues)	positive	EXCLUDED	negative	EXCLUDED	negative	FN
+QCD65580.1	PROBABLE (3/4 motif residues)	positive	EXCLUDED	negative	EXCLUDED	negative	FN
+WP_211249102.1	EXCLUDED	negative	EXCLUDED	negative	EXCLUDED	negative	TN
+WP_015299009.1	EXCLUDED	negative	EXCLUDED	negative	EXCLUDED	negative	TN
+WP_083864503.1	EXCLUDED	negative	EXCLUDED	negative	EXCLUDED	negative	TN
+WP_012943185.1	EXCLUDED	negative	EXCLUDED	negative	EXCLUDED	negative	TN
+AGB32219.1	EXCLUDED	negative	EXCLUDED	negative	EXCLUDED	negative	TN
+WP_138653937.1	PROBABLE (3/4 motif residues)	positive	EXCLUDED	negative	EXCLUDED	negative	FN
+WP_084813291.1	EXCLUDED	negative	EXCLUDED	negative	EXCLUDED	negative	TN
+WP_153552385.1	EXCLUDED	negative	EXCLUDED	negative	EXCLUDED	negative	TN
+WP_170093409.1	EXCLUDED	negative	EXCLUDED	negative	EXCLUDED	negative	TN
+WP_135829766.1	PROBABLE (3/4 motif residues)	positive	EXCLUDED	negative	EXCLUDED	negative	FN
