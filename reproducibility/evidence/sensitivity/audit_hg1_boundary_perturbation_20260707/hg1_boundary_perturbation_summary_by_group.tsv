@@ -1,0 +1,4 @@
+group	n_accessions	baseline_hg1_pass_n	baseline_hg1_fail_n	stable_hg1_n	unstable_hg1_n	stable_fraction	accessions_with_flips
+boundary_record	1	1	0	1	0	1.0	none
+fully_assessable_score_positive	12	12	0	5	7	0.416667	WP_004043226.1,WP_004975848.1,WP_006600928.1,WP_115805229.1,WP_136361253.1,WP_238705315.1,WP_255409965.1
+other_not_prioritized	5	1	4	3	2	0.6	WP_276302450.1,WP_425499747.1

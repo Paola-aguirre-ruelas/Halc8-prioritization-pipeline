@@ -1,0 +1,2 @@
+source_file	folds_evaluated	folds_same_operating_point	best_z1_req	best_score_ml	best_score_prob	train_kappa_min	train_kappa_median	train_kappa_max	deployed_kappa
+LOOCV_detailed.csv	42	42	True	6.5	3.5	0.949	0.95	1.0	0.951

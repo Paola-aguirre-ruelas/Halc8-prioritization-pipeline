@@ -1,0 +1,7 @@
+synteny_figures_final/S5_non_AS7092_C2_C4_C5/inputs/AS7092 HalC8 reference.gbk
+synteny_figures_final/S5_non_AS7092_C2_C4_C5/inputs/C2 . WP_136361253.1 . Halobacterium salinarum.gbk
+synteny_figures_final/S5_non_AS7092_C2_C4_C5/inputs/C4 . WP_006600928.1 . Haloferax sp..gbk
+synteny_figures_final/S5_non_AS7092_C2_C4_C5/inputs/C4 . WP_004043226.1 . Haloferax volcanii.gbk
+synteny_figures_final/S5_non_AS7092_C2_C4_C5/inputs/C4 . WP_115805229.1 . Haloferax sp. Atlit-4N.gbk
+synteny_figures_final/S5_non_AS7092_C2_C4_C5/inputs/C4 . WP_004975848.1 . Haloferax gibbonsii.gbk
+synteny_figures_final/S5_non_AS7092_C2_C4_C5/inputs/C5 . WP_010904171.1 . Halobacterium salinarum NRC-1.gbk

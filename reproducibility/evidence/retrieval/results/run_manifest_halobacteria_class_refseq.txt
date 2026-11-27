@@ -1,0 +1,43 @@
+Run date: Fri May  1 14:23:28 CEST 2026
+Scope: Class-wide RefSeq-deposited Halobacteria proteomes
+Taxon: Halobacteria, NCBI TaxID 183963
+
+NCBI Datasets command:
+datasets download genome taxon 183963 --include protein --assembly-source RefSeq --assembly-level complete,chromosome,scaffold
+
+Deduplication:
+CD-HIT exact deduplication, -c 1.0 -n 5 -M 2000 -T 1
+
+HMMER search:
+hmmsearch --cpu 1 --domE 1e-10 --incdomE 1e-10 HalC8_v2.2.hmm halobacteria_refseq_nr100.faa
+
+Final publication threshold:
+Independent domain E-value, i-Evalue, domtblout column 13 ≤ 1e-10
+
+Protein count before dedup:
+1975023
+
+Protein count after nr100 dedup:
+1540190
+
+Raw HMMER-reported domain rows:
+      51 refseq_halobacteria_class/results/halobacteria_HalC8_v2.2.domtblout.noheader
+
+Strict i-Evalue domain rows:
+      44 refseq_halobacteria_class/results/halobacteria_HalC8_v2.2.iEvalue_1e-10.domtblout
+
+Strict i-Evalue unique targets:
+      44 refseq_halobacteria_class/results/halobacteria_HalC8_v2.2.iEvalue_1e-10.unique_targets.txt
+
+c-Evalue pass but i-Evalue fail rows:
+       7 refseq_halobacteria_class/results/halobacteria_cE_pass_iE_fail.domtblout
+
+Multi-domain target count:
+       0 refseq_halobacteria_class/results/halobacteria_iEvalue_1e-10.multi_domain_targets.txt
+
+Software versions:
+datasets version: 18.25.1
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.4 (Aug 2023); http://hmmer.org/
+		====== CD-HIT version 4.8.1 (built on Apr 24 2025) ======
+

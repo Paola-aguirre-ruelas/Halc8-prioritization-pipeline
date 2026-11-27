@@ -1,0 +1,13 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      NF040679.hmm
+# Target file:     precursors_10.fasta
+# Option settings: hmmsearch --tblout ncbifam_precursors_1e5.tblout --domtblout ncbifam_precursors_dom.domtblout --noali -E 1e-5 --cpu 4 NF040679.hmm precursors_10.fasta 
+# Current dir:     <historical_project_root>
+# Date:            Tue May 19 22:31:08 2026
+# [ok]

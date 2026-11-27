@@ -1,0 +1,14 @@
+accession_raw	accession	length	z3_len	z3_empty	out_of_design_for_z3	verdict	score	z3_mean	pts_hydro_z3	imputation_dependent_score_flag	fully_assessable	canonical_cluster	context_class	is_cluster5	interpretive_status
+WP_238705315.1_domain_208_283	WP_238705315.1	76	26	False	False	MOST LIKELY		0.11	1.0	False	True	Cluster 1	AS7092-supported	False	fully_assessable_score_positive
+WP_242509208.1_domain_208_283	WP_242509208.1	76	26	False	False	MOST LIKELY		0.095	1.0	False	True	Cluster 1	AS7092-supported	False	fully_assessable_score_positive
+WP_204749171.1_domain_173_248	WP_204749171.1	76	26	False	False	MOST LIKELY		0.11	1.0	False	True	Cluster 1	AS7092-supported	False	fully_assessable_score_positive
+WP_211338378.1_domain_173_248	WP_211338378.1	76	26	False	False	MOST LIKELY		0.11	1.0	False	True	Cluster 1	AS7092-supported	False	fully_assessable_score_positive
+WP_228371019.1_domain_41_114	WP_228371019.1	74	24	False	False	MOST LIKELY		0.055	1.0	False	True	Cluster 1	AS7092-supported	False	fully_assessable_score_positive
+WP_015299281.1_domain_219_294	WP_015299281.1	76	26	False	False	MOST LIKELY		0.006	1.0	False	True	Cluster 3	AS7092-supported	False	fully_assessable_score_positive
+WP_136361253.1_domain_161_238	WP_136361253.1	78	28	False	False	MOST LIKELY		0.561	1.0	False	True	Cluster 2	cassette-unsupported	False	fully_assessable_score_positive
+WP_255409965.1_domain_95_171	WP_255409965.1	77	27	False	False	PROBABLE		0.25	1.0	False	True	Cluster 4	recurrent non-AS7092 Haloferax	False	fully_assessable_score_positive
+WP_004043226.1_domain_229_305	WP_004043226.1	77	27	False	False	PROBABLE		0.25	1.0	False	True	Cluster 4	recurrent non-AS7092 Haloferax	False	fully_assessable_score_positive
+WP_006600928.1_domain_230_306	WP_006600928.1	77	27	False	False	PROBABLE		0.25	1.0	False	True	Cluster 4	recurrent non-AS7092 Haloferax	False	fully_assessable_score_positive
+WP_115805229.1_domain_230_306	WP_115805229.1	77	27	False	False	PROBABLE		0.343	1.0	False	True	Cluster 4	recurrent non-AS7092 Haloferax	False	fully_assessable_score_positive
+WP_004975848.1_domain_230_306	WP_004975848.1	77	27	False	False	PROBABLE		0.343	1.0	False	True	Cluster 4	recurrent non-AS7092 Haloferax	False	fully_assessable_score_positive
+WP_010904171.1_domain_204_253	WP_010904171.1	50	0	True	True	PROBABLE		0.0	1.0	True	False	Cluster 5	Zone-3-imputed partial-domain	True	z3_imputed_operational_partial_domain

@@ -1,0 +1,43 @@
+accession	binary_label	tfm_verdict	original_length	included_in_n39	domain_source	domain_start	domain_end	domain_length	domain_cys	domain_i_evalue	exclusion_reason
+ERG89865.1	NEGATIVE	EXCLUDED	90	YES	full_sequence_domain_compatible	1	90	90	10		
+ERH11636.1	NEGATIVE	EXCLUDED	80	YES	full_sequence_domain_compatible	1	80	80	8		
+WP_012289233.1	NEGATIVE	EXCLUDED	80	YES	full_sequence_domain_compatible	1	80	80	8		
+WP_136361702.1	POSITIVE	PROBABLE	80	YES	full_sequence_domain_compatible	1	80	80	8		
+WP_176705236.1	NEGATIVE	EXCLUDED	80	YES	full_sequence_domain_compatible	1	80	80	8		
+WP_205251884.1	POSITIVE	MOST LIKELY	298	YES	extracted_best_HalC8_custom_domain	210	282	73	10	1e-23	
+WP_205252761.1	POSITIVE	MOST LIKELY	80	YES	full_sequence_domain_compatible	1	80	80	8		
+SEL80679.1	POSITIVE	PROBABLE	310	YES	extracted_best_HalC8_custom_domain	222	294	73	10	2.4e-28	
+WP_148414791.1	POSITIVE	PROBABLE	296	YES	extracted_best_HalC8_custom_domain	208	280	73	10	1.2e-28	
+WP_206536420.1	POSITIVE	PROBABLE	80	YES	full_sequence_domain_compatible	1	80	80	8		
+WP_049926653.1	POSITIVE	PROBABLE	80	YES	full_sequence_domain_compatible	1	80	80	10		
+WP_202932656.1	NEGATIVE	EXCLUDED	80	YES	full_sequence_domain_compatible	1	80	80	8		
+WP_202935063.1	NEGATIVE	EXCLUDED	80	YES	full_sequence_domain_compatible	1	80	80	8		
+WP_208023473.1	NEGATIVE	EXCLUDED	80	YES	full_sequence_domain_compatible	1	80	80	8		
+WP_135535699.1	POSITIVE	MOST LIKELY	80	YES	full_sequence_domain_compatible	1	80	80	10		
+OAQ51225.1	POSITIVE	PROBABLE	80	YES	full_sequence_domain_compatible	1	80	80	10		
+WP_006648340.1	POSITIVE	PROBABLE	273	YES	extracted_best_HalC8_custom_domain	185	257	73	10	1e-26	
+WP_008892994.1	POSITIVE	PROBABLE	80	YES	full_sequence_domain_compatible	1	80	80	8		
+WP_049965037.1	POSITIVE	PROBABLE	80	YES	full_sequence_domain_compatible	1	80	80	10		
+WP_130170015.1	POSITIVE	PROBABLE	80	YES	full_sequence_domain_compatible	1	80	80	8		
+SEH15762.1	POSITIVE	PROBABLE	80	YES	full_sequence_domain_compatible	1	80	80	8		
+WP_174682227.1	POSITIVE	PROBABLE	316	YES	extracted_best_HalC8_custom_domain	227	299	73	10	5.7e-26	
+WP_204746614.1	POSITIVE	PROBABLE	80	YES	full_sequence_domain_compatible	1	80	80	8		
+WP_083870254.1	POSITIVE	PROBABLE	80	YES	full_sequence_domain_compatible	1	80	80	8		
+WP_135854137.1	POSITIVE	PROBABLE	80	YES	full_sequence_domain_compatible	1	80	80	8		
+WP_135825305.1	POSITIVE	PROBABLE	80	YES	full_sequence_domain_compatible	1	80	80	8		
+WP_126663589.1	POSITIVE	MOST LIKELY	80	YES	full_sequence_domain_compatible	1	80	80	10		
+QCD65580.1	POSITIVE	PROBABLE	80	YES	full_sequence_domain_compatible	1	80	80	10		
+WP_128476080.1	NEGATIVE	EXCLUDED	80	YES	full_sequence_domain_compatible	1	80	80	10		
+WP_163522828.1	NEGATIVE	EXCLUDED	80	YES	full_sequence_domain_compatible	1	80	80	12		
+WP_135829766.1	POSITIVE	PROBABLE	80	YES	full_sequence_domain_compatible	1	80	80	8		
+WP_211249102.1	NEGATIVE	EXCLUDED	44	NO	excluded						fragment/domain-unstable calibration sequence; excluded from mature-domain HMM benchmark
+WP_015299009.1	NEGATIVE	EXCLUDED	80	YES	full_sequence_domain_compatible	1	80	80	10		
+WP_161606962.1	NEGATIVE	EXCLUDED	80	YES	full_sequence_domain_compatible	1	80	80	12		
+AGB32219.1	NEGATIVE	EXCLUDED	56	NO	excluded						fragment/domain-unstable calibration sequence; excluded from mature-domain HMM benchmark
+WP_138653937.1	POSITIVE	PROBABLE	56	NO	excluded						fragment/domain-unstable calibration sequence; excluded from mature-domain HMM benchmark
+WP_084813291.1	NEGATIVE	EXCLUDED	298	YES	extracted_best_HalC8_custom_domain	222	294	73	10	6.6e-11	
+WP_083864503.1	NEGATIVE	EXCLUDED	264	YES	extracted_best_HalC8_custom_domain	188	264	77	10	1.8e-17	
+WP_153552385.1	NEGATIVE	EXCLUDED	80	YES	full_sequence_domain_compatible	1	80	80	8		
+WP_170093409.1	NEGATIVE	EXCLUDED	169	YES	extracted_best_HalC8_custom_domain	100	169	70	8	8.3e-18	
+RJT07538	POSITIVE	PROBABLE	80	YES	full_sequence_domain_compatible	1	80	80	10		
+WP_012943185.1	NEGATIVE	EXCLUDED	264	YES	extracted_best_HalC8_custom_domain	188	264	77	10	3.7e-16	

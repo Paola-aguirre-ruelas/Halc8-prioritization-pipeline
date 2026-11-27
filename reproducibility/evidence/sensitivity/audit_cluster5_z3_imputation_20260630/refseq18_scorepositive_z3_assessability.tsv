@@ -1,0 +1,19 @@
+accession	length	z3_len	z3_empty	out_of_design_for_z3	verdict	score_positive	score	z3_mean	pts_hydro_z3	imputation_dependent_score_flag	fully_assessable	is_cluster5_WP_010904171
+WP_238705315.1_domain_208_283	76	26	False	False	MOST LIKELY	True		0.11	1.0	False	True	False
+WP_242509208.1_domain_208_283	76	26	False	False	MOST LIKELY	True		0.095	1.0	False	True	False
+WP_204749171.1_domain_173_248	76	26	False	False	MOST LIKELY	True		0.11	1.0	False	True	False
+WP_211338378.1_domain_173_248	76	26	False	False	MOST LIKELY	True		0.11	1.0	False	True	False
+WP_228371019.1_domain_41_114	74	24	False	False	MOST LIKELY	True		0.055	1.0	False	True	False
+WP_015299281.1_domain_219_294	76	26	False	False	MOST LIKELY	True		0.006	1.0	False	True	False
+WP_136361253.1_domain_161_238	78	28	False	False	MOST LIKELY	True		0.561	1.0	False	True	False
+WP_255409965.1_domain_95_171	77	27	False	False	PROBABLE	True		0.25	1.0	False	True	False
+WP_004043226.1_domain_229_305	77	27	False	False	PROBABLE	True		0.25	1.0	False	True	False
+WP_006600928.1_domain_230_306	77	27	False	False	PROBABLE	True		0.25	1.0	False	True	False
+WP_115805229.1_domain_230_306	77	27	False	False	PROBABLE	True		0.343	1.0	False	True	False
+WP_004975848.1_domain_230_306	77	27	False	False	PROBABLE	True		0.343	1.0	False	True	False
+WP_010904171.1_domain_204_253	50	0	True	True	PROBABLE	True		0.0	1.0	True	False	False
+WP_276302450.1_domain_564_635	72	22	False	False	MARGINAL	False		-0.289	1.0	False	False	False
+WP_276279820.1_domain_183_259	77	27	False	False	EXCLUDED	False		0.542	1.0	False	False	False
+WP_253478286.1_domain_197_273	77	27	False	False	EXCLUDED	False		0.367	1.0	False	False	False
+WP_166035560.1_domain_181_257	77	27	False	False	EXCLUDED	False		0.447	1.0	False	False	False
+WP_425499747.1_domain_78_150	73	23	False	False	EXCLUDED	False		0.216	1.0	False	False	False

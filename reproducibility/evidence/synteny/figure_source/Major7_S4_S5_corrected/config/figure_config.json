@@ -1,0 +1,13 @@
+{
+  "S4": {
+    "row_order": ["REF", "WP_242509208.1", "WP_238705315.1", "WP_228371019.1", "WP_211338378.1", "WP_204749171.1", "WP_015299281.1"],
+    "row_notes": {}
+  },
+  "S5": {
+    "row_order": ["REF", "WP_006600928.1", "WP_004043226.1", "WP_115805229.1", "WP_004975848.1", "WP_136361253.1", "WP_010904171.1"],
+    "row_notes": {"WP_010904171.1": "Archived partial-domain boundary record"}
+  },
+  "organism_overrides": {},
+  "width_mm": 170,
+  "min_link_identity": 0.0
+}

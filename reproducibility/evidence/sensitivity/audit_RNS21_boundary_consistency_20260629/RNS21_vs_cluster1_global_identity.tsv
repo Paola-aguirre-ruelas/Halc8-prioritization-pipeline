@@ -1,0 +1,6 @@
+query	query_length	target	target_length	global_identity_pct	matches	alignment_length	gaps
+RNS21	76	WP_242509208.1	76	98.684	75	76	0
+RNS21	76	WP_238705315.1	76	96.053	73	76	0
+RNS21	76	WP_228371019.1	74	93.421	71	76	2
+RNS21	76	WP_204749171.1	76	88.158	67	76	0
+RNS21	76	WP_211338378.1	76	88.158	67	76	0

@@ -1,0 +1,42 @@
+{
+  "analysis": "S8 de novo canonical rebuild of n=39 mature-domain-compatible HMM benchmark set from n=42 calibration universe",
+  "n42_fasta": "calibration_42_for_amp_predictors.fasta",
+  "n42_fasta_sha256": "6708c0edbd23ccf00e059b0120626550b52b5e74d2bde2e315a457508897854f",
+  "labels_csv": "calibration_42_labels.csv",
+  "labels_csv_sha256": "766f00175af176e61597fd3755efd0d790ec5029ed8dd5d291fe2e6e50b7eeca",
+  "custom_hmm_for_domain_extraction": "HalC8_custom_v2.2.hmm",
+  "custom_hmm_sha256": "20f0c6643d7a714a6685bb55c30706b17003f27b425d9298fc5fa52189d69930",
+  "hmmer_domain_extraction_command": "hmmsearch --cpu 4 --noali --tblout audit_S8_de_novo_20260615/01_build_sets/n42_vs_HalC8_custom_for_domain_extraction.tblout --domtblout audit_S8_de_novo_20260615/01_build_sets/n42_vs_HalC8_custom_for_domain_extraction.domtblout HalC8_custom_v2.2.hmm calibration_42_for_amp_predictors.fasta",
+  "n42_records": 42,
+  "n42_label_counts": {
+    "NEGATIVE": 18,
+    "POSITIVE": 24
+  },
+  "excluded_from_n39": {
+    "AGB32219.1": "fragment/domain-unstable calibration sequence; excluded from mature-domain HMM benchmark",
+    "WP_138653937.1": "fragment/domain-unstable calibration sequence; excluded from mature-domain HMM benchmark",
+    "WP_211249102.1": "fragment/domain-unstable calibration sequence; excluded from mature-domain HMM benchmark"
+  },
+  "n39_records": 39,
+  "n39_label_counts": {
+    "NEGATIVE": 16,
+    "POSITIVE": 23
+  },
+  "n39_domain_source_counts": {
+    "full_sequence_domain_compatible": 30,
+    "extracted_best_HalC8_custom_domain": 9
+  },
+  "n39_domain_length_range": [
+    70,
+    90
+  ],
+  "outputs": {
+    "audit42": "audit_S8_de_novo_20260615/01_build_sets/calibration_42_CANONICAL_input_audit.tsv",
+    "eligibility": "audit_S8_de_novo_20260615/01_build_sets/calibration_42_to_39_CANONICAL_eligibility.tsv",
+    "n39_fasta": "audit_S8_de_novo_20260615/01_build_sets/calibration_39_CANONICAL_for_HMMER.faa",
+    "n39_labels": "audit_S8_de_novo_20260615/01_build_sets/calibration_39_CANONICAL_labels.tsv",
+    "domain_extraction_tblout": "audit_S8_de_novo_20260615/01_build_sets/n42_vs_HalC8_custom_for_domain_extraction.tblout",
+    "domain_extraction_domtblout": "audit_S8_de_novo_20260615/01_build_sets/n42_vs_HalC8_custom_for_domain_extraction.domtblout",
+    "domain_extraction_hmmsearch_txt": "audit_S8_de_novo_20260615/01_build_sets/n42_vs_HalC8_custom_for_domain_extraction.hmmsearch.txt"
+  }
+}

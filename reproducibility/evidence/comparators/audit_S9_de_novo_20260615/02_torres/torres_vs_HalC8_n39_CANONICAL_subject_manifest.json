@@ -1,0 +1,35 @@
+{
+  "analysis": "S9 Part B de novo Torres2025 archaeasin complementarity audit; BLASTP subject mode used because makeblastdb failed locally with memory-map errors",
+  "query_fasta": "torres2025_archaeasins_DataS2.fasta",
+  "query_fasta_sha256": "fd2b19f23f8a75afd39f5b820dad488ca8e4390dbea435238650069d6cdf2fe0",
+  "target_fasta_original": "audit_S8_de_novo_20260615/01_build_sets/calibration_39_CANONICAL_for_HMMER.faa",
+  "target_fasta_original_sha256": "fa6a1d8a9f69149424c2e0a1d68e84524ca3b87a5432b1c20dc6a77f01ce53e8",
+  "target_fasta_subject_sanitized": "audit_S9_de_novo_20260615/02_torres/HalC8_n39_CANONICAL_for_BLAST_subject_sanitized.faa",
+  "target_fasta_subject_sanitized_sha256": "5a143cff6d492352bd45befa42bd6be1f794434f9acd904afbe9de7070b49274",
+  "target_id_map": "audit_S9_de_novo_20260615/02_torres/HalC8_n39_CANONICAL_for_BLAST_subject_sanitized_id_map.tsv",
+  "target_id_map_sha256": "b08f992d92665d609d99ad806a23469e2e33999ea56e0e51f2c5d0546cf85a0b",
+  "strict_blastp_command": "blastp -query torres2025_archaeasins_DataS2.fasta -subject audit_S9_de_novo_20260615/02_torres/HalC8_n39_CANONICAL_for_BLAST_subject_sanitized.faa -out audit_S9_de_novo_20260615/02_torres/torres_vs_HalC8_n39_blastp_strict_subject.tsv -outfmt 6 qseqid sseqid pident length mismatch gapopen qstart qend sstart send evalue bitscore qlen slen qcovs -evalue 1e-3",
+  "short_blastp_command": "blastp -task blastp-short -query torres2025_archaeasins_DataS2.fasta -subject audit_S9_de_novo_20260615/02_torres/HalC8_n39_CANONICAL_for_BLAST_subject_sanitized.faa -out audit_S9_de_novo_20260615/02_torres/torres_vs_HalC8_n39_blastp_short_subject.tsv -outfmt 6 qseqid sseqid pident length mismatch gapopen qstart qend sstart send evalue bitscore qlen slen qcovs -evalue 10",
+  "strict_hit_definition": "blastp -subject, E<=1e-3, identity>=25%",
+  "short_meaningful_hit_definition": "blastp-short -subject, E<=10 reported hits post-filtered by identity>=25%, query coverage>=50%, alignment length>=8 aa; best hit per query retained",
+  "outputs": {
+    "query_audit": "audit_S9_de_novo_20260615/02_torres/torres_DataS2_query_audit.tsv",
+    "target_sanitized": "audit_S9_de_novo_20260615/02_torres/HalC8_n39_CANONICAL_for_BLAST_subject_sanitized.faa",
+    "target_map": "audit_S9_de_novo_20260615/02_torres/HalC8_n39_CANONICAL_for_BLAST_subject_sanitized_id_map.tsv",
+    "strict_raw": "audit_S9_de_novo_20260615/02_torres/torres_vs_HalC8_n39_blastp_strict_subject.tsv",
+    "short_raw": "audit_S9_de_novo_20260615/02_torres/torres_vs_HalC8_n39_blastp_short_subject.tsv",
+    "strict_filtered": "audit_S9_de_novo_20260615/02_torres/torres_vs_HalC8_n39_strict_subject_hits_filtered.tsv",
+    "short_filtered": "audit_S9_de_novo_20260615/02_torres/torres_vs_HalC8_n39_short_subject_meaningful_hits_filtered.tsv",
+    "summary": "audit_S9_de_novo_20260615/02_torres/torres_vs_HalC8_n39_CANONICAL_subject_summary.tsv"
+  },
+  "sha256": {
+    "query_audit": "6fbcb8006c4e3fa6d8c359239dbac38890da15ea56fe5caabced65c273d8f16a",
+    "target_sanitized": "5a143cff6d492352bd45befa42bd6be1f794434f9acd904afbe9de7070b49274",
+    "target_map": "b08f992d92665d609d99ad806a23469e2e33999ea56e0e51f2c5d0546cf85a0b",
+    "strict_raw": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "short_raw": "db9faae7dcca12cca2cef279ab94e86dfc7ed5fede24ce0adc3567fe342e2706",
+    "strict_filtered": "3d9ba883d895537f49bf3d8c1dcf588e975333714a54e577d2faae9f225d754e",
+    "short_filtered": "e03d76c8a856f05242b5567246c75bb7acc6f8d412d194591f03fa15fac85f87",
+    "summary": "9ea3a61f095c45c28f539f438fdcbe6cacdd9093d0cdc76ae9dea4f364371801"
+  }
+}

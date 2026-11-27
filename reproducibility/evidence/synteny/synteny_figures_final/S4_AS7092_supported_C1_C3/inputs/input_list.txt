@@ -1,0 +1,7 @@
+synteny_figures_final/S4_AS7092_supported_C1_C3/inputs/AS7092 HalC8 reference.gbk
+synteny_figures_final/S4_AS7092_supported_C1_C3/inputs/C1 . WP_242509208.1 . Natrinema altunense.gbk
+synteny_figures_final/S4_AS7092_supported_C1_C3/inputs/C1 . WP_238705315.1 . Natrinema pallidum.gbk
+synteny_figures_final/S4_AS7092_supported_C1_C3/inputs/C1 . WP_228371019.1 . Natrinema sp..gbk
+synteny_figures_final/S4_AS7092_supported_C1_C3/inputs/C1 . WP_211338378.1 . Haloterrigena salifodinae.gbk
+synteny_figures_final/S4_AS7092_supported_C1_C3/inputs/C1 . WP_204749171.1 . Haloterrigena salifodinae.gbk
+synteny_figures_final/S4_AS7092_supported_C1_C3/inputs/C3 . WP_015299281.1 . Natrinema pellirubrum.gbk

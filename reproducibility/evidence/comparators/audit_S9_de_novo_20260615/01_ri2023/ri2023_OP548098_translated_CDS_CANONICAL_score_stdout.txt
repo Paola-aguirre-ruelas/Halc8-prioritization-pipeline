@@ -1,0 +1,21 @@
+=================================================================
+  halc8_score_domains_v1.0  |  score rules: v2.2
+  input-type: domain  |  ss-mode: none
+  started: 2026-06-15T07:51:52.096325+00:00
+=================================================================
+
+Loading: audit_S9_de_novo_20260615/01_ri2023/ri2023_OP548098_translated_CDS_CANONICAL_input.csv
+  1 rows, columns: ['accession', 'sequence', 'category', 'notes']
+
+Validating input...
+  ✓ 1 sequences passed validation
+
+Scoring 1 sequences...
+  OP548098.1              len= 76 aa  Cys=10  score= 7.0/9.0  MOST LIKELY
+
+✓ Scores → audit_S9_de_novo_20260615/01_ri2023/ri2023_OP548098_translated_CDS_CANONICAL_scores.csv  (1 rows)
+
+Verdict summary:
+  MOST LIKELY: 1
+✓ Manifest → audit_S9_de_novo_20260615/01_ri2023/ri2023_OP548098_translated_CDS_CANONICAL_scores.manifest.json
+=================================================================

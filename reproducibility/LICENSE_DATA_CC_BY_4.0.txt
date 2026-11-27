@@ -1,0 +1,7 @@
+Data license: Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+The non-code data files in this reproducibility package, including input tables,
+FASTA files, canonical outputs, audit tables, manifests, and clustering summaries,
+are released under the Creative Commons Attribution 4.0 International License.
+
+License text: https://creativecommons.org/licenses/by/4.0/

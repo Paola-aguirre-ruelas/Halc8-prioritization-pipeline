@@ -1,0 +1,13 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      NF040679.hmm
+# Target file:     precursors_10.fasta
+# Option settings: hmmsearch --tblout ncbifam_precursors_1e5.tblout --domtblout ncbifam_precursors_dom.domtblout --noali -E 1e-5 --cpu 4 NF040679.hmm precursors_10.fasta 
+# Current dir:     <historical_project_root>
+# Date:            Tue May 19 22:31:08 2026
+# [ok]

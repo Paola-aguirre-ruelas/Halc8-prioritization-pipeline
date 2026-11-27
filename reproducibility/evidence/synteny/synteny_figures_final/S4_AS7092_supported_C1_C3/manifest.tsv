@@ -1,0 +1,8 @@
+panel	cluster	candidate_accession	nuccore	display_name	gbk_filename	sha256	sort_order	source_status
+S4	REF	-	DQ137141.1	AS7092 HalC8 reference	AS7092 HalC8 reference.gbk	33c9e3b2fa87d4f605707f7f636f46da8a06086ce87d6c58bfad15ddae1aa351	1	AS7092 reference locus (DQ137141.1) — experimentally characterized cassette
+S4	Cluster 1	WP_242509208.1	NZ.SHMR01000001	C1 . WP_242509208.1 . Natrinema altunense	C1 . WP_242509208.1 . Natrinema altunense.gbk	81122e9f39dba4e2a24c850f883ae94422851c1a702e7ea39ef35cc65e07f9ee	2	curated representative locus
+S4	Cluster 1	WP_238705315.1	NZ.CP040637	C1 . WP_238705315.1 . Natrinema pallidum	C1 . WP_238705315.1 . Natrinema pallidum.gbk	fe72cbf6af588b294622167a10139370aee4ec8f11dd193b9a9d6a94aa3b2319	3	curated representative locus
+S4	Cluster 1	WP_228371019.1	NC.018224	C1 . WP_228371019.1 . Natrinema sp.	C1 . WP_228371019.1 . Natrinema sp..gbk	f2b7ebcb484045526dde38483d344f11adc60e550c00fb5fc0a3f8080c84d4c1	4	curated representative locus
+S4	Cluster 1	WP_211338378.1	NZ.RQWN01000003	C1 . WP_211338378.1 . Haloterrigena salifodinae	C1 . WP_211338378.1 . Haloterrigena salifodinae.gbk	e1905923528bf206b59290b7d0b5373ff92e89411dec327199e68c4e46362782	5	curated representative locus
+S4	Cluster 1	WP_204749171.1	NZ.CP069188	C1 . WP_204749171.1 . Haloterrigena salifodinae	C1 . WP_204749171.1 . Haloterrigena salifodinae.gbk	07837fb2670f98dad0c88a77ef740d3d9c0795e936fc93dab441a6c8afe7d0c7	6	curated representative locus
+S4	Cluster 3	WP_015299281.1	NC.019962	C3 . WP_015299281.1 . Natrinema pellirubrum	C3 . WP_015299281.1 . Natrinema pellirubrum.gbk	cd72b5473d575043343cc39349e46e76a18b640f7e9091de1cf0599b4ed6e778	7	dedicated singleton audit integrated into final S4 figure set

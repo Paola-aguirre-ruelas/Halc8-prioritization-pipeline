@@ -1,0 +1,21 @@
+metric	value
+calibration_n	42
+calibration_min_length	72
+calibration_p5_linear	73.0
+calibration_p5_nearest_rank	73
+calibration_median_length	77.0
+calibration_max_length	81
+calibration_z3_empty_n	0
+calibration_z3_empty_accessions	
+refseq18_n	18
+refseq18_z3_empty_n	1
+refseq18_z3_empty_accessions	WP_010904171.1
+cluster5_length	50
+cluster5_below_calibration_p5_linear	True
+cluster5_below_calibration_p5_nearest_rank	True
+operational_score_positive_n	13
+operational_score_positive_verdict_counts	"{""MOST LIKELY"": 7, ""PROBABLE"": 6}"
+fully_assessable_score_positive_n	12
+fully_assessable_score_positive_verdict_counts	"{""MOST LIKELY"": 7, ""PROBABLE"": 5}"
+imputation_dependent_score_positive_n	1
+imputation_dependent_score_positive_accessions	WP_010904171.1

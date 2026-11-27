@@ -1,0 +1,15 @@
+candidate_accession	nuccore_accession	evaluable_status	linked_halU	linked_halR	linked_proC8	linked_halT1	linked_halT2	linked_halT3	target_halU	target_halR	target_proC8	target_halT1	target_halT2	target_halT3	identity_halU	identity_halR	identity_proC8	identity_halT1	identity_halT2	identity_halT3	n_reference_genes_linked	n_flanking_genes_linked_excluding_proC8	classification	reason
+WP_136361253.1	NZ_CP038631.1	EVALUABLE_FULL_PM15KB	NO	NO	NO	NO	NO	NO													0	0	unsupported	no AS7092-linked genes detected
+WP_136361253.1	NZ_VRYN01000005.1	LIMITED_EDGE_TRUNCATED	NO	NO	NO	NO	NO	NO													0	0	not_assessable	edge-truncated window with no AS7092-linked genes detected
+WP_136361253.1	NZ_JAQMII010000019.1	LIMITED_EDGE_TRUNCATED	NO	NO	NO	NO	NO	NO													0	0	not_assessable	edge-truncated window with no AS7092-linked genes detected
+WP_136361253.1	NZ_JAQMIG010000011.1	EVALUABLE_FULL_PM15KB	NO	NO	NO	NO	NO	NO													0	0	unsupported	no AS7092-linked genes detected
+WP_136361253.1	NZ_JAQMIC010000031.1	EVALUABLE_FULL_PM15KB	NO	NO	NO	NO	NO	NO													0	0	unsupported	no AS7092-linked genes detected
+WP_136361253.1	NZ_JAQMIH010000177.1	LIMITED_EDGE_TRUNCATED	NO	NO	NO	NO	NO	NO													0	0	not_assessable	edge-truncated window with no AS7092-linked genes detected
+WP_136361253.1	NZ_CBCRUN010000010.1	LIMITED_EDGE_TRUNCATED	NO	NO	NO	NO	NO	NO													0	0	not_assessable	edge-truncated window with no AS7092-linked genes detected
+WP_204749171.1	NZ_CP069188.1	EVALUABLE_FULL_PM15KB	YES	YES	YES	YES	NO	NO	WP_204749174.1	WP_204749172.1	WP_204749171.1	WP_204749170.1			0.74	0.76	0.70	0.60			4	3	conserved	proC8 plus >=3 flanking AS7092 genes detected
+WP_211338378.1	NZ_RQWN01000003.1	EVALUABLE_FULL_PM15KB	YES	YES	YES	YES	NO	NO	WP_126664066.1	WP_126664064.1	WP_211338378.1	WP_211338377.1			0.75	0.75	0.71	0.60			4	3	conserved	proC8 plus >=3 flanking AS7092 genes detected
+WP_228371019.1	NC_018224.1	EVALUABLE_FULL_PM15KB	YES	NO	YES	YES	YES	YES	WP_014862871.1		WP_228371019.1	WP_014862874.1	WP_014862875.1	WP_014862876.1	0.89		0.37	0.82	0.94	0.83	5	4	conserved	proC8 plus >=3 flanking AS7092 genes detected
+WP_228371019.1	NZ_AJVG01000001.1	EVALUABLE_FULL_PM15KB	YES	NO	YES	YES	YES	YES	WP_049899082.1		WP_228371019.1	WP_049899084.1	WP_014862875.1	WP_049899087.1	0.89		0.37	0.81	0.94	0.82	5	4	conserved	proC8 plus >=3 flanking AS7092 genes detected
+WP_238705315.1	NZ_CP040637.1	EVALUABLE_FULL_PM15KB	YES	YES	YES	YES	YES	YES	WP_138655396.1	WP_138655398.1	WP_238705315.1	WP_138655404.1	WP_138655406.1	WP_006184994.1	0.87	0.86	0.92	0.84	0.94	0.83	6	5	conserved	proC8 plus >=3 flanking AS7092 genes detected
+WP_238705315.1	NZ_CP171781.1	EVALUABLE_FULL_PM15KB	YES	YES	YES	YES	YES	YES	WP_138655396.1	WP_138655398.1	WP_238705315.1	WP_138655404.1	WP_138655406.1	WP_006184994.1	0.87	0.86	0.92	0.84	0.94	0.83	6	5	conserved	proC8 plus >=3 flanking AS7092 genes detected
+WP_242509208.1	NZ_SHMR01000001.1	EVALUABLE_FULL_PM15KB	YES	YES	YES	YES	YES	YES	WP_130169856.1	WP_130169854.1	WP_242509208.1	WP_130169853.1	WP_130169852.1	WP_130169851.1	0.95	0.97	0.97	0.86	0.99	0.85	6	5	conserved	proC8 plus >=3 flanking AS7092 genes detected

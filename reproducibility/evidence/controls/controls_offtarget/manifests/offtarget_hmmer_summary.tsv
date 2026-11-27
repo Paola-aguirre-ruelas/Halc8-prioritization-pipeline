@@ -1,0 +1,4 @@
+organism	proteins_screened	hmm_positive_domains_iEvalue_le_1e-10
+bsubtilis_168	4237	       0
+ecoli_k12_mg1655	4300	       0
+sacidocaldarius_dsm639	2290	       0

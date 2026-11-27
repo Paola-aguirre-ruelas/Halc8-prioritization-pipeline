@@ -1,0 +1,14 @@
+#                                                                                                                                       --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                                                                                accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#                                                                        ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GCF_000025625.1|WP_148221922.1|len40_120|0667|Natrialba_magadii|len66|cys4|PROBABLE|score5.5 -          HalC8_v2.2           -            9.4e-06   14.2   2.6   1.4e-05   13.6   2.6   1.3   1   1   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      HalC8_custom_v2.2.hmm
+# Target file:     audit_S7_canonical_20260614/rerun_genome_pilot/hmm_check_leakage/genome_pilot_4_PROBABLE_leakage_events.faa
+# Option settings: hmmsearch --tblout audit_S7_canonical_20260614/rerun_genome_pilot/hmm_check_leakage/leakage4_vs_HalC8.tbl --domtblout audit_S7_canonical_20260614/rerun_genome_pilot/hmm_check_leakage/leakage4_vs_HalC8.domtbl --noali HalC8_custom_v2.2.hmm audit_S7_canonical_20260614/rerun_genome_pilot/hmm_check_leakage/genome_pilot_4_PROBABLE_leakage_events.faa 
+# Current dir:     <historical_project_root>
+# Date:            Mon Jun 15 00:39:08 2026
+# [ok]

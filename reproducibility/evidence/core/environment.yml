@@ -1,0 +1,12 @@
+name: halc8-prioritizer
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.13.12
+  - numpy=2.4.4
+  - pandas=3.0.2
+  - hmmer=3.4
+  - cd-hit=4.8.1
+  - mmseqs2=18.8cc5c

@@ -1,0 +1,64 @@
+{
+  "analysis": "S8 de novo HMM-only comparison on canonical n=39 mature-domain-compatible calibration set",
+  "hmmer_version": "# HMMER 3.4 (Aug 2023); http://hmmer.org/",
+  "primary_classification_rule": "HMM-positive if best independent-domain E-value <= 1e-10",
+  "secondary_check": "sequence-level E-value <= 1e-10",
+  "n39_fasta": "audit_S8_de_novo_20260615/01_build_sets/calibration_39_CANONICAL_for_HMMER.faa",
+  "n39_fasta_sha256": "fa6a1d8a9f69149424c2e0a1d68e84524ca3b87a5432b1c20dc6a77f01ce53e8",
+  "n39_labels": "audit_S8_de_novo_20260615/01_build_sets/calibration_39_CANONICAL_labels.tsv",
+  "n39_labels_sha256": "feced8327db0354161e8d0252e82abe13dce850b5f6e9ab43926859271b57e15",
+  "n_labels": 39,
+  "label_counts": {
+    "NEGATIVE": 16,
+    "POSITIVE": 23
+  },
+  "models": {
+    "HalC8_custom_v2.2": {
+      "hmm": "HalC8_custom_v2.2.hmm",
+      "sha256": "20f0c6643d7a714a6685bb55c30706b17003f27b425d9298fc5fa52189d69930"
+    },
+    "TIGR04449": {
+      "hmm": "TIGR04449.hmm",
+      "sha256": "fc9b8be63a4c7e66d7812924c00b993b7be717dfaa77f1bf774ae88552e977a1"
+    },
+    "PF22862": {
+      "hmm": "PF22862.hmm",
+      "sha256": "8c5db1ac099cc9a0667d59a426f15b0096a8fec61ca5c913b8afe0c5e37867a9"
+    }
+  },
+  "commands": {
+    "HalC8_custom_v2.2": {
+      "command": "hmmsearch --cpu 4 --max --noali -E 1000 --domE 1000 --tblout audit_S8_de_novo_20260615/02_hmmer/HalC8_custom_v2.tblout --domtblout audit_S8_de_novo_20260615/02_hmmer/HalC8_custom_v2.domtblout HalC8_custom_v2.2.hmm audit_S8_de_novo_20260615/01_build_sets/calibration_39_CANONICAL_for_HMMER.faa",
+      "tblout": "audit_S8_de_novo_20260615/02_hmmer/HalC8_custom_v2.tblout",
+      "tblout_sha256": "aeb4d832fde6208f5fdb0d0e6667cd0805f2306b260f2fa70d2d31d5a4d05eb4",
+      "domtblout": "audit_S8_de_novo_20260615/02_hmmer/HalC8_custom_v2.domtblout",
+      "domtblout_sha256": "52a106732136a13e1f141b71954b4f0b5597dc30324d639ac3369d086acecaa3",
+      "stdout": "audit_S8_de_novo_20260615/02_hmmer/HalC8_custom_v2.hmmsearch.txt",
+      "stdout_sha256": "e50b54ad62d6acf4f44921237bb21b99fc92c37f379ab3c992e9f629eb82f289"
+    },
+    "TIGR04449": {
+      "command": "hmmsearch --cpu 4 --max --noali -E 1000 --domE 1000 --tblout audit_S8_de_novo_20260615/02_hmmer/TIGR04449_vs_n39_CANONICAL.tblout --domtblout audit_S8_de_novo_20260615/02_hmmer/TIGR04449_vs_n39_CANONICAL.domtblout TIGR04449.hmm audit_S8_de_novo_20260615/01_build_sets/calibration_39_CANONICAL_for_HMMER.faa",
+      "tblout": "audit_S8_de_novo_20260615/02_hmmer/TIGR04449_vs_n39_CANONICAL.tblout",
+      "tblout_sha256": "e1fdea2022662026a398a483409f482f5eda934457a0cc9128ddc2a1fb8df3cb",
+      "domtblout": "audit_S8_de_novo_20260615/02_hmmer/TIGR04449_vs_n39_CANONICAL.domtblout",
+      "domtblout_sha256": "3be3d10f6d1206d76e2652883220539e73b5123859b199ce449f8bfa716285f0",
+      "stdout": "audit_S8_de_novo_20260615/02_hmmer/TIGR04449_vs_n39_CANONICAL.hmmsearch.txt",
+      "stdout_sha256": "55e71fff796545c50c92e3c41b2c4a82ff51a3a55b520d68db41665ac3fd103f"
+    },
+    "PF22862": {
+      "command": "hmmsearch --cpu 4 --max --noali -E 1000 --domE 1000 --tblout audit_S8_de_novo_20260615/02_hmmer/PF22862_vs_n39_CANONICAL.tblout --domtblout audit_S8_de_novo_20260615/02_hmmer/PF22862_vs_n39_CANONICAL.domtblout PF22862.hmm audit_S8_de_novo_20260615/01_build_sets/calibration_39_CANONICAL_for_HMMER.faa",
+      "tblout": "audit_S8_de_novo_20260615/02_hmmer/PF22862_vs_n39_CANONICAL.tblout",
+      "tblout_sha256": "810265c56f8b4a3280ad75c5653ddeec75bd9747bb145f98c65b24f65ec5c154",
+      "domtblout": "audit_S8_de_novo_20260615/02_hmmer/PF22862_vs_n39_CANONICAL.domtblout",
+      "domtblout_sha256": "b015beb46a2d251450dda833f0d66254cd92ec50399a56fc6a633ab33163507c",
+      "stdout": "audit_S8_de_novo_20260615/02_hmmer/PF22862_vs_n39_CANONICAL.hmmsearch.txt",
+      "stdout_sha256": "47f3656885db6a101f1f427c5ef2f5c3f2c15ef3f0b89a8c992a59fde40e543c"
+    }
+  },
+  "outputs": {
+    "per_sequence": "audit_S8_de_novo_20260615/03_metrics/S8_HMMER_n39_CANONICAL_per_sequence.tsv",
+    "per_sequence_sha256": "350da1b790bc4143eb4a3092a1b5c2009df58b92dab81b3b24a0d4a7a5824d29",
+    "metrics": "audit_S8_de_novo_20260615/03_metrics/S8_HMMER_n39_CANONICAL_metrics.tsv",
+    "metrics_sha256": "793a813ffd5a9a1f653557216f9795ab0f55b467c98b57d859c1ec463ad8e4bd"
+  }
+}

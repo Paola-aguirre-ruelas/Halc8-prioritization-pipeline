@@ -1,0 +1,41 @@
+candidate_accession	nuccore_accession	evaluable_status	linked_halU	linked_halR	linked_proC8	linked_halT1	linked_halT2	linked_halT3	target_halU	target_halR	target_proC8	target_halT1	target_halT2	target_halT3	identity_halU	identity_halR	identity_proC8	identity_halT1	identity_halT2	identity_halT3	n_reference_genes_linked	n_flanking_genes_linked_excluding_proC8	classification	reason
+WP_004043226.1	NC_013966.1	EVALUABLE_FULL_PM15KB	NO	NO	NO	NO	NO	NO													0	0	unsupported	no AS7092-linked genes detected
+WP_004043226.1	NZ_AOHU01000058.1	EVALUABLE_FULL_PM15KB	NO	NO	NO	NO	NO	NO													0	0	unsupported	no AS7092-linked genes detected
+WP_004043226.1	NZ_JAERQW010000017.1	EVALUABLE_FULL_PM15KB	NO	NO	NO	NO	NO	NO													0	0	unsupported	no AS7092-linked genes detected
+WP_004043226.1	NZ_JAERQX010000017.1	EVALUABLE_FULL_PM15KB	NO	NO	NO	NO	NO	NO													0	0	unsupported	no AS7092-linked genes detected
+WP_004043226.1	NZ_JAERQV010000018.1	EVALUABLE_FULL_PM15KB	NO	NO	NO	NO	NO	NO													0	0	unsupported	no AS7092-linked genes detected
+WP_004043226.1	NZ_JAERQU010000018.1	EVALUABLE_FULL_PM15KB	NO	NO	NO	NO	NO	NO													0	0	unsupported	no AS7092-linked genes detected
+WP_004043226.1	NZ_JAWSTJ010000019.1	EVALUABLE_FULL_PM15KB	NO	NO	NO	NO	NO	NO													0	0	unsupported	no AS7092-linked genes detected
+WP_004043226.1	NZ_JBWJSN010000024.1	LIMITED_EDGE_TRUNCATED	NO	NO	NO	NO	NO	NO													0	0	not_assessable	edge-truncated window with no AS7092-linked genes detected
+WP_004975848.1	NZ_AOLJ01000018.1	EVALUABLE_FULL_PM15KB	NO	NO	NO	NO	NO	NO													0	0	unsupported	no AS7092-linked genes detected
+WP_004975848.1	NZ_CP011947.1	EVALUABLE_FULL_PM15KB	NO	NO	NO	NO	NO	NO													0	0	unsupported	no AS7092-linked genes detected
+WP_006600928.1	NZ_AOLL01000022.1	LIMITED_EDGE_TRUNCATED	NO	NO	NO	NO	NO	NO													0	0	not_assessable	edge-truncated window with no AS7092-linked genes detected
+WP_006600928.1	NZ_PSYT01000004.1	EVALUABLE_FULL_PM15KB	NO	NO	NO	NO	NO	NO													0	0	unsupported	no AS7092-linked genes detected
+WP_006600928.1	NZ_PSYS01000005.1	EVALUABLE_FULL_PM15KB	NO	NO	NO	NO	NO	NO													0	0	unsupported	no AS7092-linked genes detected
+WP_006600928.1	NZ_QPLP01000004.1	EVALUABLE_FULL_PM15KB	NO	NO	NO	NO	NO	NO													0	0	unsupported	no AS7092-linked genes detected
+WP_006600928.1	NZ_QPLO01000003.1	EVALUABLE_FULL_PM15KB	NO	NO	NO	NO	NO	NO													0	0	unsupported	no AS7092-linked genes detected
+WP_006600928.1	NZ_VMTR01000033.1	LIMITED_EDGE_TRUNCATED	NO	NO	NO	NO	NO	NO													0	0	not_assessable	edge-truncated window with no AS7092-linked genes detected
+WP_006600928.1	NZ_CP048738.1	EVALUABLE_FULL_PM15KB	NO	NO	NO	NO	NO	NO													0	0	unsupported	no AS7092-linked genes detected
+WP_006600928.1	NZ_WOWC01000001.1	EVALUABLE_FULL_PM15KB	NO	NO	NO	NO	NO	NO													0	0	unsupported	no AS7092-linked genes detected
+WP_006600928.1	NZ_SPSA01000002.1	EVALUABLE_FULL_PM15KB	NO	NO	NO	NO	NO	NO													0	0	unsupported	no AS7092-linked genes detected
+WP_006600928.1	NZ_CP104743.1	EVALUABLE_FULL_PM15KB	NO	NO	NO	NO	NO	NO													0	0	unsupported	no AS7092-linked genes detected
+WP_006600928.1	NZ_CP106968.1	EVALUABLE_FULL_PM15KB	NO	NO	NO	NO	NO	NO													0	0	unsupported	no AS7092-linked genes detected
+WP_006600928.1	NZ_JAUDRO010000005.1	EVALUABLE_FULL_PM15KB	NO	NO	NO	NO	NO	NO													0	0	unsupported	no AS7092-linked genes detected
+WP_006600928.1	NZ_JAWLKZ010000023.1	EVALUABLE_FULL_PM15KB	NO	NO	NO	NO	NO	NO													0	0	unsupported	no AS7092-linked genes detected
+WP_006600928.1	NZ_JBJGAC010000005.1	LIMITED_EDGE_TRUNCATED	NO	NO	NO	NO	NO	NO													0	0	not_assessable	edge-truncated window with no AS7092-linked genes detected
+WP_006600928.1	NZ_CP137692.1	EVALUABLE_FULL_PM15KB	NO	NO	NO	NO	NO	NO													0	0	unsupported	no AS7092-linked genes detected
+WP_006600928.1	NZ_CP191801.1	EVALUABLE_FULL_PM15KB	NO	NO	NO	NO	NO	NO													0	0	unsupported	no AS7092-linked genes detected
+WP_010904171.1	NC_002608.1	EVALUABLE_FULL_PM15KB	NO	NO	NO	NO	NO	NO													0	0	unsupported	no AS7092-linked genes detected
+WP_010904171.1	NC_010368.1	EVALUABLE_FULL_PM15KB	NO	NO	NO	NO	NO	NO													0	0	unsupported	no AS7092-linked genes detected
+WP_010904171.1	NZ_BK010831.1	EVALUABLE_FULL_PM15KB	NO	NO	NO	NO	NO	NO													0	0	unsupported	no AS7092-linked genes detected
+WP_010904171.1	NZ_JACHGX010000006.1	EVALUABLE_FULL_PM15KB	NO	NO	NO	NO	NO	NO													0	0	unsupported	no AS7092-linked genes detected
+WP_010904171.1	NZ_CP085883.1	EVALUABLE_FULL_PM15KB	NO	NO	NO	NO	NO	NO													0	0	unsupported	no AS7092-linked genes detected
+WP_010904171.1	NZ_JBJXVP010000007.1	LIMITED_EDGE_TRUNCATED	NO	NO	NO	NO	NO	NO													0	0	not_assessable	edge-truncated window with no AS7092-linked genes detected
+WP_010904171.1	NZ_JBJXVP010000009.1	LIMITED_EDGE_TRUNCATED	NO	NO	NO	NO	NO	NO													0	0	not_assessable	edge-truncated window with no AS7092-linked genes detected
+WP_010904171.1	NZ_JBJXVP010000010.1	LIMITED_EDGE_TRUNCATED	NO	NO	NO	NO	NO	NO													0	0	not_assessable	edge-truncated window with no AS7092-linked genes detected
+WP_010904171.1	NZ_JBJXVP010000012.1	EVALUABLE_FULL_PM15KB	NO	NO	NO	NO	NO	NO													0	0	unsupported	no AS7092-linked genes detected
+WP_010904171.1	NZ_JBJXVS010000009.1	EVALUABLE_FULL_PM15KB	NO	NO	NO	NO	NO	NO													0	0	unsupported	no AS7092-linked genes detected
+WP_010904171.1	NZ_JBJXVO010000010.1	LIMITED_EDGE_TRUNCATED	NO	NO	NO	NO	NO	NO													0	0	not_assessable	edge-truncated window with no AS7092-linked genes detected
+WP_010904171.1	NZ_JBJXVN010000004.1	LIMITED_EDGE_TRUNCATED	NO	NO	NO	NO	NO	NO													0	0	not_assessable	edge-truncated window with no AS7092-linked genes detected
+WP_115805229.1	NZ_PSYY01000002.1	EVALUABLE_FULL_PM15KB	NO	NO	NO	NO	NO	NO													0	0	unsupported	no AS7092-linked genes detected
+WP_255409965.1	NZ_PSYX01000079.1	LIMITED_EDGE_TRUNCATED	NO	NO	NO	NO	NO	NO													0	0	not_assessable	edge-truncated window with no AS7092-linked genes detected
