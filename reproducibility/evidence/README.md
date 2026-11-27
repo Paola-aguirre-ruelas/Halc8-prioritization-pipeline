@@ -26,7 +26,7 @@ The second command checks artifact hashes, the reconstructed RefSeq extraction (
 
 Historical files retain their original analytical names and relative paths. Some scripts require the original directory layout; use copies, not archived outputs, for reruns. Local user paths have been redacted where necessary. PROVENANCE.tsv identifies every selected original and distinguishes changed bytes from originals. Historical manifests may reference original hashes and paths. SHA256SUMS.txt describes this evidence package, not the historical archive.
 
-Historical NCBI Revision History screenshots underlying Table S10 were not recovered; this package does not independently verify their dated statuses. No experimental activity or unseen-population validation is claimed. Supporting artifacts for the retrospective TG-1 comparison are not yet included.
+Historical NCBI Revision History screenshots underlying Table S10 were not recovered; this package does not independently verify their dated statuses. No experimental activity or unseen-population validation is claimed. The [TG-1 comparison](comparators/tg1/README.md) includes the archived query and score, five Cluster 4 comparisons and executable checks. It is retrospective, not prospective validation.
 
 ## Remaining limitations
 

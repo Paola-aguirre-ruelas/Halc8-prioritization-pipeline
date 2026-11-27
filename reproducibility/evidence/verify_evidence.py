@@ -37,4 +37,26 @@ cl=HERE/'clustering/clustering_n13_canonical_20260613/tables/cluster_counts_n13_
 check([(r['cdhit_clusters'],r['mmseqs_clusters']) for r in rows(cl)]==[(str(i),str(i)) for i in (9,7,5,4)],'archived n13 cluster counts')
 loc=rows(HERE/'synteny/reconciliation/locus_inventory_56_RECONCILED.tsv','\t')
 check(len(loc)==56 and len({(r['candidate_accession'],r['nuccore_accession']) for r in loc})==56 and sum(r['evaluable_status']=='EVALUABLE_FULL_PM15KB' for r in loc)==42,'56 locus records; 42 full')
+# TG-1: verify the published five-record comparison against existing inputs.
+t=HERE/'comparators/tg1'
+qrows=rows(t/'query.csv'); q=qrows[0]['sequence']
+check(len(qrows)==1 and len(q)==77,'TG-1 query length')
+map_rows=rows(HERE/'clustering/cluster_id_mapping.tsv','\t')
+historical={r['historical_id'] for r in map_rows if r['manuscript_id']=='4'}
+members=rows(HERE/'clustering/clustering_n13_canonical_20260613/tables/cluster_membership_n13_cdhit_0.90.tsv','\t')
+ids={a for r in members if r['cluster_id'] in historical for a in r['members'].split(',')}
+seqs={r['accession'].split('_domain')[0]:r['sequence'] for r in rows(ROOT/'reproducibility/data/refseq18_for_scoring.csv')}
+actual={}
+for a in ids:
+    b=seqs[a]
+    check(len(b)==len(q),'TG-1 comparison length '+a)
+    diffs=','.join(f'{x}{i}{y}' for i,(x,y) in enumerate(zip(q,b),1) if x!=y) or '-'
+    actual[a]=(sum(x==y for x,y in zip(q,b)),len(q),diffs)
+archived=rows(t/'cluster4_identity.tsv','\t')
+check(len(archived)==5 and actual=={r['accession']:(int(r['matches']),int(r['alignment_length']),r['substitutions']) for r in archived} and sorted(actual.values())==[(75,77,'V4I,A71V')]*2+[(77,77,'-')]*3,'TG-1: three exact matches, two 75/77 matches')
+with tempfile.TemporaryDirectory() as d:
+    out=Path(d)/'tg1.csv'
+    subprocess.run([sys.executable,str(ROOT/'halc8_score_domains.py'),'--input',str(t/'query.csv'),'--output',str(out),'--input-type','domain','--ss-mode','none'],check=True,stdout=subprocess.DEVNULL)
+    result=rows(out)
+    check(out.read_bytes()==(t/'score.csv').read_bytes() and len(result)==1 and float(result[0]['total_score_9'])==6.0 and result[0]['verdict_v2']=='PROBABLE','TG-1 score: 6.0 PROBABLE')
 print('Selected evidence checks: PASS (not full workflow reproduction)')
