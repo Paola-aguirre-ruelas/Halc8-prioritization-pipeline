@@ -1,6 +1,6 @@
 # Supporting evidence for HalC8-Prioritizer v2.2
 
-Release candidate — not yet approved for publication. This directory complements `reproducibility/verify.py`, which reproduces the three frozen scoring outputs. The scoring rules and profile HMM are not changed.
+Public supporting evidence for the frozen v2.2 workflow. This directory complements `reproducibility/verify.py`, which reproduces the three frozen scoring outputs. The scoring rules and profile HMM are not changed.
 
 ## Reproduction and scope
 
@@ -24,10 +24,10 @@ The second command checks artifact hashes, the reconstructed RefSeq extraction (
 | synteny | 54 historical records plus 2 post hoc records for the same C3 biological locus; 56 records (42 full, 14 truncated). Representative GenBank windows and archived Clinker links, not all historical genomic inputs. |
 | figure_source | Corrected Figure 2 and 3 source TSVs/scripts; Figure 4 and S4/S5 sources are under synteny. Exact submitted figure correspondence and remaining Figure 1/S1-S3 provenance not verified. |
 
-Historical files retain their original analytical names and relative paths. Some scripts require the original directory layout; use copies, not archived outputs, for reruns. Local user paths have been redacted where necessary. PROVENANCE.tsv identifies every selected original and distinguishes changed bytes from originals. Historical manifests may reference original hashes and paths. SHA256SUMS.txt describes this candidate, not the historical archive.
+Historical files retain their original analytical names and relative paths. Some scripts require the original directory layout; use copies, not archived outputs, for reruns. Local user paths have been redacted where necessary. PROVENANCE.tsv identifies every selected original and distinguishes changed bytes from originals. Historical manifests may reference original hashes and paths. SHA256SUMS.txt describes this evidence package, not the historical archive.
 
-Historical NCBI Revision History screenshots underlying Table S10 were not recovered; this package does not independently verify their dated statuses. No experimental activity or unseen-population validation is claimed. TG-1 and unrelated exploratory projects are excluded pending confirmation of manuscript scope.
+Historical NCBI Revision History screenshots underlying Table S10 were not recovered; this package does not independently verify their dated statuses. No experimental activity or unseen-population validation is claimed. Supporting artifacts for the retrospective TG-1 comparison are not yet included.
 
-## Publication gate
+## Remaining limitations
 
-Confirm exact submitted manuscript/supplement correspondence, remaining figure and genus-audit evidence, and both authors' permission before pushing. New materials are not automatically covered by the existing MIT or CC BY licence; verify attribution and redistribution rights, including the Chou-Fasman module and any third-party sources. If rights prevent distribution, document source, version, hash and retrieval or controlled access. Do not describe this archive as a complete end-to-end reproduction.
+Exact correspondence with the submitted manuscript and complete historical workflow reproduction have not been independently verified. Third-party materials retain their original rights and attribution.

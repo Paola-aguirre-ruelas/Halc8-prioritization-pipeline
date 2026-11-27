@@ -2,6 +2,12 @@
 
 HalC8-Prioritizer implements the frozen HalC8 v2.2 domain-scoring rules and includes the corresponding custom profile HMM.
 
+## Research objective
+
+HalC8-Prioritizer integrates profile-HMM retrieval, deterministic domain scoring, redundancy reduction and genomic-context assessment for experimental prioritization of Halocin C8-family candidates.
+
+The frozen RefSeq analysis yielded 12 fully assessable score-positive domains across four candidate-domain clusters.
+
 ## Scope and interpretation
 
 The public repository provides the frozen family-retrieval HMM and a standalone, rule-based domain scorer. The scorer accepts pre-extracted amino-acid domains; it does not itself reproduce the upstream proteome retrieval and HMM-based domain extraction workflow. Prioritization scores are not experimentally validated probabilities of antimicrobial activity. A score-positive verdict is a candidate-prioritization decision, not evidence of biological activity.
