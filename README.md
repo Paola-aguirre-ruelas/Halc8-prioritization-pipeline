@@ -54,6 +54,13 @@ The first command reproduces three archived scoring tables; the second checks se
 
 See `LICENSE` for software and [data license scope](reproducibility/LICENSE_DATA_CC_BY_4.0.txt) for author-owned data. Third-party material retains its original provenance and applicable rights.
 
+## Archived reproducibility package
+
+- [Reproducibility release v1.1.0](https://doi.org/10.5281/zenodo.24597499)
+- [Original archived version](https://doi.org/10.5281/zenodo.21132825)
+
+The frozen scientific workflow remains v2.2.
+
 ## Data provenance
 
 The 2021 prior-label table used for calibration-frame provenance is archived at Zenodo: https://doi.org/10.5281/zenodo.21116990. This table is used as a historical prior-label framework, not as an experimentally validated benchmark or independent external validation set.

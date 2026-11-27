@@ -10,7 +10,8 @@ authors:
 repository-code: "https://github.com/Paola-aguirre-ruelas/Halc8-prioritization-pipeline"
 url: "https://github.com/Paola-aguirre-ruelas/Halc8-prioritization-pipeline"
 license: MIT
-version: "2.2"
+version: "1.1.0"
+doi: "10.5281/zenodo.24597499"
 keywords:
   - HalC8
   - halocins
